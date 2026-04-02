@@ -1,0 +1,371 @@
+{
+  "llm": "claude",
+  "domain": "finance",
+  "citations": [
+    {
+      "authors": [
+        "Lessmann, S.",
+        "Baesens, B.",
+        "Seow, H.-V.",
+        "Thomas, L.C."
+      ],
+      "title": "Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research",
+      "journal": "European Journal of Operational Research",
+      "year": 2015,
+      "volume": "247",
+      "issue": "1",
+      "pages": "124-136",
+      "doi": "10.1016/j.ejor.2015.05.030"
+    },
+    {
+      "authors": [
+        "Khandani, A.E.",
+        "Kim, A.J.",
+        "Lo, A.W."
+      ],
+      "title": "Consumer credit-risk models via machine-learning algorithms",
+      "journal": "Journal of Banking & Finance",
+      "year": 2010,
+      "volume": "34",
+      "issue": "11",
+      "pages": "2767-2787",
+      "doi": "10.1016/j.jbankfin.2010.06.001"
+    },
+    {
+      "authors": [
+        "Barboza, F.",
+        "Kimura, H.",
+        "Altman, E."
+      ],
+      "title": "Machine learning models and bankruptcy prediction",
+      "journal": "Expert Systems with Applications",
+      "year": 2017,
+      "volume": "83",
+      "issue": null,
+      "pages": "405-417",
+      "doi": "10.1016/j.eswa.2017.04.006"
+    },
+    {
+      "authors": [
+        "Butaru, F.",
+        "Chen, Q.",
+        "Clark, B.",
+        "Das, S.",
+        "Lo, A.W.",
+        "Siddique, A."
+      ],
+      "title": "Risk and risk management in the credit card industry",
+      "journal": "Journal of Banking & Finance",
+      "year": 2016,
+      "volume": "72",
+      "issue": null,
+      "pages": "218-239",
+      "doi": "10.1016/j.jbankfin.2016.07.015"
+    },
+    {
+      "authors": [
+        "Gu, S.",
+        "Kelly, B.",
+        "Xiu, D."
+      ],
+      "title": "Empirical asset pricing via machine learning",
+      "journal": "The Review of Financial Studies",
+      "year": 2020,
+      "volume": "33",
+      "issue": "5",
+      "pages": "2223-2273",
+      "doi": "10.1093/rfs/hhaa009"
+    },
+    {
+      "authors": [
+        "Feng, G.",
+        "Giglio, S.",
+        "Xiu, D."
+      ],
+      "title": "Taming the factor zoo: A test of new factors",
+      "journal": "The Journal of Finance",
+      "year": 2020,
+      "volume": "75",
+      "issue": "3",
+      "pages": "1327-1370",
+      "doi": "10.1111/jofi.12883"
+    },
+    {
+      "authors": [
+        "Bao, W.",
+        "Yue, J.",
+        "Rao, Y."
+      ],
+      "title": "A deep learning framework for financial time series using stacked autoencoders and long-short term memory",
+      "journal": "PLOS ONE",
+      "year": 2017,
+      "volume": "12",
+      "issue": "7",
+      "pages": "e0180944",
+      "doi": "10.1371/journal.pone.0180944"
+    },
+    {
+      "authors": [
+        "Sirignano, J.",
+        "Sadhwani, A.",
+        "Giesecke, K."
+      ],
+      "title": "Deep learning for mortgage risk",
+      "journal": "Journal of Financial Econometrics",
+      "year": 2021,
+      "volume": "19",
+      "issue": "2",
+      "pages": "313-368",
+      "doi": "10.1093/jjfinec/nbaa023"
+    },
+    {
+      "authors": [
+        "Tobback, E.",
+        "Martens, D."
+      ],
+      "title": "Retail credit scoring using fine-grained payment data",
+      "journal": "Journal of the Royal Statistical Society: Series A",
+      "year": 2019,
+      "volume": "182",
+      "issue": "4",
+      "pages": "1227-1246",
+      "doi": "10.1111/rssa.12469"
+    },
+    {
+      "authors": [
+        "Xia, Y.",
+        "Liu, C.",
+        "Li, Y.Y.",
+        "Liu, N."
+      ],
+      "title": "A boosted decision tree approach using Bayesian hyper-parameter optimization for credit scoring",
+      "journal": "Expert Systems with Applications",
+      "year": 2017,
+      "volume": "78",
+      "issue": null,
+      "pages": "225-241",
+      "doi": "10.1016/j.eswa.2017.02.017"
+    },
+    {
+      "authors": [
+        "Addo, P.M.",
+        "Guegan, D.",
+        "Hassani, B."
+      ],
+      "title": "Credit risk analysis using machine and deep learning models",
+      "journal": "Risks",
+      "year": 2018,
+      "volume": "6",
+      "issue": "2",
+      "pages": "38",
+      "doi": "10.3390/risks6020038"
+    },
+    {
+      "authors": [
+        "Gu, S.",
+        "Kelly, B.",
+        "Xiu, D."
+      ],
+      "title": "Autoencoder asset pricing models",
+      "journal": "Journal of Econometrics",
+      "year": 2021,
+      "volume": "222",
+      "issue": "1",
+      "pages": "429-450",
+      "doi": "10.1016/j.jeconom.2020.07.009"
+    },
+    {
+      "authors": [
+        "Gunnarsson, B.R.",
+        "vanden Broucke, S.",
+        "Baesens, B.",
+        "Óskarsdóttir, M.",
+        "Lemahieu, W."
+      ],
+      "title": "Deep learning for credit scoring: Do or don't?",
+      "journal": "European Journal of Operational Research",
+      "year": 2021,
+      "volume": "295",
+      "issue": "1",
+      "pages": "292-305",
+      "doi": "10.1016/j.ejor.2021.03.006"
+    },
+    {
+      "authors": [
+        "Heaton, J.B.",
+        "Polson, N.G.",
+        "Witte, J.H."
+      ],
+      "title": "Deep learning for finance: deep portfolios",
+      "journal": "Applied Stochastic Models in Business and Industry",
+      "year": 2017,
+      "volume": "33",
+      "issue": "1",
+      "pages": "3-12",
+      "doi": "10.1002/asmb.2209"
+    },
+    {
+      "authors": [
+        "Fischer, T.",
+        "Krauss, C."
+      ],
+      "title": "Deep learning with long short-term memory networks for financial market predictions",
+      "journal": "European Journal of Operational Research",
+      "year": 2018,
+      "volume": "270",
+      "issue": "2",
+      "pages": "654-669",
+      "doi": "10.1016/j.ejor.2017.11.054"
+    },
+    {
+      "authors": [
+        "Moscato, V.",
+        "Picariello, A.",
+        "Sperlí, G."
+      ],
+      "title": "A benchmark of machine learning approaches for credit score prediction",
+      "journal": "Expert Systems with Applications",
+      "year": 2021,
+      "volume": "165",
+      "issue": null,
+      "pages": "113986",
+      "doi": "10.1016/j.eswa.2020.113986"
+    },
+    {
+      "authors": [
+        "Kvamme, H.",
+        "Sellereite, N.",
+        "Aas, K.",
+        "Sjursen, S."
+      ],
+      "title": "Predicting mortgage default using convolutional neural networks",
+      "journal": "Expert Systems with Applications",
+      "year": 2018,
+      "volume": "102",
+      "issue": null,
+      "pages": "207-217",
+      "doi": "10.1016/j.eswa.2018.02.029"
+    },
+    {
+      "authors": [
+        "Bussmann, N.",
+        "Giudici, P.",
+        "Marinelli, D.",
+        "Papenbrock, J."
+      ],
+      "title": "Explainable machine learning in credit risk management",
+      "journal": "Computational Economics",
+      "year": 2021,
+      "volume": "57",
+      "issue": "1",
+      "pages": "203-216",
+      "doi": "10.1007/s10614-020-10042-0"
+    },
+    {
+      "authors": [
+        "Óskarsdóttir, M.",
+        "Bravo, C.",
+        "Sarraute, C.",
+        "Vanthienen, J.",
+        "Baesens, B."
+      ],
+      "title": "The value of big data for credit scoring",
+      "journal": "Applied Soft Computing",
+      "year": 2019,
+      "volume": "74",
+      "issue": null,
+      "pages": "26-39",
+      "doi": "10.1016/j.asoc.2018.10.004"
+    },
+    {
+      "authors": [
+        "Bequé, A.",
+        "Lessmann, S."
+      ],
+      "title": "Extreme learning machines for credit scoring: An empirical evaluation",
+      "journal": "Expert Systems with Applications",
+      "year": 2017,
+      "volume": "86",
+      "issue": null,
+      "pages": "42-53",
+      "doi": "10.1016/j.eswa.2017.05.050"
+    },
+    {
+      "authors": [
+        "Jiang, C.",
+        "Wang, Z.",
+        "Wang, R.",
+        "Ding, Y."
+      ],
+      "title": "Loan default prediction by combining soft information extracted from descriptive text in online peer-to-peer lending",
+      "journal": "Annals of Operations Research",
+      "year": 2018,
+      "volume": "266",
+      "issue": "1-2",
+      "pages": "511-529",
+      "doi": "10.1007/s10479-017-2668-z"
+    },
+    {
+      "authors": [
+        "Chen, S.",
+        "Härdle, W.K.",
+        "Moro, R.A."
+      ],
+      "title": "Modeling default risk with support vector machines",
+      "journal": "Quantitative Finance",
+      "year": 2011,
+      "volume": "11",
+      "issue": "1",
+      "pages": "135-154",
+      "doi": "10.1080/14697680903410015"
+    },
+    {
+      "authors": [
+        "Figini, S.",
+        "Giudici, P."
+      ],
+      "title": "Statistical merging of rating models",
+      "journal": "Journal of the Operational Research Society",
+      "year": 2011,
+      "volume": "62",
+      "issue": "6",
+      "pages": "1067-1074",
+      "doi": "10.1057/jors.2010.41"
+    },
+    {
+      "authors": [
+        "Dumitrescu, E.",
+        "Hué, S.",
+        "Hurlin, C.",
+        "Tokpavi, S."
+      ],
+      "title": "Machine learning for credit scoring: Improving logistic regression with non-linear decision-tree effects",
+      "journal": "European Journal of Operational Research",
+      "year": 2022,
+      "volume": "297",
+      "issue": "3",
+      "pages": "1178-1192",
+      "doi": "10.1016/j.ejor.2021.06.053"
+    },
+    {
+      "authors": [
+        "Alam, T.M.",
+        "Shaukat, K.",
+        "Hameed, I.A.",
+        "Luo, S.",
+        "Sarwar, M.U.",
+        "Shabbir, S.",
+        "Li, J.",
+        "Khushi, M."
+      ],
+      "title": "An investigation of credit card default prediction in the imbalanced datasets",
+      "journal": "IEEE Access",
+      "year": 2020,
+      "volume": "8",
+      "issue": null,
+      "pages": "201173-201198",
+      "doi": "10.1109/ACCESS.2020.3033784"
+    }
+  ],
+  "count": 25
+}

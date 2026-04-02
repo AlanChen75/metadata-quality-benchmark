@@ -1,0 +1,1776 @@
+{
+  "llm": "llama8b",
+  "domains": {
+    "cs_ml": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I.\"],\n    \"title\": \"Attention Is All You Need\",\n    \"journal\": \"Advances in Neural Information Processing Systems\",\n    \"year\": 2017,\n    \"volume\": \"\",\n    \"issue\": \"\",\n    \"pages\": \"\",\n    \"doi\": \"10.1109/NIPS.2017.8089803\"\n  },\n  {\n    \"authors\": [\"Devlin, J., Chang, M. W., Lee, K., & Toutanova, K.\"],\n    \"title\": \"BERT: Pre-training of Deep Bidirectional Transformers for Lang...",
+      "citations": [
+        {
+          "authors": [
+            "Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I."
+          ],
+          "title": "Attention Is All You Need",
+          "journal": "Advances in Neural Information Processing Systems",
+          "year": 2017,
+          "volume": "",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1109/NIPS.2017.8089803"
+        },
+        {
+          "authors": [
+            "Devlin, J., Chang, M. W., Lee, K., & Toutanova, K."
+          ],
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "journal": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2019,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1532-1546",
+          "doi": "10.18653/v1/N19-1423"
+        },
+        {
+          "authors": [
+            "Yang, Z., Dai, Z., Yang, Y., Carbonell, J., Salakhutdinov, R. R., & Le, Q. V."
+          ],
+          "title": "XLM: Exposing the FLAW in Evaluation and Scoring of Machine Translation Systems",
+          "journal": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing",
+          "year": 2019,
+          "volume": "",
+          "issue": "",
+          "pages": "p. 2010-2021",
+          "doi": "10.18653/v1/D19-1315"
+        },
+        {
+          "authors": [
+            "Kong, L., Yin, W., Lin, S., & Zhou, M."
+          ],
+          "title": "X-Attention: Coordinating Expert Attention in a Neural Network for Machine Translation",
+          "journal": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2019,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1547-1562",
+          "doi": "10.18653/v1/N19-1430"
+        },
+        {
+          "authors": [
+            "Liu, Y., Ott, M., Goyal, N., Du, J., Joshi, M., Chen, D., ... & Stoyanov, V."
+          ],
+          "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+          "journal": "Transactions of the Association for Computational Linguistics",
+          "year": 2020,
+          "volume": "8",
+          "issue": "",
+          "pages": "p. 485-498",
+          "doi": "10.1162/tacl_a_00331"
+        },
+        {
+          "authors": [
+            "Rae, J., Potapenko, A., Tomasev, P., & Blunsom, P."
+          ],
+          "title": "Composable Attention: A Framework for Learning Self-Attention with Hierarchical Composition",
+          "journal": "Advances in Neural Information Processing Systems",
+          "year": 2020,
+          "volume": "",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1109/NIPS47035.2020.00043"
+        },
+        {
+          "authors": [
+            "Wang, A., Singh, B., Michael, J., Hill, F., Levy, R., & Bowman, S."
+          ],
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "journal": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing",
+          "year": 2019,
+          "volume": "",
+          "issue": "",
+          "pages": "p. 1856-1867",
+          "doi": "10.18653/v1/D19-1284"
+        },
+        {
+          "authors": [
+            "Gururangan, S., Swayamdipta, S., Donahue, C., Clark, K., Levy, R., & Smith, N."
+          ],
+          "title": "Don't Stop Pretraining: Adapt Language Models to Domains and Tasks",
+          "journal": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2019,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1235-1248",
+          "doi": "10.18653/v1/N19-1141"
+        },
+        {
+          "authors": [
+            "Zhou, Y., Yang, L., & Zhang, Y."
+          ],
+          "title": "Contextualized Representation for Aspect-Based Sentiment Analysis",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1452-1462",
+          "doi": "10.18653/v1/N20-1348"
+        },
+        {
+          "authors": [
+            "Rahman, M. S., & Zhang, Y."
+          ],
+          "title": "Pre-Trained Language Model for Aspect-Based Sentiment Analysis",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1463-1474",
+          "doi": "10.18653/v1/N20-1349"
+        },
+        {
+          "authors": [
+            "Dong, L., Mallinson, J., Bordes, A., & Lapata, M."
+          ],
+          "title": "Unified Language Model Pre-training for Natural Language Understanding and Generation",
+          "journal": "Transactions of the Association for Computational Linguistics",
+          "year": 2020,
+          "volume": "8",
+          "issue": "",
+          "pages": "p. 483-494",
+          "doi": "10.1162/tacl_a_00330"
+        },
+        {
+          "authors": [
+            "Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., ... & Liu, Y."
+          ],
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "journal": "Journal of Machine Learning Research",
+          "year": 2020,
+          "volume": "21",
+          "issue": "",
+          "pages": "p. 1-67",
+          "doi": "10.17863/CAM.54287"
+        },
+        {
+          "authors": [
+            "Huang, C. L., Liu, Y., & Liu, Z."
+          ],
+          "title": "Improving Multi-Source Zero-Shot Learning via Joint Training of Source and Target Models",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1442-1451",
+          "doi": "10.18653/v1/N20-1346"
+        },
+        {
+          "authors": [
+            "Savvas, M., Katerina, S., & Anastasios, S."
+          ],
+          "title": "Learning to Rank with BERT for Natural Language Processing Tasks",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1475-1486",
+          "doi": "10.18653/v1/N20-1350"
+        },
+        {
+          "authors": [
+            "Li, J., & Lee, K."
+          ],
+          "title": "On the Robustness of BERT to Adversarial Attacks",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1487-1498",
+          "doi": "10.18653/v1/N20-1351"
+        },
+        {
+          "authors": [
+            "Xu, K., Zhang, Y., & Liu, Z."
+          ],
+          "title": "On the Role of Adversarial Training in Improving the Robustness of BERT",
+          "journal": "Proceedings of the 2020 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2020,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1499-1510",
+          "doi": "10.18653/v1/N20-1352"
+        },
+        {
+          "authors": [
+            "Guan, H., Liu, Q., & Li, M."
+          ],
+          "title": "Hierarchical Transformer for Aspect-Based Sentiment Analysis",
+          "journal": "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2021,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1051-1062",
+          "doi": "10.18653/v1/2021.naacl-main.091"
+        },
+        {
+          "authors": [
+            "Srivastava, A., & Durrett, G."
+          ],
+          "title": "On the Use of Pretrained Language Models for Zero-Shot and Few-Shot Learning",
+          "journal": "Transactions of the Association for Computational Linguistics",
+          "year": 2020,
+          "volume": "8",
+          "issue": "",
+          "pages": "p. 495-509",
+          "doi": "10.1162/tacl_a_00332"
+        },
+        {
+          "authors": [
+            "Wang, S., Zhang, Y., & Liu, Z."
+          ],
+          "title": "Exploring the Effectiveness of BERT-based Models for Sentiment Analysis",
+          "journal": "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2021,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1063-1074",
+          "doi": "10.18653/v1/2021.naacl-main.092"
+        },
+        {
+          "authors": [
+            "Huang, S., Liu, Y., & Liu, Z."
+          ],
+          "title": "Improving Aspect-Based Sentiment Analysis with Hierarchical Attention",
+          "journal": "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2021,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1075-1086",
+          "doi": "10.18653/v1/2021.naacl-main.093"
+        },
+        {
+          "authors": [
+            "Wang, A., Singh, B., Michael, J., Hill, F., Levy, R., & Bowman, S."
+          ],
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding and Generation",
+          "journal": "Journal of Artificial Intelligence Research",
+          "year": 2020,
+          "volume": "67",
+          "issue": "",
+          "pages": "p. 1-43",
+          "doi": "10.1613/jair.13076"
+        },
+        {
+          "authors": [
+            "Zhang, Y., & Lapata, M."
+          ],
+          "title": "Chinese BERT is Ungrammatical and What We Can Learn from It",
+          "journal": "Transactions of the Association for Computational Linguistics",
+          "year": 2020,
+          "volume": "8",
+          "issue": "",
+          "pages": "p. 511-525",
+          "doi": "10.1162/tacl_a_00333"
+        },
+        {
+          "authors": [
+            "Srivastava, A., & Durrett, G."
+          ],
+          "title": "On the Use of Pretrained Language Models for Zero-Shot and Few-Shot Learning",
+          "journal": "Computational Intelligence",
+          "year": 2020,
+          "volume": "36",
+          "issue": "3",
+          "pages": "p. 539-554",
+          "doi": "10.1111/coin.12313"
+        },
+        {
+          "authors": [
+            "Liu, Y., & Liu, Z."
+          ],
+          "title": "Aspect-Based Sentiment Analysis with Hierarchical Attention and Graph Convolutional Networks",
+          "journal": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2022,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1111-1122",
+          "doi": "10.18653/v1/2022.naacl-main.079"
+        },
+        {
+          "authors": [
+            "Zhang, Y., & Liu, Z."
+          ],
+          "title": "Chinese BERT is Ungrammatical and What We Can Learn from It",
+          "journal": "Natural Language Engineering",
+          "year": 2022,
+          "volume": "28",
+          "issue": "3",
+          "pages": "p. 281-300",
+          "doi": "10.1017/S1463423622000018"
+        },
+        {
+          "authors": [
+            "Wang, Y., & Liu, Z."
+          ],
+          "title": "Aspect-Based Sentiment Analysis with Graph Attention and BERT",
+          "journal": "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+          "year": 2022,
+          "volume": "1",
+          "issue": "",
+          "pages": "p. 1123-1134",
+          "doi": "10.18653/v1/2022.naacl-main.080"
+        },
+        {
+          "authors": [
+            "Liu, Y., & Liu, Z."
+          ],
+          "title": "Aspect-Based Sentiment Analysis with Hierarchical Attention and Graph Convolutional Networks",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "59",
+          "issue": "2",
+          "pages": "p. 255-273",
+          "doi": "10.1007/s10844-022-00755-2"
+        }
+      ],
+      "count": 27
+    },
+    "finance": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Zhang\", \"Y.\", \"Fu\", \"G.\", \"Wang\", \"S.\"],\n    \"title\": \"A Hybrid Deep Learning Model for Credit Risk Assessment\",\n    \"journal\": \"IEEE Transactions on Neural Networks and Learning Systems\",\n    \"year\": 2018,\n    \"volume\": \"29\",\n    \"issue\": \"10\",\n    \"pages\": \"4943-4952\",\n    \"doi\": \"10.1109/TNNLS.2017.2669102\"\n  },\n  {\n    \"authors\": [\"Liu\", \"W.\", \"Zhang\", \"J.\", \"Li\", \"H.\"],\n    \"title\": \"A Novel Ensemble Method for Credit Risk Assessment Using Random Forest and Support Ve...",
+      "citations": [
+        {
+          "authors": [
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G.",
+            "Wang",
+            "S."
+          ],
+          "title": "A Hybrid Deep Learning Model for Credit Risk Assessment",
+          "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2018,
+          "volume": "29",
+          "issue": "10",
+          "pages": "4943-4952",
+          "doi": "10.1109/TNNLS.2017.2669102"
+        },
+        {
+          "authors": [
+            "Liu",
+            "W.",
+            "Zhang",
+            "J.",
+            "Li",
+            "H."
+          ],
+          "title": "A Novel Ensemble Method for Credit Risk Assessment Using Random Forest and Support Vector Machine",
+          "journal": "Expert Systems with Applications",
+          "year": 2020,
+          "volume": "156",
+          "issue": "",
+          "pages": "113245",
+          "doi": "10.1016/j.eswa.2020.113245"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "Financial Statement Analysis Using Deep Learning Techniques",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2020,
+          "volume": "18",
+          "issue": "1",
+          "pages": "1-23",
+          "doi": "10.2478/jfra-2020-0001"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Credit Risk Assessment Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2020,
+          "volume": "56",
+          "issue": "2",
+          "pages": "241-257",
+          "doi": "10.1007/s10844-019-00592-5"
+        },
+        {
+          "authors": [
+            "Shen",
+            "Y.",
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Machine Learning-Based Framework for Credit Risk Assessment in Peer-to-Peer Lending",
+          "journal": "Computational Economics",
+          "year": 2022,
+          "volume": "59",
+          "issue": "2",
+          "pages": "537-554",
+          "doi": "10.1007/s10614-021-10051-9"
+        },
+        {
+          "authors": [
+            "Chen",
+            "B.",
+            "Wang",
+            "X.",
+            "Xiao",
+            "M."
+          ],
+          "title": "An Empirical Study on Credit Risk Assessment Using Machine Learning and Deep Learning Techniques",
+          "journal": "Journal of Business Economics and Management",
+          "year": 2022,
+          "volume": "23",
+          "issue": "1",
+          "pages": "1-18",
+          "doi": "10.3846/jbem.2022.14073"
+        },
+        {
+          "authors": [
+            "Zhang",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhu",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Convolutional Neural Network and Genetic Algorithm",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "58",
+          "issue": "2",
+          "pages": "257-273",
+          "doi": "10.1007/s10844-021-00722-x"
+        },
+        {
+          "authors": [
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G."
+          ],
+          "title": "A Hybrid Credit Risk Assessment Model Using Machine Learning and Fuzzy Logic",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "58",
+          "issue": "3",
+          "pages": "537-554",
+          "doi": "10.1007/s10844-021-00723-9"
+        },
+        {
+          "authors": [
+            "Li",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Deep Learning and Bayesian Network",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "58",
+          "issue": "3",
+          "pages": "555-573",
+          "doi": "10.1007/s10844-021-00724-7"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "An Empirical Study on Financial Forecasting Using Machine Learning Techniques",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2022,
+          "volume": "20",
+          "issue": "1",
+          "pages": "1-24",
+          "doi": "10.2478/jfra-2022-0001"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "58",
+          "issue": "3",
+          "pages": "575-592",
+          "doi": "10.1007/s10844-021-00725-6"
+        },
+        {
+          "authors": [
+            "Shen",
+            "Y.",
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Machine Learning-Based Framework for Financial Forecasting in Stock Market",
+          "journal": "Computational Economics",
+          "year": 2022,
+          "volume": "59",
+          "issue": "3",
+          "pages": "831-850",
+          "doi": "10.1007/s10614-022-10075-5"
+        },
+        {
+          "authors": [
+            "Chen",
+            "B.",
+            "Wang",
+            "X.",
+            "Xiao",
+            "M."
+          ],
+          "title": "An Empirical Study on Financial Forecasting Using Machine Learning and Deep Learning Techniques",
+          "journal": "Journal of Business Economics and Management",
+          "year": 2023,
+          "volume": "24",
+          "issue": "1",
+          "pages": "1-18",
+          "doi": "10.3846/jbem.2023.15412"
+        },
+        {
+          "authors": [
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G."
+          ],
+          "title": "A Hybrid Credit Risk Assessment Model Using Machine Learning and Fuzzy Logic",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "60",
+          "issue": "2",
+          "pages": "257-273",
+          "doi": "10.1007/s10844-022-00822-8"
+        },
+        {
+          "authors": [
+            "Li",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Deep Learning and Bayesian Network",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "60",
+          "issue": "3",
+          "pages": "555-573",
+          "doi": "10.1007/s10844-022-00823-7"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2023,
+          "volume": "21",
+          "issue": "1",
+          "pages": "1-24",
+          "doi": "10.2478/jfra-2023-0001"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "60",
+          "issue": "3",
+          "pages": "575-592",
+          "doi": "10.1007/s10844-022-00824-6"
+        },
+        {
+          "authors": [
+            "Shen",
+            "Y.",
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Machine Learning-Based Framework for Financial Forecasting in Stock Market",
+          "journal": "Computational Economics",
+          "year": 2023,
+          "volume": "61",
+          "issue": "1",
+          "pages": "1-22",
+          "doi": "10.1007/s10614-023-10131-4"
+        },
+        {
+          "authors": [
+            "Chen",
+            "B.",
+            "Wang",
+            "X.",
+            "Xiao",
+            "M."
+          ],
+          "title": "An Empirical Study on Credit Risk Assessment Using Machine Learning and Deep Learning Techniques",
+          "journal": "Journal of Business Economics and Management",
+          "year": 2023,
+          "volume": "24",
+          "issue": "2",
+          "pages": "1-18",
+          "doi": "10.3846/jbem.2023.16221"
+        },
+        {
+          "authors": [
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G."
+          ],
+          "title": "A Hybrid Credit Risk Assessment Model Using Machine Learning and Fuzzy Logic",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "61",
+          "issue": "2",
+          "pages": "257-273",
+          "doi": "10.1007/s10844-023-00825-7"
+        },
+        {
+          "authors": [
+            "Li",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Deep Learning and Bayesian Network",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "61",
+          "issue": "3",
+          "pages": "555-573",
+          "doi": "10.1007/s10844-023-00826-6"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2023,
+          "volume": "22",
+          "issue": "1",
+          "pages": "1-24",
+          "doi": "10.2478/jfra-2023-0001"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "61",
+          "issue": "3",
+          "pages": "575-592",
+          "doi": "10.1007/s10844-023-00827-5"
+        },
+        {
+          "authors": [
+            "Shen",
+            "Y.",
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Machine Learning-Based Framework for Credit Risk Assessment in Peer-to-Peer Lending",
+          "journal": "Computational Economics",
+          "year": 2023,
+          "volume": "61",
+          "issue": "3",
+          "pages": "831-850",
+          "doi": "10.1007/s10614-023-10144-3"
+        },
+        {
+          "authors": [
+            "Chen",
+            "B.",
+            "Wang",
+            "X.",
+            "Xiao",
+            "M."
+          ],
+          "title": "An Empirical Study on Financial Forecasting Using Machine Learning and Deep Learning Techniques",
+          "journal": "Journal of Business Economics and Management",
+          "year": 2023,
+          "volume": "24",
+          "issue": "3",
+          "pages": "1-18",
+          "doi": "10.3846/jbem.2023.17431"
+        },
+        {
+          "authors": [
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G."
+          ],
+          "title": "A Hybrid Credit Risk Assessment Model Using Machine Learning and Fuzzy Logic",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "62",
+          "issue": "2",
+          "pages": "257-273",
+          "doi": "10.1007/s10844-023-00828-4"
+        },
+        {
+          "authors": [
+            "Li",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Deep Learning and Bayesian Network",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "62",
+          "issue": "3",
+          "pages": "555-573",
+          "doi": "10.1007/s10844-023-00829-3"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2023,
+          "volume": "23",
+          "issue": "1",
+          "pages": "1-24",
+          "doi": "10.2478/jfra-2023-0001"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "62",
+          "issue": "3",
+          "pages": "575-592",
+          "doi": "10.1007/s10844-023-00830-1"
+        },
+        {
+          "authors": [
+            "Shen",
+            "Y.",
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Machine Learning-Based Framework for Credit Risk Assessment in Peer-to-Peer Lending",
+          "journal": "Computational Economics",
+          "year": 2023,
+          "volume": "62",
+          "issue": "3",
+          "pages": "831-850",
+          "doi": "10.1007/s10614-023-10145-2"
+        },
+        {
+          "authors": [
+            "Chen",
+            "B.",
+            "Wang",
+            "X.",
+            "Xiao",
+            "M."
+          ],
+          "title": "An Empirical Study on Credit Risk Assessment Using Machine Learning and Deep Learning Techniques",
+          "journal": "Journal of Business Economics and Management",
+          "year": 2023,
+          "volume": "24",
+          "issue": "4",
+          "pages": "1-18",
+          "doi": "10.3846/jbem.2023.18952"
+        },
+        {
+          "authors": [
+            "Wang",
+            "Y.",
+            "Zhang",
+            "Y.",
+            "Fu",
+            "G."
+          ],
+          "title": "A Hybrid Credit Risk Assessment Model Using Machine Learning and Fuzzy Logic",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "63",
+          "issue": "2",
+          "pages": "257-273",
+          "doi": "10.1007/s10844-023-00831-0"
+        },
+        {
+          "authors": [
+            "Li",
+            "Y.",
+            "Wang",
+            "S.",
+            "Zhang",
+            "Y."
+          ],
+          "title": "A Novel Credit Risk Assessment Model Based on Deep Learning and Bayesian Network",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "63",
+          "issue": "3",
+          "pages": "555-573",
+          "doi": "10.1007/s10844-023-00832-z"
+        },
+        {
+          "authors": [
+            "Rajakani",
+            "S.",
+            "Chen",
+            "B.",
+            "Lee",
+            "W."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Financial Reporting and Accounting",
+          "year": 2023,
+          "volume": "23",
+          "issue": "2",
+          "pages": "1-24",
+          "doi": "10.2478/jfra-2023-0002"
+        },
+        {
+          "authors": [
+            "Dias",
+            "K.",
+            "Santos",
+            "J.",
+            "Rocha",
+            "M."
+          ],
+          "title": "Financial Forecasting Using a Hybrid Approach Based on Fuzzy Logic and Machine Learning",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "63",
+          "issue": "3",
+          "pages": "575-592",
+          "doi": "10.1007/s10844-023-00833-9"
+        }
+      ],
+      "count": 35
+    },
+    "biomedicine": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Rajpurkar P\", \"Irvin J\", \"Zhu K\", \"Yang B\", \"Mehta H\", \"Duan T\", \"Liu S\", \"Deng C\", \"Bagul A\", \"Duryea J\", \"Laird AH\", \"Shpanskaya K\", \"Peng T\", \"Shah NL\", \"Jing Y\", \"Kulmanovich M\", \"Hwang J\", \"Yadav S\", \"Bandaragoda S\", \"Goodman SL\", \"Chen Y\", \"Dollár P\"],\n    \"title\": \"CheXNet: Interpretation of Convolutional Neural Networks Vis-a-Vis Radiologists.\",\n    \"journal\": \"arXiv:1706.06108\",\n    \"year\": 2017,\n    \"volume\": null,\n    \"issue\": null,\n    \"pages\": null,\n    \"doi\":...",
+      "citations": [],
+      "count": 0
+    },
+    "engineering": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Sayed, M. A.\", \"El-Sayed, S. A.\", \"El-Sayed, A. M.\"],\n    \"title\": \"A Review of Internet of Things (IoT) Applications in Buildings for Energy Efficiency\",\n    \"journal\": \"Journal of Cleaner Production\",\n    \"year\": 2020,\n    \"volume\": \"277\",\n    \"issue\": \"\",\n    \"pages\": \"\",\n    \"doi\": \"10.1016/j.jclepro.2020.122845\"\n  },\n  {\n    \"authors\": [\"Adeyemi, O. O.\", \"Ogunde, A. A.\", \"Afolabi, A. O.\"],\n    \"title\": \"Machine Learning-Based Energy Efficiency Optimization in Smart Bu...",
+      "citations": [
+        {
+          "authors": [
+            "Sayed, M. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Review of Internet of Things (IoT) Applications in Buildings for Energy Efficiency",
+          "journal": "Journal of Cleaner Production",
+          "year": 2020,
+          "volume": "277",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.jclepro.2020.122845"
+        },
+        {
+          "authors": [
+            "Adeyemi, O. O.",
+            "Ogunde, A. A.",
+            "Afolabi, A. O."
+          ],
+          "title": "Machine Learning-Based Energy Efficiency Optimization in Smart Buildings: A Review",
+          "journal": "Sustainable Cities and Society",
+          "year": 2020,
+          "volume": "66",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2020.102563"
+        },
+        {
+          "authors": [
+            "Gao, J.",
+            "Liu, Y.",
+            "Zhang, Y."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization Method for Commercial Buildings",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2020,
+          "volume": "16",
+          "issue": "10",
+          "pages": "5325-5334",
+          "doi": "10.1109/TII.2020.2967945"
+        },
+        {
+          "authors": [
+            "Khan, M. A.",
+            "Khan, M. A.",
+            "Khan, M. A."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2020,
+          "volume": "56",
+          "issue": "2",
+          "pages": "231-245",
+          "doi": "10.1007/s10844-019-00583-5"
+        },
+        {
+          "authors": [
+            "El-Moselhy, T. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Hybrid Approach for Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning",
+          "journal": "Sustainable Cities and Society",
+          "year": 2021,
+          "volume": "72",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2021.103048"
+        },
+        {
+          "authors": [
+            "Hassan, M. M.",
+            "Abdullah, M. Z.",
+            "Othman, M."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Systematic Review",
+          "journal": "Journal of Cleaner Production",
+          "year": 2021,
+          "volume": "312",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.jclepro.2021.126824"
+        },
+        {
+          "authors": [
+            "Kumar, V.",
+            "Singh, D.",
+            "Singh, S."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization System for Commercial Buildings",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2021,
+          "volume": "17",
+          "issue": "10",
+          "pages": "5425-5434",
+          "doi": "10.1109/TII.2021.3054414"
+        },
+        {
+          "authors": [
+            "Wang, X.",
+            "Wang, Y.",
+            "Zhang, J."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings",
+          "journal": "Sustainable Cities and Society",
+          "year": 2021,
+          "volume": "73",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2021.103103"
+        },
+        {
+          "authors": [
+            "Siddique, M. A.",
+            "Khan, M. A.",
+            "Ullah, S."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2021,
+          "volume": "58",
+          "issue": "3",
+          "pages": "441-457",
+          "doi": "10.1007/s10844-021-00664-6"
+        },
+        {
+          "authors": [
+            "Huang, B.",
+            "Zhang, Y.",
+            "Liu, Y."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization Method for Smart Buildings Using Machine Learning",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2022,
+          "volume": "18",
+          "issue": "5",
+          "pages": "2535-2544",
+          "doi": "10.1109/TII.2021.3124448"
+        },
+        {
+          "authors": [
+            "Li, Q.",
+            "Wang, X.",
+            "Zhang, J."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings Using IoT",
+          "journal": "Sustainable Cities and Society",
+          "year": 2022,
+          "volume": "81",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2022.103394"
+        },
+        {
+          "authors": [
+            "Wang, Y.",
+            "Wang, X.",
+            "Zhang, J."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2022,
+          "volume": "60",
+          "issue": "2",
+          "pages": "231-245",
+          "doi": "10.1007/s10844-022-00845-1"
+        },
+        {
+          "authors": [
+            "Kumar, V.",
+            "Singh, D.",
+            "Singh, S."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization System for Smart Buildings Using Machine Learning",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2022,
+          "volume": "18",
+          "issue": "10",
+          "pages": "5445-5454",
+          "doi": "10.1109/TII.2022.3158211"
+        },
+        {
+          "authors": [
+            "Sayed, M. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Hybrid Approach for Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning",
+          "journal": "Sustainable Cities and Society",
+          "year": 2022,
+          "volume": "83",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2022.103455"
+        },
+        {
+          "authors": [
+            "Hassan, M. M.",
+            "Abdullah, M. Z.",
+            "Othman, M."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Systematic Review",
+          "journal": "Journal of Cleaner Production",
+          "year": 2022,
+          "volume": "338",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.jclepro.2022.128661"
+        },
+        {
+          "authors": [
+            "El-Moselhy, T. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings",
+          "journal": "Sustainable Cities and Society",
+          "year": 2023,
+          "volume": "89",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2023.103542"
+        },
+        {
+          "authors": [
+            "Kumar, V.",
+            "Singh, D.",
+            "Singh, S."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization System for Smart Buildings Using Machine Learning",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2023,
+          "volume": "19",
+          "issue": "5",
+          "pages": "2535-2544",
+          "doi": "10.1109/TII.2022.3234541"
+        },
+        {
+          "authors": [
+            "Wang, X.",
+            "Wang, Y.",
+            "Zhang, J."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "63",
+          "issue": "2",
+          "pages": "231-245",
+          "doi": "10.1007/s10844-023-00915-8"
+        },
+        {
+          "authors": [
+            "Li, Q.",
+            "Wang, X.",
+            "Zhang, J."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings",
+          "journal": "Sustainable Cities and Society",
+          "year": 2023,
+          "volume": "91",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2023.103583"
+        },
+        {
+          "authors": [
+            "Khan, M. A.",
+            "Khan, M. A.",
+            "Khan, M. A."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "64",
+          "issue": "3",
+          "pages": "441-457",
+          "doi": "10.1007/s10844-023-00938-1"
+        },
+        {
+          "authors": [
+            "Siddique, M. A.",
+            "Khan, M. A.",
+            "Ullah, S."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "65",
+          "issue": "1",
+          "pages": "53-67",
+          "doi": "10.1007/s10844-023-00955-8"
+        },
+        {
+          "authors": [
+            "Hassan, M. M.",
+            "Abdullah, M. Z.",
+            "Othman, M."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Systematic Review",
+          "journal": "Journal of Cleaner Production",
+          "year": 2023,
+          "volume": "373",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.jclepro.2023.131445"
+        },
+        {
+          "authors": [
+            "El-Moselhy, T. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Hybrid Approach for Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning",
+          "journal": "Sustainable Cities and Society",
+          "year": 2023,
+          "volume": "94",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2023.103643"
+        },
+        {
+          "authors": [
+            "Kumar, V.",
+            "Singh, D.",
+            "Singh, S."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization System for Smart Buildings Using Machine Learning",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2023,
+          "volume": "19",
+          "issue": "10",
+          "pages": "5445-5454",
+          "doi": "10.1109/TII.2023.3243456"
+        },
+        {
+          "authors": [
+            "Sayed, M. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2023,
+          "volume": "66",
+          "issue": "2",
+          "pages": "231-245",
+          "doi": "10.1007/s10844-023-01001-4"
+        },
+        {
+          "authors": [
+            "Hassan, M. M.",
+            "Abdullah, M. Z.",
+            "Othman, M."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Systematic Review",
+          "journal": "Journal of Cleaner Production",
+          "year": 2024,
+          "volume": "411",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.jclepro.2024.131741"
+        },
+        {
+          "authors": [
+            "El-Moselhy, T. A.",
+            "El-Sayed, S. A.",
+            "El-Sayed, A. M."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings",
+          "journal": "Sustainable Cities and Society",
+          "year": 2024,
+          "volume": "99",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2024.103705"
+        },
+        {
+          "authors": [
+            "Kumar, V.",
+            "Singh, D.",
+            "Singh, S."
+          ],
+          "title": "An IoT-Based Energy Efficiency Optimization System for Smart Buildings Using Machine Learning",
+          "journal": "IEEE Transactions on Industrial Informatics",
+          "year": 2024,
+          "volume": "20",
+          "issue": "5",
+          "pages": "2535-2544",
+          "doi": "10.1109/TII.2024.3253457"
+        },
+        {
+          "authors": [
+            "Wang, X.",
+            "Wang, Y.",
+            "Zhang, J."
+          ],
+          "title": "Energy Efficiency Optimization in Smart Buildings Using IoT and Machine Learning: A Review",
+          "journal": "Journal of Intelligent Information Systems",
+          "year": 2024,
+          "volume": "70",
+          "issue": "3",
+          "pages": "441-457",
+          "doi": "10.1007/s10844-024-01044-8"
+        },
+        {
+          "authors": [
+            "Li, Q.",
+            "Wang, X.",
+            "Zhang, J."
+          ],
+          "title": "A Machine Learning-Based Approach for Energy Efficiency Optimization in Smart Buildings",
+          "journal": "Sustainable Cities and Society",
+          "year": 2024,
+          "volume": "101",
+          "issue": "",
+          "pages": "",
+          "doi": "10.1016/j.scs.2024.103746"
+        }
+      ],
+      "count": 30
+    },
+    "social_science": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Abeysekera, I.\", \"Bromwich, J. E.\"],\n    \"title\": \"The impact of corporate governance and board structure on sustainability reporting\",\n    \"journal\": \"Accounting and the Public Interest\",\n    \"year\": 2020,\n    \"volume\": \"20\",\n    \"issue\": \"1\",\n    \"pages\": \"1-16\",\n    \"doi\": \"10.2308/apin-52103\"\n  },\n  {\n    \"authors\": [\"Abeysekera, I.\", \"Bromwich, J. E.\"],\n    \"title\": \"The impact of corporate governance and board structure on sustainability reporting: A systematic revie...",
+      "citations": [
+        {
+          "authors": [
+            "Abeysekera, I.",
+            "Bromwich, J. E."
+          ],
+          "title": "The impact of corporate governance and board structure on sustainability reporting",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "1-16",
+          "doi": "10.2308/apin-52103"
+        },
+        {
+          "authors": [
+            "Abeysekera, I.",
+            "Bromwich, J. E."
+          ],
+          "title": "The impact of corporate governance and board structure on sustainability reporting: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "415-432",
+          "doi": "10.1007/s10551-019-04311-5"
+        },
+        {
+          "authors": [
+            "Adams, C. A.",
+            "Flower, J."
+          ],
+          "title": "The impact of sustainability disclosure on the cost of capital: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "17-33",
+          "doi": "10.2308/apin-52104"
+        },
+        {
+          "authors": [
+            "Al-Shammari, B.",
+            "Al-Shammari, B."
+          ],
+          "title": "The effect of corporate governance on sustainability reporting: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "155-175",
+          "doi": "10.1111/ijmr.12218"
+        },
+        {
+          "authors": [
+            "Bartlett, J. L.",
+            "Gollan, P. J."
+          ],
+          "title": "Assessing the quality of sustainability reporting: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "2",
+          "pages": "257-276",
+          "doi": "10.1007/s10551-019-04307-1"
+        },
+        {
+          "authors": [
+            "Boiral, O.",
+            "Herremans, I. M."
+          ],
+          "title": "The influence of corporate governance on sustainability reporting: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "34-49",
+          "doi": "10.2308/apin-52105"
+        },
+        {
+          "authors": [
+            "Cao, H.",
+            "Liao, J."
+          ],
+          "title": "The impact of ESG reporting quality on investment decisions: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "433-444",
+          "doi": "10.1007/s10551-019-04309-z"
+        },
+        {
+          "authors": [
+            "Cui, R.",
+            "Zhang, Y."
+          ],
+          "title": "The effect of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "177-196",
+          "doi": "10.1111/ijmr.12219"
+        },
+        {
+          "authors": [
+            "De Villiers, C.",
+            "Rinaldi, L."
+          ],
+          "title": "The impact of corporate governance on sustainability reporting quality: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "50-65",
+          "doi": "10.2308/apin-52106"
+        },
+        {
+          "authors": [
+            "De Villiers, C.",
+            "Rinaldi, L."
+          ],
+          "title": "Corporate governance and sustainability reporting: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "445-461",
+          "doi": "10.1007/s10551-019-04310-7"
+        },
+        {
+          "authors": [
+            "Hassan, M. M.",
+            "Momin, M. A."
+          ],
+          "title": "The impact of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "197-214",
+          "doi": "10.1111/ijmr.12220"
+        },
+        {
+          "authors": [
+            "Hong, W.",
+            "Lee, S. D."
+          ],
+          "title": "The effect of corporate governance on sustainability reporting quality: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "66-80",
+          "doi": "10.2308/apin-52107"
+        },
+        {
+          "authors": [
+            "Khlif, H.",
+            "Nawrocka, D."
+          ],
+          "title": "The impact of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "215-233",
+          "doi": "10.1111/ijmr.12221"
+        },
+        {
+          "authors": [
+            "Lee, S. D.",
+            "Hong, W."
+          ],
+          "title": "The effect of corporate governance on sustainability reporting quality: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "81-95",
+          "doi": "10.2308/apin-52108"
+        },
+        {
+          "authors": [
+            "Li, Y.",
+            "Zhang, J."
+          ],
+          "title": "The impact of ESG reporting quality on investment decisions: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "463-477",
+          "doi": "10.1007/s10551-019-04311-4"
+        },
+        {
+          "authors": [
+            "Liao, J.",
+            "Cao, H."
+          ],
+          "title": "The effect of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "235-253",
+          "doi": "10.1111/ijmr.12222"
+        },
+        {
+          "authors": [
+            "McKee, C.",
+            "Harrison, D."
+          ],
+          "title": "The impact of ESG reporting on investment decisions: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "479-493",
+          "doi": "10.1007/s10551-019-04313-2"
+        },
+        {
+          "authors": [
+            "Momin, M. A.",
+            "Hassan, M. M."
+          ],
+          "title": "The effect of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "255-273",
+          "doi": "10.1111/ijmr.12223"
+        },
+        {
+          "authors": [
+            "Nawrocka, D.",
+            "Khlif, H."
+          ],
+          "title": "The impact of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "275-294",
+          "doi": "10.1111/ijmr.12224"
+        },
+        {
+          "authors": [
+            "Rinaldi, L.",
+            "De Villiers, C."
+          ],
+          "title": "Corporate governance and sustainability reporting: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "495-512",
+          "doi": "10.1007/s10551-019-04314-1"
+        },
+        {
+          "authors": [
+            "Saeed, H.",
+            "Abdullah, A."
+          ],
+          "title": "The impact of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "295-314",
+          "doi": "10.1111/ijmr.12225"
+        },
+        {
+          "authors": [
+            "Shen, J.",
+            "Wang, J."
+          ],
+          "title": "The effect of corporate governance on sustainability reporting quality: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2020,
+          "volume": "20",
+          "issue": "1",
+          "pages": "96-109",
+          "doi": "10.2308/apin-52109"
+        },
+        {
+          "authors": [
+            "Tang, Q.",
+            "Zhang, Y."
+          ],
+          "title": "The impact of ESG reporting quality on investment decisions: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "513-528",
+          "doi": "10.1007/s10551-019-04315-0"
+        },
+        {
+          "authors": [
+            "Xu, X.",
+            "Wang, L."
+          ],
+          "title": "The effect of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "315-333",
+          "doi": "10.1111/ijmr.12226"
+        },
+        {
+          "authors": [
+            "Yu, X.",
+            "Zhang, J."
+          ],
+          "title": "The impact of ESG reporting quality on investment decisions: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "165",
+          "issue": "3",
+          "pages": "529-544",
+          "doi": "10.1007/s10551-019-04316-9"
+        },
+        {
+          "authors": [
+            "Zhang, Y.",
+            "Cui, R."
+          ],
+          "title": "The effect of corporate governance on ESG reporting quality: A systematic review",
+          "journal": "International Journal of Management Reviews",
+          "year": 2020,
+          "volume": "22",
+          "issue": "2",
+          "pages": "335-353",
+          "doi": "10.1111/ijmr.12227"
+        },
+        {
+          "authors": [
+            "Bellantuono, C.",
+            "Mazzuca, M."
+          ],
+          "title": "ESG disclosure quality and firm performance: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2022,
+          "volume": "177",
+          "issue": "1",
+          "pages": "13-27",
+          "doi": "10.1007/s10551-021-04924-5"
+        },
+        {
+          "authors": [
+            "Chen, T.",
+            "Liu, X."
+          ],
+          "title": "ESG reporting quality and firm performance: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2022,
+          "volume": "22",
+          "issue": "1",
+          "pages": "1-14",
+          "doi": "10.2308/apin-2022-023"
+        },
+        {
+          "authors": [
+            "Hoque, Z.",
+            "Khan, A."
+          ],
+          "title": "ESG disclosure quality and firm performance: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2022,
+          "volume": "177",
+          "issue": "1",
+          "pages": "29-43",
+          "doi": "10.1007/s10551-021-04925-4"
+        },
+        {
+          "authors": [
+            "Khan, A.",
+            "Hoque, Z."
+          ],
+          "title": "ESG reporting quality and firm performance: A systematic review",
+          "journal": "Accounting and the Public Interest",
+          "year": 2022,
+          "volume": "22",
+          "issue": "1",
+          "pages": "15-28",
+          "doi": "10.2308/apin-2022-024"
+        },
+        {
+          "authors": [
+            "Li, Z.",
+            "Zhu, L."
+          ],
+          "title": "The impact of ESG reporting quality on firm performance: A systematic review",
+          "journal": "Journal of Business Ethics",
+          "year": 2022,
+          "volume": "177",
+          "issue": "1",
+          "pages": "45-59",
+          "doi": "10.1007/s10551-021-04926-3"
+        }
+      ],
+      "count": 31
+    }
+  }
+}

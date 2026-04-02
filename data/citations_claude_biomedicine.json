@@ -1,0 +1,365 @@
+{
+  "llm": "claude",
+  "domain": "biomedicine",
+  "citations": [
+    {
+      "authors": [
+        "Esteva, A.",
+        "Kuprel, B.",
+        "Novoa, R. A.",
+        "Ko, J.",
+        "Swetter, S. M.",
+        "Blau, H. M.",
+        "Thrun, S."
+      ],
+      "title": "Dermatologist-level classification of skin cancer with deep neural networks",
+      "journal": "Nature",
+      "year": 2017,
+      "volume": "542",
+      "issue": "7639",
+      "pages": "115-118",
+      "doi": "10.1038/nature21056"
+    },
+    {
+      "authors": [
+        "Rajpurkar, P.",
+        "Irvin, J.",
+        "Ball, R. L."
+      ],
+      "title": "Deep learning for chest radiograph diagnosis",
+      "journal": "PLOS Medicine",
+      "year": 2018,
+      "volume": "15",
+      "issue": "11",
+      "pages": "e1002686",
+      "doi": "10.1371/journal.pmed.1002686"
+    },
+    {
+      "authors": [
+        "Litjens, G.",
+        "Kooi, T.",
+        "Bejnordi, B. E."
+      ],
+      "title": "A survey on deep learning in medical image analysis",
+      "journal": "Medical Image Analysis",
+      "year": 2017,
+      "volume": "42",
+      "issue": null,
+      "pages": "60-88",
+      "doi": "10.1016/j.media.2017.07.005"
+    },
+    {
+      "authors": [
+        "Gulshan, V.",
+        "Peng, L.",
+        "Coram, M."
+      ],
+      "title": "Development and validation of a deep learning algorithm for detection of diabetic retinopathy",
+      "journal": "JAMA",
+      "year": 2016,
+      "volume": "316",
+      "issue": "22",
+      "pages": "2402-2410",
+      "doi": "10.1001/jama.2016.17216"
+    },
+    {
+      "authors": [
+        "Ronneberger, O.",
+        "Fischer, P.",
+        "Brox, T."
+      ],
+      "title": "U-Net: Convolutional networks for biomedical image segmentation",
+      "journal": "MICCAI",
+      "year": 2015,
+      "volume": "9351",
+      "issue": null,
+      "pages": "234-241",
+      "doi": "10.1007/978-3-319-24574-4_28"
+    },
+    {
+      "authors": [
+        "McKinney, S. M.",
+        "Sieniek, M.",
+        "Godbole, V."
+      ],
+      "title": "International evaluation of an AI system for breast cancer screening",
+      "journal": "Nature",
+      "year": 2020,
+      "volume": "577",
+      "issue": "7788",
+      "pages": "89-94",
+      "doi": "10.1038/s41586-019-1799-6"
+    },
+    {
+      "authors": [
+        "Isensee, F.",
+        "Jaeger, P. F.",
+        "Kohl, S. A. A.",
+        "Petersen, J.",
+        "Maier-Hein, K. H."
+      ],
+      "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+      "journal": "Nature Methods",
+      "year": 2021,
+      "volume": "18",
+      "issue": "2",
+      "pages": "203-211",
+      "doi": "10.1038/s41592-020-01008-z"
+    },
+    {
+      "authors": [
+        "De Fauw, J.",
+        "Ledsam, J. R.",
+        "Romera-Paredes, B."
+      ],
+      "title": "Clinically applicable deep learning for diagnosis and referral in retinal disease",
+      "journal": "Nature Medicine",
+      "year": 2018,
+      "volume": "24",
+      "issue": "9",
+      "pages": "1342-1350",
+      "doi": "10.1038/s41591-018-0107-6"
+    },
+    {
+      "authors": [
+        "Shen, D.",
+        "Wu, G.",
+        "Suk, H.-I."
+      ],
+      "title": "Deep learning in medical image analysis",
+      "journal": "Annual Review of Biomedical Engineering",
+      "year": 2017,
+      "volume": "19",
+      "issue": null,
+      "pages": "221-248",
+      "doi": "10.1146/annurev-bioeng-071516-044442"
+    },
+    {
+      "authors": [
+        "Ardila, D.",
+        "Kiraly, A. P.",
+        "Bharadwaj, S."
+      ],
+      "title": "End-to-end lung cancer screening with three-dimensional deep learning",
+      "journal": "Nature Medicine",
+      "year": 2019,
+      "volume": "25",
+      "issue": "6",
+      "pages": "954-961",
+      "doi": "10.1038/s41591-019-0447-x"
+    },
+    {
+      "authors": [
+        "Rajpurkar, P.",
+        "Irvin, J.",
+        "Zhu, K."
+      ],
+      "title": "CheXNet: Radiologist-level pneumonia detection on chest X-rays with deep learning",
+      "journal": "arXiv preprint",
+      "year": 2017,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.48550/arXiv.1711.05225"
+    },
+    {
+      "authors": [
+        "Topol, E. J."
+      ],
+      "title": "High-performance medicine: the convergence of human and artificial intelligence",
+      "journal": "Nature Medicine",
+      "year": 2019,
+      "volume": "25",
+      "issue": "1",
+      "pages": "44-56",
+      "doi": "10.1038/s41591-018-0300-7"
+    },
+    {
+      "authors": [
+        "Milletari, F.",
+        "Navab, N.",
+        "Ahmadi, S.-A."
+      ],
+      "title": "V-Net: Fully convolutional neural networks for volumetric medical image segmentation",
+      "journal": "3DV 2016",
+      "year": 2016,
+      "volume": null,
+      "issue": null,
+      "pages": "565-571",
+      "doi": "10.1109/3DV.2016.79"
+    },
+    {
+      "authors": [
+        "Bejnordi, B. E.",
+        "Veta, M.",
+        "van Diest, P. J."
+      ],
+      "title": "Diagnostic assessment of deep learning algorithms for detection of lymph node metastases",
+      "journal": "JAMA",
+      "year": 2017,
+      "volume": "318",
+      "issue": "22",
+      "pages": "2199-2210",
+      "doi": "10.1001/jama.2017.14585"
+    },
+    {
+      "authors": [
+        "Zhou, Z.",
+        "Siddiquee, M. M. R.",
+        "Tajbakhsh, N.",
+        "Liang, J."
+      ],
+      "title": "UNet++: A nested U-Net architecture for medical image segmentation",
+      "journal": "DLMIA",
+      "year": 2018,
+      "volume": "11045",
+      "issue": null,
+      "pages": "3-11",
+      "doi": "10.1007/978-3-030-00889-5_1"
+    },
+    {
+      "authors": [
+        "Hannun, A. Y.",
+        "Rajpurkar, P.",
+        "Haghpanahi, M."
+      ],
+      "title": "Cardiologist-level arrhythmia detection and classification",
+      "journal": "Nature Medicine",
+      "year": 2019,
+      "volume": "25",
+      "issue": "1",
+      "pages": "65-69",
+      "doi": "10.1038/s41591-018-0268-3"
+    },
+    {
+      "authors": [
+        "Hosny, A.",
+        "Parmar, C.",
+        "Quackenbush, J.",
+        "Schwartz, L. H.",
+        "Aerts, H. J. W. L."
+      ],
+      "title": "Artificial intelligence in radiology",
+      "journal": "Nature Reviews Cancer",
+      "year": 2018,
+      "volume": "18",
+      "issue": "8",
+      "pages": "500-510",
+      "doi": "10.1038/s41568-018-0016-5"
+    },
+    {
+      "authors": [
+        "Campanella, G.",
+        "Hanna, M. G.",
+        "Geneslaw, L."
+      ],
+      "title": "Clinical-grade computational pathology using weakly supervised deep learning",
+      "journal": "Nature Medicine",
+      "year": 2019,
+      "volume": "25",
+      "issue": "8",
+      "pages": "1301-1309",
+      "doi": "10.1038/s41591-019-0508-1"
+    },
+    {
+      "authors": [
+        "Myronenko, A."
+      ],
+      "title": "3D MRI brain tumor segmentation using autoencoder regularization",
+      "journal": "BrainLes",
+      "year": 2019,
+      "volume": "11384",
+      "issue": null,
+      "pages": "311-320",
+      "doi": "10.1007/978-3-030-11726-9_28"
+    },
+    {
+      "authors": [
+        "Irvin, J.",
+        "Rajpurkar, P.",
+        "Ko, M."
+      ],
+      "title": "CheXpert: A large chest radiograph dataset with uncertainty labels",
+      "journal": "AAAI",
+      "year": 2019,
+      "volume": "33",
+      "issue": "01",
+      "pages": "590-597",
+      "doi": "10.1609/aaai.v33i01.3301590"
+    },
+    {
+      "authors": [
+        "Ting, D. S. W.",
+        "Cheung, C. Y.-L.",
+        "Lim, G."
+      ],
+      "title": "Development and validation of a deep learning system for diabetic retinopathy",
+      "journal": "JAMA",
+      "year": 2017,
+      "volume": "318",
+      "issue": "22",
+      "pages": "2211-2223",
+      "doi": "10.1001/jama.2017.18152"
+    },
+    {
+      "authors": [
+        "Chen, L.-C.",
+        "Zhu, Y.",
+        "Papandreou, G.",
+        "Schroff, F.",
+        "Adam, H."
+      ],
+      "title": "Encoder-decoder with atrous separable convolution for semantic image segmentation",
+      "journal": "ECCV",
+      "year": 2018,
+      "volume": null,
+      "issue": null,
+      "pages": "801-818",
+      "doi": "10.1007/978-3-030-01234-2_49"
+    },
+    {
+      "authors": [
+        "Liu, X.",
+        "Faes, L.",
+        "Kale, A. U."
+      ],
+      "title": "A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging",
+      "journal": "The Lancet Digital Health",
+      "year": 2019,
+      "volume": "1",
+      "issue": "6",
+      "pages": "e271-e297",
+      "doi": "10.1016/S2589-7500(19)30123-2"
+    },
+    {
+      "authors": [
+        "Acosta, J. N.",
+        "Falcone, G. J.",
+        "Rajpurkar, P.",
+        "Topol, E. J."
+      ],
+      "title": "Multimodal biomedical AI",
+      "journal": "Nature Medicine",
+      "year": 2022,
+      "volume": "28",
+      "issue": "9",
+      "pages": "1773-1784",
+      "doi": "10.1038/s41591-022-01981-2"
+    },
+    {
+      "authors": [
+        "Hatamizadeh, A.",
+        "Tang, Y.",
+        "Nath, V."
+      ],
+      "title": "UNETR: Transformers for 3D medical image segmentation",
+      "journal": "WACV",
+      "year": 2022,
+      "volume": null,
+      "issue": null,
+      "pages": "574-584",
+      "doi": "10.1109/WACV51458.2022.00181"
+    }
+  ],
+  "count": 25
+}

@@ -1,0 +1,242 @@
+{
+  "total_citations": 1254,
+  "rq1": {
+    "crossref": {
+      "title": {
+        "coverage": 83.8,
+        "agreement": 97.1,
+        "n": 1051
+      },
+      "year": {
+        "coverage": 83.8,
+        "agreement": 88.5,
+        "n": 1051
+      },
+      "journal": {
+        "coverage": 73.5,
+        "agreement": 78.2,
+        "n": 922
+      },
+      "volume": {
+        "coverage": 54.8,
+        "agreement": 99.7,
+        "n": 687
+      },
+      "pages": {
+        "coverage": 64.4,
+        "agreement": 70.5,
+        "n": 807
+      },
+      "doi": {
+        "coverage": 83.8,
+        "agreement": 100.0,
+        "n": 1051
+      },
+      "authors": {
+        "coverage": 83.1,
+        "agreement": 56.6,
+        "n": 1042
+      }
+    },
+    "openalex": {
+      "title": {
+        "coverage": 83.5,
+        "agreement": 97.0,
+        "n": 1047
+      },
+      "year": {
+        "coverage": 83.5,
+        "agreement": 88.5,
+        "n": 1047
+      },
+      "journal": {
+        "coverage": 68.2,
+        "agreement": 76.6,
+        "n": 855
+      },
+      "volume": {
+        "coverage": 54.5,
+        "agreement": 99.7,
+        "n": 684
+      },
+      "pages": {
+        "coverage": 65.9,
+        "agreement": 71.1,
+        "n": 826
+      },
+      "doi": {
+        "coverage": 83.5,
+        "agreement": 100.0,
+        "n": 1047
+      },
+      "authors": {
+        "coverage": 83.0,
+        "agreement": 56.9,
+        "n": 1041
+      }
+    },
+    "s2": {
+      "title": {
+        "coverage": 23.3,
+        "agreement": 93.2,
+        "n": 292
+      },
+      "year": {
+        "coverage": 23.3,
+        "agreement": 86.6,
+        "n": 292
+      },
+      "journal": {
+        "coverage": 23.2,
+        "agreement": 73.5,
+        "n": 291
+      },
+      "volume": {
+        "coverage": 7.6,
+        "agreement": 97.9,
+        "n": 95
+      },
+      "pages": {
+        "coverage": 6.1,
+        "agreement": 53.2,
+        "n": 77
+      },
+      "doi": {
+        "coverage": 23.3,
+        "agreement": 100.0,
+        "n": 292
+      },
+      "authors": {
+        "coverage": 23.1,
+        "agreement": 30.3,
+        "n": 290
+      }
+    }
+  },
+  "rq2": {
+    "biomedicine": {
+      "n": 202,
+      "disc_total": 207,
+      "with_disc": 127,
+      "avg_disc": 1.02,
+      "pct_with_disc": 62.9
+    },
+    "cs_ml": {
+      "n": 229,
+      "disc_total": 133,
+      "with_disc": 97,
+      "avg_disc": 0.58,
+      "pct_with_disc": 42.4
+    },
+    "engineering": {
+      "n": 286,
+      "disc_total": 232,
+      "with_disc": 162,
+      "avg_disc": 0.81,
+      "pct_with_disc": 56.6
+    },
+    "finance": {
+      "n": 267,
+      "disc_total": 213,
+      "with_disc": 144,
+      "avg_disc": 0.8,
+      "pct_with_disc": 53.9
+    },
+    "social_science": {
+      "n": 270,
+      "disc_total": 263,
+      "with_disc": 173,
+      "avg_disc": 0.97,
+      "pct_with_disc": 64.1
+    }
+  },
+  "rq3": {},
+  "rq4": {
+    "ai_claude": {
+      "n": 114,
+      "disc_total": 149,
+      "with_disc": 83,
+      "avg_disc": 1.31,
+      "pct_with_disc": 72.8
+    },
+    "ai_gpt-4.1-nano": {
+      "n": 65,
+      "disc_total": 34,
+      "with_disc": 25,
+      "avg_disc": 0.52,
+      "pct_with_disc": 38.5
+    },
+    "ai_gemini-3-flash": {
+      "n": 103,
+      "disc_total": 75,
+      "with_disc": 46,
+      "avg_disc": 0.73,
+      "pct_with_disc": 44.7
+    },
+    "ai_llama-3.3-70b": {
+      "n": 97,
+      "disc_total": 75,
+      "with_disc": 45,
+      "avg_disc": 0.77,
+      "pct_with_disc": 46.4
+    },
+    "ai_llama-3.1-8b": {
+      "n": 120,
+      "disc_total": 17,
+      "with_disc": 13,
+      "avg_disc": 0.14,
+      "pct_with_disc": 10.8
+    },
+    "human": {
+      "n": 755,
+      "disc_total": 698,
+      "with_disc": 491,
+      "avg_disc": 0.92,
+      "pct_with_disc": 65.0
+    }
+  },
+  "field_discrepancy_types": {
+    "title": {
+      "unanimous": 1028,
+      "partial_agreement": 18,
+      "all_different": 13,
+      "all_missing": 195
+    },
+    "year": {
+      "unanimous": 938,
+      "partial_agreement": 37,
+      "all_different": 84,
+      "all_missing": 195
+    },
+    "journal": {
+      "unanimous": 771,
+      "partial_agreement": 70,
+      "all_different": 132,
+      "all_missing": 281
+    },
+    "volume": {
+      "unanimous": 699,
+      "partial_agreement": 2,
+      "all_different": 0,
+      "all_missing": 553
+    },
+    "pages": {
+      "unanimous": 599,
+      "partial_agreement": 29,
+      "all_different": 210,
+      "all_missing": 416
+    },
+    "doi": {
+      "unanimous": 1059,
+      "partial_agreement": 0,
+      "all_different": 0,
+      "all_missing": 195
+    },
+    "authors": {
+      "unanimous": 600,
+      "partial_agreement": 110,
+      "all_different": 343,
+      "all_missing": 201
+    }
+  }
+}

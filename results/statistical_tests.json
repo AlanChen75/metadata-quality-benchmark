@@ -1,0 +1,41 @@
+{
+  "chi_square_domain": {
+    "chi2": 28.828,
+    "df": 4,
+    "p": "p < 0.01"
+  },
+  "chi_square_ai_human": {
+    "chi2": 62.01,
+    "df": 1
+  },
+  "two_vs_three_source": {
+    "two_src": {
+      "n": 763,
+      "disc": 452
+    },
+    "three_src": {
+      "n": 284,
+      "disc": 251
+    }
+  },
+  "error_type_distribution": {
+    "pages": 239,
+    "authors": 453,
+    "title": 31,
+    "volume": 2,
+    "year": 121,
+    "journal": 202
+  },
+  "total_field_discrepancies": 1048,
+  "ground_truth_sample": {
+    "n": 50,
+    "cr_oa_agreement": 5,
+    "cr_oa_disagree_by_field": {
+      "authors": 25,
+      "year": 11,
+      "pages": 14,
+      "title": 1,
+      "journal": 9
+    }
+  }
+}

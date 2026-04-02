@@ -1,0 +1,356 @@
+{
+  "llm": "claude",
+  "domain": "social_science",
+  "citations": [
+    {
+      "authors": [
+        "Christensen, H.B.",
+        "Hail, L.",
+        "Leuz, C."
+      ],
+      "title": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+      "journal": "Review of Accounting Studies",
+      "year": 2021,
+      "volume": "26",
+      "issue": "3",
+      "pages": "1176-1248",
+      "doi": "10.1007/s11142-021-09609-5"
+    },
+    {
+      "authors": [
+        "Downar, B.",
+        "Ernstberger, J.",
+        "Reichelstein, S.",
+        "Schwenen, S.",
+        "Zaklan, A."
+      ],
+      "title": "The impact of carbon disclosure mandates on emissions and financial operating performance",
+      "journal": "Review of Accounting Studies",
+      "year": 2021,
+      "volume": "26",
+      "issue": "3",
+      "pages": "1137-1175",
+      "doi": "10.1007/s11142-021-09611-x"
+    },
+    {
+      "authors": [
+        "Eccles, R.G.",
+        "Ioannou, I.",
+        "Serafeim, G."
+      ],
+      "title": "The impact of corporate sustainability on organizational processes and performance",
+      "journal": "Management Science",
+      "year": 2014,
+      "volume": "60",
+      "issue": "11",
+      "pages": "2835-2857",
+      "doi": "10.1287/mnsc.2014.1984"
+    },
+    {
+      "authors": [
+        "Krueger, P.",
+        "Sautner, Z.",
+        "Starks, L.T."
+      ],
+      "title": "The importance of climate risks for institutional investors",
+      "journal": "The Review of Financial Studies",
+      "year": 2020,
+      "volume": "33",
+      "issue": "3",
+      "pages": "1067-1111",
+      "doi": "10.1093/rfs/hhz137"
+    },
+    {
+      "authors": [
+        "Grewal, J.",
+        "Riedl, E.J.",
+        "Serafeim, G."
+      ],
+      "title": "Market reaction to mandatory nonfinancial disclosure",
+      "journal": "Management Science",
+      "year": 2019,
+      "volume": "65",
+      "issue": "7",
+      "pages": "3061-3084",
+      "doi": "10.1287/mnsc.2018.3099"
+    },
+    {
+      "authors": [
+        "Ioannou, I.",
+        "Serafeim, G."
+      ],
+      "title": "The consequences of mandatory corporate sustainability reporting",
+      "journal": "Harvard Business School Research Working Paper",
+      "year": 2017,
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "doi": "10.2139/ssrn.1799589"
+    },
+    {
+      "authors": [
+        "Dhaliwal, D.S.",
+        "Li, O.Z.",
+        "Tsang, A.",
+        "Yang, Y.G."
+      ],
+      "title": "Voluntary nonfinancial disclosure and the cost of equity capital",
+      "journal": "The Accounting Review",
+      "year": 2011,
+      "volume": "86",
+      "issue": "1",
+      "pages": "59-100",
+      "doi": "10.2308/accr.00000005"
+    },
+    {
+      "authors": [
+        "Broadstock, D.C.",
+        "Chan, K.",
+        "Cheng, L.T.W.",
+        "Wang, X."
+      ],
+      "title": "The role of ESG performance during times of financial crisis: Evidence from COVID-19 in China",
+      "journal": "Finance Research Letters",
+      "year": 2021,
+      "volume": "38",
+      "issue": null,
+      "pages": "101716",
+      "doi": "10.1016/j.frl.2020.101716"
+    },
+    {
+      "authors": [
+        "Lokuwaduge, C.S.D.S.",
+        "Heenetigala, K."
+      ],
+      "title": "Integrating environmental, social and governance (ESG) disclosure for a sustainable development",
+      "journal": "Business Strategy and the Environment",
+      "year": 2017,
+      "volume": "26",
+      "issue": "4",
+      "pages": "438-450",
+      "doi": "10.1002/bse.1927"
+    },
+    {
+      "authors": [
+        "Hummel, K.",
+        "Schlick, C."
+      ],
+      "title": "The relationship between sustainability performance and sustainability disclosure",
+      "journal": "Journal of Accounting and Public Policy",
+      "year": 2016,
+      "volume": "35",
+      "issue": "5",
+      "pages": "455-476",
+      "doi": "10.1016/j.jaccpubpol.2016.06.001"
+    },
+    {
+      "authors": [
+        "Clarkson, P.M.",
+        "Li, Y.",
+        "Richardson, G.D.",
+        "Vasvari, F.P."
+      ],
+      "title": "Revisiting the relation between environmental performance and environmental disclosure",
+      "journal": "Accounting, Organizations and Society",
+      "year": 2008,
+      "volume": "33",
+      "issue": "4-5",
+      "pages": "303-327",
+      "doi": "10.1016/j.aos.2007.05.003"
+    },
+    {
+      "authors": [
+        "Cho, C.H.",
+        "Michelon, G.",
+        "Patten, D.M.",
+        "Roberts, R.W."
+      ],
+      "title": "CSR disclosure: the more things change...?",
+      "journal": "Accounting, Auditing & Accountability Journal",
+      "year": 2015,
+      "volume": "28",
+      "issue": "1",
+      "pages": "14-35",
+      "doi": "10.1108/AAAJ-12-2013-1549"
+    },
+    {
+      "authors": [
+        "Hahn, R.",
+        "Kühnen, M."
+      ],
+      "title": "Determinants of sustainability reporting: a review of results, trends, theory, and opportunities",
+      "journal": "Journal of Cleaner Production",
+      "year": 2013,
+      "volume": "59",
+      "issue": null,
+      "pages": "5-21",
+      "doi": "10.1016/j.jclepro.2013.07.005"
+    },
+    {
+      "authors": [
+        "Matsumura, E.M.",
+        "Prakash, R.",
+        "Vera-Muñoz, S.C."
+      ],
+      "title": "Firm-value effects of carbon emissions and carbon disclosures",
+      "journal": "The Accounting Review",
+      "year": 2014,
+      "volume": "89",
+      "issue": "2",
+      "pages": "695-724",
+      "doi": "10.2308/accr-50629"
+    },
+    {
+      "authors": [
+        "Luo, L.",
+        "Tang, Q."
+      ],
+      "title": "Does voluntary carbon disclosure reflect underlying carbon performance?",
+      "journal": "Journal of Contemporary Accounting & Economics",
+      "year": 2014,
+      "volume": "10",
+      "issue": "3",
+      "pages": "191-205",
+      "doi": "10.1016/j.jcae.2014.08.003"
+    },
+    {
+      "authors": [
+        "Buallay, A."
+      ],
+      "title": "Is sustainability reporting (ESG) associated with performance?",
+      "journal": "Management of Environmental Quality",
+      "year": 2019,
+      "volume": "30",
+      "issue": "1",
+      "pages": "98-115",
+      "doi": "10.1108/MEQ-12-2017-0149"
+    },
+    {
+      "authors": [
+        "Dienes, D.",
+        "Sassen, R.",
+        "Fischer, J."
+      ],
+      "title": "What are the drivers of sustainability reporting? A systematic review",
+      "journal": "Sustainability Accounting, Management and Policy Journal",
+      "year": 2016,
+      "volume": "7",
+      "issue": "2",
+      "pages": "154-189",
+      "doi": "10.1108/SAMPJ-08-2014-0050"
+    },
+    {
+      "authors": [
+        "Braam, G.J.M.",
+        "de Weerd, L.U.",
+        "Hauck, M.",
+        "Huijbregts, M.A.J."
+      ],
+      "title": "Determinants of corporate social responsibility in sustainable development reporting",
+      "journal": "Corporate Social Responsibility and Environmental Management",
+      "year": 2016,
+      "volume": "23",
+      "issue": "4",
+      "pages": "248-262",
+      "doi": "10.1002/csr.1377"
+    },
+    {
+      "authors": [
+        "Qian, W.",
+        "Hörisch, J.",
+        "Schaltegger, S."
+      ],
+      "title": "Environmental management accounting and its effects on carbon management and disclosure quality",
+      "journal": "Journal of Cleaner Production",
+      "year": 2018,
+      "volume": "174",
+      "issue": null,
+      "pages": "1608-1619",
+      "doi": "10.1016/j.jclepro.2017.11.092"
+    },
+    {
+      "authors": [
+        "Michelon, G.",
+        "Pilonato, S.",
+        "Ricceri, F."
+      ],
+      "title": "CSR reporting practices and the quality of disclosure",
+      "journal": "Critical Perspectives on Accounting",
+      "year": 2015,
+      "volume": "33",
+      "issue": null,
+      "pages": "59-78",
+      "doi": "10.1016/j.cpa.2014.07.003"
+    },
+    {
+      "authors": [
+        "Raimo, N.",
+        "Caragnano, A.",
+        "Zito, M.",
+        "Vitolla, F.",
+        "Mariani, M."
+      ],
+      "title": "Extending the benefits of ESG disclosure: The effect on the cost of debt financing",
+      "journal": "Corporate Social Responsibility and Environmental Management",
+      "year": 2021,
+      "volume": "28",
+      "issue": "4",
+      "pages": "1412-1421",
+      "doi": "10.1002/csr.2134"
+    },
+    {
+      "authors": [
+        "Tamimi, N.",
+        "Sebastianelli, R."
+      ],
+      "title": "Transparency among S&P 500 companies: an analysis of ESG disclosure scores",
+      "journal": "Management Decision",
+      "year": 2017,
+      "volume": "55",
+      "issue": "8",
+      "pages": "1660-1680",
+      "doi": "10.1108/MD-01-2017-0018"
+    },
+    {
+      "authors": [
+        "Arayssi, M.",
+        "Dah, M.",
+        "Jizi, M."
+      ],
+      "title": "Women on boards, sustainability reporting and firm performance",
+      "journal": "Sustainability Accounting, Management and Policy Journal",
+      "year": 2016,
+      "volume": "7",
+      "issue": "3",
+      "pages": "376-401",
+      "doi": "10.1108/SAMPJ-07-2015-0055"
+    },
+    {
+      "authors": [
+        "Velte, P."
+      ],
+      "title": "Does ESG performance have an impact on financial performance? Evidence from Germany",
+      "journal": "Journal of Global Responsibility",
+      "year": 2017,
+      "volume": "8",
+      "issue": "2",
+      "pages": "169-178",
+      "doi": "10.1108/JGR-11-2016-0029"
+    },
+    {
+      "authors": [
+        "Garcia, A.S.",
+        "Mendes-Da-Silva, W.",
+        "Orsato, R.J."
+      ],
+      "title": "Sensitive industries produce better ESG performance: Evidence from emerging markets",
+      "journal": "Journal of Cleaner Production",
+      "year": 2017,
+      "volume": "150",
+      "issue": null,
+      "pages": "135-147",
+      "doi": "10.1016/j.jclepro.2017.02.180"
+    }
+  ],
+  "count": 25
+}

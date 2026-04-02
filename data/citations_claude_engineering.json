@@ -1,0 +1,358 @@
+{
+  "llm": "claude",
+  "domain": "engineering",
+  "citations": [
+    {
+      "authors": [
+        "Jihoon Moon",
+        "Junghwan Kim"
+      ],
+      "title": "ANN-based thermal control models for residential buildings",
+      "journal": "Building and Environment",
+      "year": 2010,
+      "volume": "45",
+      "issue": "12",
+      "pages": "2613-2623",
+      "doi": "10.1016/j.buildenv.2010.05.012"
+    },
+    {
+      "authors": [
+        "Ahmad Afram",
+        "Farrokh Janabi-Sharifi"
+      ],
+      "title": "Theory and applications of HVAC control systems – A review of model predictive control (MPC)",
+      "journal": "Building and Environment",
+      "year": 2014,
+      "volume": "72",
+      "issue": null,
+      "pages": "343-355",
+      "doi": "10.1016/j.buildenv.2013.11.016"
+    },
+    {
+      "authors": [
+        "Bing Dong",
+        "Cheng Yan",
+        "Zheng O'Neill"
+      ],
+      "title": "A review on building energy benchmarking with data mining approaches",
+      "journal": "Journal of Building Performance Simulation",
+      "year": 2018,
+      "volume": "11",
+      "issue": "3",
+      "pages": "259-274",
+      "doi": "10.1080/19401493.2017.1346778"
+    },
+    {
+      "authors": [
+        "Zeyu Wang",
+        "Ravi S. Srinivasan"
+      ],
+      "title": "A review of artificial intelligence based building energy use prediction",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2017,
+      "volume": "75",
+      "issue": null,
+      "pages": "796-808",
+      "doi": "10.1016/j.rser.2016.10.079"
+    },
+    {
+      "authors": [
+        "Kadir Amasyali",
+        "Nora M. El-Gohary"
+      ],
+      "title": "A review of data-driven building energy consumption prediction studies",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2018,
+      "volume": "81",
+      "issue": null,
+      "pages": "1192-1205",
+      "doi": "10.1016/j.rser.2017.04.095"
+    },
+    {
+      "authors": [
+        "Tianzhen Hong",
+        "Zhe Wang",
+        "Xuan Luo",
+        "Wanni Zhang"
+      ],
+      "title": "State-of-the-art on research and applications of machine learning in the building life cycle",
+      "journal": "Energy and Buildings",
+      "year": 2020,
+      "volume": "212",
+      "issue": null,
+      "pages": "109831",
+      "doi": "10.1016/j.enbuild.2020.109831"
+    },
+    {
+      "authors": [
+        "Elena Mocanu",
+        "Decebal Constantin Mocanu",
+        "Phuong H. Nguyen",
+        "Antonio Liotta",
+        "Michael E. Webber",
+        "Madeleine Gibescu",
+        "Jan G. Slootweg"
+      ],
+      "title": "On-line building energy optimization using deep reinforcement learning",
+      "journal": "IEEE Transactions on Smart Grid",
+      "year": 2019,
+      "volume": "10",
+      "issue": "4",
+      "pages": "3698-3708",
+      "doi": "10.1109/TSG.2018.2834219"
+    },
+    {
+      "authors": [
+        "Zhe Wang",
+        "Tianzhen Hong"
+      ],
+      "title": "Reinforcement learning for building controls: The opportunities and challenges",
+      "journal": "Applied Energy",
+      "year": 2020,
+      "volume": "269",
+      "issue": null,
+      "pages": "115036",
+      "doi": "10.1016/j.apenergy.2020.115036"
+    },
+    {
+      "authors": [
+        "Ruoxi Jia",
+        "Costas Spanos"
+      ],
+      "title": "Occupancy modelling in shared spaces of buildings: A review of data sources and methods",
+      "journal": "Building and Environment",
+      "year": 2017,
+      "volume": "115",
+      "issue": null,
+      "pages": "191-208",
+      "doi": "10.1016/j.buildenv.2017.01.022"
+    },
+    {
+      "authors": [
+        "Muhammad Waseem Ahmad",
+        "Monjur Mourshed",
+        "Yacine Rezgui"
+      ],
+      "title": "Trees vs Neurons: Comparison between random forest and ANN for high-resolution prediction of building energy consumption",
+      "journal": "Energy and Buildings",
+      "year": 2017,
+      "volume": "147",
+      "issue": null,
+      "pages": "77-89",
+      "doi": "10.1016/j.enbuild.2017.04.038"
+    },
+    {
+      "authors": [
+        "Saurabh Deshpande",
+        "Irfan Siddiqi",
+        "Tianzhen Hong"
+      ],
+      "title": "A review of smart building sensing system for better indoor environment control",
+      "journal": "Energy and Buildings",
+      "year": 2019,
+      "volume": "199",
+      "issue": null,
+      "pages": "29-46",
+      "doi": "10.1016/j.enbuild.2019.06.025"
+    },
+    {
+      "authors": [
+        "Yongbao Chen",
+        "Zhengwei Li",
+        "Dong Xia",
+        "Zhe Wang"
+      ],
+      "title": "A review of computational approaches for building energy prediction",
+      "journal": "Energy and Buildings",
+      "year": 2019,
+      "volume": "208",
+      "issue": null,
+      "pages": "109538",
+      "doi": "10.1016/j.enbuild.2019.109538"
+    },
+    {
+      "authors": [
+        "Liang Zhang",
+        "Jin Wen"
+      ],
+      "title": "A systematic feature selection procedure for short-term data-driven building energy forecasting model development",
+      "journal": "Energy and Buildings",
+      "year": 2019,
+      "volume": "183",
+      "issue": null,
+      "pages": "275-286",
+      "doi": "10.1016/j.enbuild.2018.11.010"
+    },
+    {
+      "authors": [
+        "Fuxin Niu",
+        "Zheng O'Neill",
+        "Conor O'Neill"
+      ],
+      "title": "Data-driven based estimation of HVAC energy consumption using an improved Fourier series decomposition in buildings",
+      "journal": "Building Simulation",
+      "year": 2018,
+      "volume": "11",
+      "issue": "4",
+      "pages": "633-645",
+      "doi": "10.1007/s12273-018-0431-2"
+    },
+    {
+      "authors": [
+        "Cheng Fan",
+        "Fu Xiao",
+        "Shengwei Wang"
+      ],
+      "title": "Development of prediction models for next-day building energy consumption and peak power demand using data mining techniques",
+      "journal": "Applied Energy",
+      "year": 2014,
+      "volume": "127",
+      "issue": null,
+      "pages": "1-10",
+      "doi": "10.1016/j.apenergy.2014.04.016"
+    },
+    {
+      "authors": [
+        "Seyed Mohammadreza Abtahi",
+        "Hossein Afshari",
+        "Amir Hossein Gandomi"
+      ],
+      "title": "IoT-based framework for energy management in smart buildings",
+      "journal": "Energy Reports",
+      "year": 2022,
+      "volume": "8",
+      "issue": null,
+      "pages": "3700-3721",
+      "doi": "10.1016/j.egyr.2022.02.308"
+    },
+    {
+      "authors": [
+        "Yassine Himeur",
+        "Khalida Ghanem",
+        "Abdullah Alsalemi",
+        "Faycal Bensaali",
+        "Abbes Amira"
+      ],
+      "title": "Artificial intelligence based anomaly detection of energy consumption in buildings",
+      "journal": "Applied Energy",
+      "year": 2021,
+      "volume": "287",
+      "issue": null,
+      "pages": "116601",
+      "doi": "10.1016/j.apenergy.2021.116601"
+    },
+    {
+      "authors": [
+        "Aowabin Rahman",
+        "Vivian Srikumar",
+        "Amanda D. Smith"
+      ],
+      "title": "Predicting electricity consumption for commercial and residential buildings using deep recurrent neural networks",
+      "journal": "Applied Energy",
+      "year": 2018,
+      "volume": "212",
+      "issue": null,
+      "pages": "372-385",
+      "doi": "10.1016/j.apenergy.2017.12.051"
+    },
+    {
+      "authors": [
+        "Jie Zhao",
+        "Khee Poh Lam",
+        "B. Erik Ydstie",
+        "Omer T. Karaguzel"
+      ],
+      "title": "EnergyPlus model-based predictive control within design-build-operate energy information modelling infrastructure",
+      "journal": "Journal of Building Performance Simulation",
+      "year": 2015,
+      "volume": "8",
+      "issue": "3",
+      "pages": "121-134",
+      "doi": "10.1080/19401493.2014.891656"
+    },
+    {
+      "authors": [
+        "Zhaoyang Song",
+        "Bing Dong"
+      ],
+      "title": "A review of occupancy detection and prediction for building HVAC systems",
+      "journal": "Energy and Buildings",
+      "year": 2023,
+      "volume": "284",
+      "issue": null,
+      "pages": "112835",
+      "doi": "10.1016/j.enbuild.2023.112835"
+    },
+    {
+      "authors": [
+        "Mahmoud Abdelrahman",
+        "Sicheng Zhan",
+        "Clayton Miller",
+        "Adrian Chong"
+      ],
+      "title": "Data science for building energy efficiency: A comprehensive review",
+      "journal": "Renewable and Sustainable Energy Reviews",
+      "year": 2022,
+      "volume": "160",
+      "issue": null,
+      "pages": "112132",
+      "doi": "10.1016/j.rser.2022.112132"
+    },
+    {
+      "authors": [
+        "Cheng Fan",
+        "Fu Xiao",
+        "Yang Zhao"
+      ],
+      "title": "A short-term building cooling load prediction method using deep learning algorithms",
+      "journal": "Applied Energy",
+      "year": 2017,
+      "volume": "195",
+      "issue": null,
+      "pages": "222-233",
+      "doi": "10.1016/j.apenergy.2017.03.064"
+    },
+    {
+      "authors": [
+        "Mamun Hossain",
+        "Bronislav Melichar",
+        "Petr Toman"
+      ],
+      "title": "IoT-enabled smart energy grid: Applications and challenges",
+      "journal": "IEEE Access",
+      "year": 2019,
+      "volume": "7",
+      "issue": null,
+      "pages": "60369-60397",
+      "doi": "10.1109/ACCESS.2019.2915119"
+    },
+    {
+      "authors": [
+        "Benjamin Kremers",
+        "Adel Mellit",
+        "Alessandro Guilizzoni"
+      ],
+      "title": "Internet of Things for smart buildings",
+      "journal": "Automation in Construction",
+      "year": 2021,
+      "volume": "130",
+      "issue": null,
+      "pages": "103936",
+      "doi": "10.1016/j.autcon.2021.103936"
+    },
+    {
+      "authors": [
+        "Zixuan Deng",
+        "Qiang Chen"
+      ],
+      "title": "Artificial intelligence in smart buildings: A systematic review of intelligent thermal comfort management",
+      "journal": "Energy and Buildings",
+      "year": 2023,
+      "volume": "278",
+      "issue": null,
+      "pages": "112602",
+      "doi": "10.1016/j.enbuild.2022.112602"
+    }
+  ],
+  "count": 25
+}

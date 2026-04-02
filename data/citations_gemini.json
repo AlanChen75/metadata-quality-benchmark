@@ -1,0 +1,2037 @@
+{
+  "llm": "gemini",
+  "domains": {
+    "cs_ml": {
+      "raw_response": "[\n  {\n    \"authors\": [\"Vaswani, Ashish\", \"Shazeer, Noam\", \"Parmar, Niki\", \"Uszkoreit, Jakob\", \"Jones, Llion\", \"Gomez, Aidan N.\", \"Kaiser, Łukasz\", \"Polosukhin, Illia\"],\n    \"title\": \"Attention is All You Need\",\n    \"journal\": \"Advances in Neural Information Processing Systems\",\n    \"year\": 2017,\n    \"volume\": \"30\",\n    \"pages\": \"5998-6008\",\n    \"doi\": \"10.5555/3295222.3295349\"\n  },\n  {\n    \"authors\": [\"Devlin, Jacob\", \"Chang, Ming-Wei\", \"Lee, Kenton\", \"Toutanova, Kristina\"],\n    \"title\": \"BERT: ...",
+      "citations": [
+        {
+          "authors": [
+            "Vaswani, Ashish",
+            "Shazeer, Noam",
+            "Parmar, Niki",
+            "Uszkoreit, Jakob",
+            "Jones, Llion",
+            "Gomez, Aidan N.",
+            "Kaiser, Łukasz",
+            "Polosukhin, Illia"
+          ],
+          "title": "Attention is All You Need",
+          "journal": "Advances in Neural Information Processing Systems",
+          "year": 2017,
+          "volume": "30",
+          "pages": "5998-6008",
+          "doi": "10.5555/3295222.3295349"
+        },
+        {
+          "authors": [
+            "Devlin, Jacob",
+            "Chang, Ming-Wei",
+            "Lee, Kenton",
+            "Toutanova, Kristina"
+          ],
+          "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+          "journal": "Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+          "year": 2019,
+          "volume": "1",
+          "pages": "1728-1743",
+          "doi": "10.18653/v1/N19-1423"
+        },
+        {
+          "authors": [
+            "Radford, Alec",
+            "Wu, Jeff",
+            "Child, Rewon",
+            "Luan, David",
+            "Amodei, Dario",
+            "Amarasinghe, Ilya"
+          ],
+          "title": "Language Models are Unsupervised Multitask Learners",
+          "journal": "Proceedings of the 33rd International Conference on Machine Learning",
+          "year": 2019,
+          "volume": "97",
+          "pages": "5790-5799",
+          "doi": "10.5555/354664.354670"
+        },
+        {
+          "authors": [
+            "Liu, Yinhan",
+            "Ott, Myle",
+            "Goyal, Naman",
+            "Du, Jingfei",
+            "Joshi, Mandar",
+            "Chen, Dan",
+            "Levy, Omer",
+            "Lewis, Mike",
+            "Zettlemoyer, Luke",
+            "Stoyanov, Veselin"
+          ],
+          "title": "RoBERTa: A Robustly optimized BERT pretraining approach",
+          "journal": "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing",
+          "year": 2019,
+          "pages": "3559-3570",
+          "doi": "10.18653/v1/D19-1413"
+        },
+        {
+          "authors": [
+            "Yang, Zhilin",
+            "Qi, Guo",
+            "Zhang, Yu",
+            "Chen, Zhiyuan",
+            "Liu, Wei",
+            "Zheng, Jie"
+          ],
+          "title": "XLNet: Generalized Autoregressive Pretraining for Language Understanding",
+          "journal": "Proceedings of the 33rd International Conference on Machine Learning",
+          "year": 2019,
+          "volume": "97",
+          "pages": "5753-5763",
+          "doi": "10.5555/354664.354670"
+        },
+        {
+          "authors": [
+            "Raffel, Colin",
+            "Shazeer, Noam",
+            "Roberts, Adam",
+            "Lee, Katherine",
+            "Narang, Sharan",
+            "Matena, Michael",
+            "Yan, Yan",
+            "Zhou, Wei",
+            "Liu, Peter J.",
+            "Liu, Xia"
+          ],
+          "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+          "journal": "Journal of Machine Learning Research",
+          "year": 2020,
+          "volume": "21",
+          "pages": "1-67",
+          "doi": "10.5555/3488560.3488573"
+        },
+        {
+          "authors": [
+            "Conneau, Alexis",
+            "Khandelwal, Kartik",
+            "Goyal, Naman",
+            "Chaudhary, Vishrav",
+            "Wenzek, Guillaume",
+            "Guzmán, Francisco",
+            "Joshi, Edouard",
+            "Lafferty, John",
+            "Lopez, Thibaut",
+            "Lupkowski, Philippe",
+            "Schwenk, Holger"
+          ],
+          "title": "Unsupervised Cross-Lingual Representation Learning at Scale",
+          "journal": "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics",
+          "year": 2020,
+          "pages": "8440-8451",
+          "doi": "10.18653/v1/2020.acl-main.747"
+        },
+        {
+          "authors": [
+            "Lewis, Patrick",
+            "Liu, Yang",
+            "Zhang, Linqing",
+            "Guo, Shuai",
+            "Perez, Jason"
+          ],
+          "title": "Pre-training via Paraphrasing",
+          "journal": "Advances in Neural Information Processing Systems",
+          "year": 2020,
+          "volume": "33",
+          "pages": "14647-14658",
+          "doi": "10.5555/3467948.3467950"
+        },
+        {
+          "authors": [
+            "Sanh, Victor",
+            "Debut, Lysandre",
+            "Chaumond, Julien",
+            "Wolf, Thomas"
+          ],
+          "title": "DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",
+          "journal": "NeurIPS 2019 Workshop on Energy Efficiency in Machine Learning",
+          "year": 2019,
+          "pages": "1-8",
+          "doi": "10.5281/zenodo.3713236"
+        },
+        {
+          "authors": [
+            "Reif, Emily",
+            "Chang, Ann",
+            "McDonald, Jason",
+            "Kenton, Zachary",
+            "Feng, Lijuan"
+          ],
+          "title": "Visualizing and Measuring the Geometry of BERT",
+          "journal": "Advances in Neural Information Processing Systems",
+          "year": 2019,
+          "volume": "32",
+          "pages": "8593-8603",
+          "doi": "10.5555/3454287.3455228"
+        },
+        {
+          "authors": [
+            "Ethayarajh, Kawin",
+            "Duvenaud, David",
+            "Hinton, Geoffrey"
+          ],
+          "title": "Understanding Transformer-based Models: Interpretability, Explainability and Beyond",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5401-5412",
+          "doi": "10.18653/v1/2020.emnlp-main.435"
+        },
+        {
+          "authors": [
+            "Wu, Qinyuan",
+            "Wang, Bill Y.",
+            "Kumar, Sanjeev",
+            "Goyal, Naman",
+            "Liu, Xiang"
+          ],
+          "title": "Adversarial Training for Large Neural Language Models",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5413-5423",
+          "doi": "10.18653/v1/2020.emnlp-main.436"
+        },
+        {
+          "authors": [
+            "Zhang, Yuxiang",
+            "Han, Xu",
+            "Zhou, Hao",
+            "Zhang, Pei",
+            "Wang, Yuxian",
+            "Liu, Zhiyuan",
+            "Sun, Maosong"
+          ],
+          "title": "CPM: A Large-scale Generative Chinese Language Model",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5544-5554",
+          "doi": "10.18653/v1/2020.emnlp-main.451"
+        },
+        {
+          "authors": [
+            "Beltagy, Iz",
+            "Peters, Matthew E.",
+            "Carenini, Giuseppe"
+          ],
+          "title": "Longformer: The Long-Document Transformer",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5481-5492",
+          "doi": "10.18653/v1/2020.emnlp-main.445"
+        },
+        {
+          "authors": [
+            "Wang, Alex",
+            "Singh, Amanpreet",
+            "Michael, Julian",
+            "Hill, Felix",
+            "Levy, Omer",
+            "Bows, Samuel"
+          ],
+          "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+          "journal": "Proceedings of the 2018 EMNLP Workshop: BlackboxNLP",
+          "year": 2018,
+          "pages": "353-364",
+          "doi": "10.18653/v1/W18-5446"
+        },
+        {
+          "authors": [
+            "Wang, Yuxian",
+            "Liu, Zhiyuan",
+            "Sun, Maosong"
+          ],
+          "title": "CLUE: A Chinese Language Understanding Evaluation Benchmark",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5566-5577",
+          "doi": "10.18653/v1/2020.emnlp-main.454"
+        },
+        {
+          "authors": [
+            "Adadi, Amina",
+            "Berrada, Mohamed"
+          ],
+          "title": "Peeking Inside the Black-Box: A Survey on Explainability of Machine Learning Models",
+          "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2018,
+          "volume": "29",
+          "issue": "5",
+          "pages": "1654-1667",
+          "doi": "10.1109/TNNLS.2017.2697859"
+        },
+        {
+          "authors": [
+            "Lin, Zeyu",
+            "Madotto, Andrea",
+            "Shen, Xiang",
+            "Ren, Pascale"
+          ],
+          "title": "Commonsense Transformers: A Survey",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5556-5565",
+          "doi": "10.18653/v1/2020.emnlp-main.453"
+        },
+        {
+          "authors": [
+            "Gao, Ce",
+            "Zhou, Fei",
+            "Zhang, Yijun",
+            "Liu, Zhiyuan",
+            "Sun, Maosong"
+          ],
+          "title": "Evaluating the Factual Accuracy of Abstractive Text Summarization",
+          "journal": "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2020,
+          "pages": "5590-5601",
+          "doi": "10.18653/v1/2020.emnlp-main.457"
+        },
+        {
+          "authors": [
+            "Zhang, Yuxiang",
+            "Han, Xu",
+            "Zhou, Hao",
+            "Zhang, Pei",
+            "Wang, Yuxian",
+            "Liu, Zhiyuan",
+            "Sun, Maosong"
+          ],
+          "title": "CPM-2: Large-scale Cost-effective Pre-trained Language Models",
+          "journal": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2021,
+          "pages": "5440-5451",
+          "doi": "10.18653/v1/2021.emnlp-main.443"
+        },
+        {
+          "authors": [
+            "Xu, Jing",
+            "Ren, Xiang",
+            "Lin, Jiawei",
+            "Sun, Xu"
+          ],
+          "title": "Evaluating and Improving the Robustness of Language Models to Out-of-Vocabulary Words",
+          "journal": "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2021,
+          "pages": "5630-5641",
+          "doi": "10.18653/v1/2021.emnlp-main.459"
+        },
+        {
+          "authors": [
+            "Zhang, Yichi",
+            "Chen, Xinyu",
+            "Liu, Zhiyuan",
+            "Sun, Maosong"
+          ],
+          "title": "Few-Shot Learning for Natural Language Processing: A Survey",
+          "journal": "IEEE Transactions on Neural Networks and Learning Systems",
+          "year": 2022,
+          "volume": "33",
+          "issue": "1",
+          "pages": "201-214",
+          "doi": "10.1109/TNNLS.2020.3015943"
+        },
+        {
+          "authors": [
+            "Wang, Linqing",
+            "Zhou, Hao",
+            "Zhang, Yuxiang",
+            "Han, Xu",
+            "Sun, Maosong"
+          ],
+          "title": "Evaluating the Performance of Large Language Models on a Variety of NLP Tasks",
+          "journal": "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+          "year": 2022,
+          "pages": "5540-5551",
+          "doi": "10.18653/v1/2022.emnlp-main.451"
+        }
+      ],
+      "count": 23
+    },
+    "finance": {
+      "raw_response": "[\n{\n\"authors\": [\"Stefan Lessmann\", \"Bart Baesens\", \"Hsin-Vonn Seow\", \"Lyn C. Thomas\"],\n\"title\": \"Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research\",\n\"journal\": \"European Journal of Operational Research\",\n\"year\": 2015,\n\"volume\": \"247\",\n\"issue\": \"1\",\n\"pages\": \"124-136\",\n\"doi\": \"10.1016/j.ejor.2015.05.030\"\n},\n{\n\"authors\": [\"Flavio Barboza\", \"Herbert Kimura\", \"Edward Altman\"],\n\"title\": \"Machine learning models and bankruptcy prediction\",\n\"journal\": \"Ex...",
+      "citations": [
+        {
+          "authors": [
+            "Stefan Lessmann",
+            "Bart Baesens",
+            "Hsin-Vonn Seow",
+            "Lyn C. Thomas"
+          ],
+          "title": "Benchmarking state-of-the-art classification algorithms for credit scoring: An update of research",
+          "journal": "European Journal of Operational Research",
+          "year": 2015,
+          "volume": "247",
+          "issue": "1",
+          "pages": "124-136",
+          "doi": "10.1016/j.ejor.2015.05.030"
+        },
+        {
+          "authors": [
+            "Flavio Barboza",
+            "Herbert Kimura",
+            "Edward Altman"
+          ],
+          "title": "Machine learning models and bankruptcy prediction",
+          "journal": "Expert Systems with Applications",
+          "year": 2017,
+          "volume": "83",
+          "issue": "n/a",
+          "pages": "405-417",
+          "doi": "10.1016/j.eswa.2017.04.006"
+        },
+        {
+          "authors": [
+            "Thomas Fischer",
+            "Christopher Krauss"
+          ],
+          "title": "Deep learning with long short-term memory networks for financial market predictions",
+          "journal": "European Journal of Operational Research",
+          "year": 2018,
+          "volume": "270",
+          "issue": "2",
+          "pages": "654-669",
+          "doi": "10.1016/j.ejor.2017.11.054"
+        },
+        {
+          "authors": [
+            "Peter M. Addo",
+            "Dominique Guegan",
+            "Bertrand Hassani"
+          ],
+          "title": "Credit Risk Analysis Using Machine and Deep Learning Models",
+          "journal": "Risks",
+          "year": 2018,
+          "volume": "6",
+          "issue": "2",
+          "pages": "38",
+          "doi": "10.3390/risks6020038"
+        },
+        {
+          "authors": [
+            "Martin Leo",
+            "Suneel Sharma",
+            "K. Maddulety"
+          ],
+          "title": "Machine learning in banking risk management: A literature review",
+          "journal": "Risks",
+          "year": 2019,
+          "volume": "7",
+          "issue": "1",
+          "pages": "29",
+          "doi": "10.3390/risks7010029"
+        },
+        {
+          "authors": [
+            "Takahiro Hosaka"
+          ],
+          "title": "Bankruptcy prediction using deep learning with financial ratios as images",
+          "journal": "Expert Systems with Applications",
+          "year": 2019,
+          "volume": "117",
+          "issue": "n/a",
+          "pages": "131-139",
+          "doi": "10.1016/j.eswa.2018.09.044"
+        },
+        {
+          "authors": [
+            "Xolani Dastile",
+            "Turgay Celik",
+            "Abbey K. Potsane"
+          ],
+          "title": "Statistical and machine learning models in credit scoring: A systematic literature survey",
+          "journal": "Applied Soft Computing",
+          "year": 2020,
+          "volume": "91",
+          "issue": "n/a",
+          "pages": "106263",
+          "doi": "10.1016/j.asoc.2020.106263"
+        },
+        {
+          "authors": [
+            "Massimiliano Moscatelli",
+            "Fabio Parlapiano",
+            "Salvatore Narizzano",
+            "Gianluca Viggiano"
+          ],
+          "title": "Corporate default forecasting with machine learning: expert-based feature selection and non-linear effects",
+          "journal": "Expert Systems with Applications",
+          "year": 2020,
+          "volume": "150",
+          "issue": "n/a",
+          "pages": "113120",
+          "doi": "10.1016/j.eswa.2019.113120"
+        },
+        {
+          "authors": [
+            "Jianzhou Wang",
+            "Tingting Sun",
+            "Bin Liu",
+            "Yafeng Cao",
+            "Zhenhai Wang"
+          ],
+          "title": "Financial time series forecasting model based on deep learning: A systematic literature review",
+          "journal": "IEEE Access",
+          "year": 2020,
+          "volume": "8",
+          "issue": "n/a",
+          "pages": "118509-118531",
+          "doi": "10.1109/ACCESS.2020.3005735"
+        },
+        {
+          "authors": [
+            "B. R. Gunnarsson",
+            "S. vanden Broucke",
+            "B. Baesens",
+            "M. Óskarsdóttir",
+            "W. Lemahieu"
+          ],
+          "title": "Deep learning for credit scoring: Do we need specialized architectures?",
+          "journal": "International Journal of Forecasting",
+          "year": 2021,
+          "volume": "37",
+          "issue": "3",
+          "pages": "1371-1383",
+          "doi": "10.1016/j.ijforecast.2021.03.012"
+        },
+        {
+          "authors": [
+            "Alex Gramegna",
+            "Paolo Giudici"
+          ],
+          "title": "SHAP and LIME: An application of explainable AI in credit risk management",
+          "journal": "Engineering Applications of Artificial Intelligence",
+          "year": 2021,
+          "volume": "106",
+          "issue": "n/a",
+          "pages": "104461",
+          "doi": "10.1016/j.engappai.2021.104461"
+        },
+        {
+          "authors": [
+            "Wei Jiang"
+          ],
+          "title": "Applications of deep learning in stock market prediction: recent advances",
+          "journal": "Expert Systems with Applications",
+          "year": 2021,
+          "volume": "184",
+          "issue": "n/a",
+          "pages": "115537",
+          "doi": "10.1016/j.eswa.2021.115537"
+        },
+        {
+          "authors": [
+            "Nikita Kozodoi",
+            "Johannes Jacob",
+            "Stefan Lessmann"
+          ],
+          "title": "Fairness in credit scoring: Assessment, implementation and optimization",
+          "journal": "European Journal of Operational Research",
+          "year": 2022,
+          "volume": "297",
+          "issue": "3",
+          "pages": "1083-1094",
+          "doi": "10.1016/j.ejor.2021.06.021"
+        },
+        {
+          "authors": [
+            "Zichao Hu",
+            "Ying Zhao",
+            "Min Hua"
+          ],
+          "title": "Forecasting stock markets using deep learning: A systematic review",
+          "journal": "Journal of Forecasting",
+          "year": 2022,
+          "volume": "41",
+          "issue": "5",
+          "pages": "903-921",
+          "doi": "10.1002/for.2842"
+        },
+        {
+          "authors": [
+            "Alejandro Lopez-Lira",
+            "Yuehua Tang"
+          ],
+          "title": "Can ChatGPT Forecast Stock Price Changes? Return Predictability and Large Language Models",
+          "journal": "SSRN Electronic Journal",
+          "year": 2023,
+          "volume": "n/a",
+          "issue": "n/a",
+          "pages": "n/a",
+          "doi": "10.2139/ssrn.4412788"
+        },
+        {
+          "authors": [
+            "Michalis Doumpos",
+            "Constantin Zopounidis",
+            "Dimitrios Gounopoulos",
+            "Emmanouil Platanakis",
+            "Wenke Zhang"
+          ],
+          "title": "Operational research and artificial intelligence methods in banking",
+          "journal": "European Journal of Operational Research",
+          "year": 2023,
+          "volume": "306",
+          "issue": "1",
+          "pages": "1-16",
+          "doi": "10.1016/j.ejor.2022.07.017"
+        },
+        {
+          "authors": [
+            "Nicolas Suhadolnik",
+            "Jo Ueyama",
+            "Sergio Da Silva"
+          ],
+          "title": "Machine Learning for Enhanced Credit Risk Assessment: An Empirical Approach",
+          "journal": "Journal of Risk and Financial Management",
+          "year": 2023,
+          "volume": "16",
+          "issue": "12",
+          "pages": "496",
+          "doi": "10.3390/jrfm16120496"
+        },
+        {
+          "authors": [
+            "Victor Chang",
+            "Sharuga Sivakulasingam",
+            "Hai Wang",
+            "Siu Tung Wong",
+            "Meghana Ashok Ganatra",
+            "Jiabin Luo"
+          ],
+          "title": "Credit Risk Prediction Using Machine Learning and Deep Learning: A Study on Credit Card Customers",
+          "journal": "Risks",
+          "year": 2024,
+          "volume": "12",
+          "issue": "11",
+          "pages": "174",
+          "doi": "10.3390/risks12110174"
+        },
+        {
+          "authors": [
+            "Matteo Bagnara"
+          ],
+          "title": "Asset Pricing and Machine Learning: A critical review",
+          "journal": "Journal of Economic Surveys",
+          "year": 2024,
+          "volume": "38",
+          "issue": "1",
+          "pages": "27-56",
+          "doi": "10.1111/joes.12561"
+        },
+        {
+          "authors": [
+            "Jinjuan Yang",
+            "Jiayuan Xin",
+            "Yan Zeng",
+            "Pei Jose Liu"
+          ],
+          "title": "Signaling and perceiving on equity crowdfunding decisions — a machine learning approach",
+          "journal": "Small Business Economics",
+          "year": 2025,
+          "volume": "65",
+          "issue": "1",
+          "pages": "315-356",
+          "doi": "10.1007/s11187-024-00913-6"
+        },
+        {
+          "authors": [
+            "Jing Hao",
+            "Feng He",
+            "Feng Ma",
+            "Shibo Zhang",
+            "Xiaotao Zhang"
+          ],
+          "title": "Machine learning vs deep learning in stock market investment: an international evidence",
+          "journal": "Annals of Operations Research",
+          "year": 2025,
+          "volume": "348",
+          "issue": "1",
+          "pages": "93-115",
+          "doi": "10.1007/s10479-024-05891-2"
+        },
+        {
+          "authors": [
+            "Martha Misas",
+            "Daniel Arango-Londoño"
+          ],
+          "title": "Deep learning in credit risk assessment: A survey",
+          "journal": "Risks",
+          "year": 2021,
+          "volume": "9",
+          "issue": "12",
+          "pages": "226",
+          "doi": "10.3390/risks9120226"
+        },
+        {
+          "authors": [
+            "Sercan Aras"
+          ],
+          "title": "A novel hybrid model based on GARCH and neural network for financial forecasting",
+          "journal": "Expert Systems with Applications",
+          "year": 2021,
+          "volume": "174",
+          "issue": "n/a",
+          "pages": "114755",
+          "doi": "10.1016/j.eswa.2021.114755"
+        },
+        {
+          "authors": [
+            "Wenke Zhang",
+            "Dongni Yang",
+            "Liyan Han"
+          ],
+          "title": "Deep learning for financial market prediction: A review",
+          "journal": "Frontiers of Information Technology & Electronic Engineering",
+          "year": 2021,
+          "volume": "22",
+          "issue": "9",
+          "pages": "1173-1187",
+          "doi": "10.1631/FITEE.2000030"
+        },
+        {
+          "authors": [
+            "Yue Chen",
+            "Bryan Kelly",
+            "Dacheng Xiu"
+          ],
+          "title": "Deep Learning in Asset Pricing",
+          "journal": "Journal of Econometrics",
+          "year": 2024,
+          "volume": "240",
+          "issue": "2",
+          "pages": "105655",
+          "doi": "10.1016/j.jeconom.2023.105655"
+        }
+      ],
+      "count": 25
+    },
+    "biomedicine": {
+      "raw_response": "[\n{\n\"authors\": [\"Olaf Ronneberger\", \"Philipp Fischer\", \"Thomas Brox\"],\n\"title\": \"U-Net: Convolutional Networks for Biomedical Image Segmentation\",\n\"journal\": \"Medical Image Computing and Computer-Assisted Intervention (MICCAI)\",\n\"year\": 2015,\n\"volume\": \"9351\",\n\"issue\": \"1\",\n\"pages\": \"234-241\",\n\"doi\": \"10.1007/978-3-319-24574-4_28\"\n},\n{\n\"authors\": [\"Varun Gulshan\", \"Lily Peng\", \"Marc Coram\", \"Martin C. Stumpe\", \"Derek Wu\", \"Arjun Narayanaswamy\", \"Subhashini Venugopalan\", \"Kasumi Widner\", \"Tom Mad...",
+      "citations": [
+        {
+          "authors": [
+            "Olaf Ronneberger",
+            "Philipp Fischer",
+            "Thomas Brox"
+          ],
+          "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+          "journal": "Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+          "year": 2015,
+          "volume": "9351",
+          "issue": "1",
+          "pages": "234-241",
+          "doi": "10.1007/978-3-319-24574-4_28"
+        },
+        {
+          "authors": [
+            "Varun Gulshan",
+            "Lily Peng",
+            "Marc Coram",
+            "Martin C. Stumpe",
+            "Derek Wu",
+            "Arjun Narayanaswamy",
+            "Subhashini Venugopalan",
+            "Kasumi Widner",
+            "Tom Madams",
+            "Jorge Cuadros",
+            "Ramachandran Sayres",
+            "Karthik Lakshminarayanan",
+            "Rajiv Saxon",
+            "George S. Keane",
+            "Niels Klein",
+            "Brian Yun",
+            "Daniel R. Morales",
+            "Philip J. Smith",
+            "Robert Knoblach",
+            "Irene P. Chen",
+            "Brian L. Deegan",
+            "Irfan S. Hussain",
+            "Robert G. Hutchinson",
+            "April J. Martin",
+            "Timothy Tyagi",
+            "Roy Rama",
+            "Zhenyu Tan",
+            "Trevor J. Bloom",
+            "Andrew C. Webster",
+            "George S. Corrado",
+            "Yossi Matias",
+            "Greg S. Corrado",
+            "David R. Webster",
+            "Lily H. Peng",
+            "Daniel R. Webster"
+          ],
+          "title": "Development and Validation of a Deep Learning Algorithm for Detection of Diabetic Retinopathy in Retinal Fundus Photographs",
+          "journal": "JAMA",
+          "year": 2016,
+          "volume": "316",
+          "issue": "22",
+          "pages": "2402-2410",
+          "doi": "10.1001/jama.2016.17216"
+        },
+        {
+          "authors": [
+            "Fausto Milletari",
+            "Nassir Navab",
+            "Seyed-Ahmad Ahmadi"
+          ],
+          "title": "V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation",
+          "journal": "2016 Fourth International Conference on 3D Vision (3DV)",
+          "year": 2016,
+          "volume": "1",
+          "issue": "1",
+          "pages": "565-571",
+          "doi": "10.1109/3DV.2016.79"
+        },
+        {
+          "authors": [
+            "Andre Esteva",
+            "Brett Kuprel",
+            "Roberto A. Novoa",
+            "Justin Ko",
+            "Susan M. Swetter",
+            "Helen M. Blau",
+            "Sebastian Thrun"
+          ],
+          "title": "Dermatologist-level classification of skin cancer with deep neural networks",
+          "journal": "Nature",
+          "year": 2017,
+          "volume": "542",
+          "issue": "7639",
+          "pages": "115-118",
+          "doi": "10.1038/nature21056"
+        },
+        {
+          "authors": [
+            "Geert Litjens",
+            "Thijs Kooi",
+            "Babusaravanan Bejnordi",
+            "Arnaud Arindra Adiyoso Setio",
+            "Francesco Ciompi",
+            "Mohsen Ghafoorian",
+            "Jeroen van der Laak",
+            "Bram van Ginneken",
+            "Clara I. Sánchez"
+          ],
+          "title": "A survey on deep learning in medical image analysis",
+          "journal": "Medical Image Analysis",
+          "year": 2017,
+          "volume": "42",
+          "issue": "1",
+          "pages": "60-88",
+          "doi": "10.1016/j.media.2017.07.005"
+        },
+        {
+          "authors": [
+            "Babusaravanan Bejnordi",
+            "Mitko Veta",
+            "Johannes van Diest",
+            "Bram van Ginneken",
+            "Nico Karssemeijer",
+            "Geert Litjens",
+            "Jeroen van der Laak"
+          ],
+          "title": "Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer",
+          "journal": "JAMA",
+          "year": 2017,
+          "volume": "318",
+          "issue": "22",
+          "pages": "2199-2210",
+          "doi": "10.1001/jama.2017.14585"
+        },
+        {
+          "authors": [
+            "Jeffrey De Fauw",
+            "Joseph R. Ledsam",
+            "Bernardino Romera-Paredes",
+            "Stanislav Nikolov",
+            "Nenad Tomasev",
+            "Sam Blackwell",
+            "Harry Askham",
+            "Xavier Glorot",
+            "Brendan O'Donoghue",
+            "Daniel Visentin",
+            "George van den Driessche",
+            "Balis Lakshminarayanan",
+            "Clemens Meyer",
+            "Faith Mackinder",
+            "Ruth Pankhurst",
+            "Charles J. Kelly",
+            "Alan Karthikesalingam",
+            "Christopher Yau",
+            "Ursula Schmidt-Erfurth",
+            "Catherine P. Egan",
+            "Pearse A. Keane",
+            "Dominic King",
+            "Demis Hassabis",
+            "Mustafa Suleyman",
+            "Trevor Back",
+            "Christhopher Yau",
+            "Ursula Schmidt-Erfurth",
+            "Catherine P. Egan",
+            "Pearse A. Keane",
+            "Dominic King",
+            "Demis Hassabis",
+            "Mustafa Suleyman",
+            "Trevor Back"
+          ],
+          "title": "Clinically applicable deep learning for diagnosis and referral in retinal disease",
+          "journal": "Nature Medicine",
+          "year": 2018,
+          "volume": "24",
+          "issue": "9",
+          "pages": "1342-1350",
+          "doi": "10.1038/s41591-018-0107-6"
+        },
+        {
+          "authors": [
+            "Daniel S. Kermany",
+            "Michael Goldbaum",
+            "Wenjia Cai",
+            "Carolina C. S. Valentim",
+            "Huiying Liang",
+            "Sally L. Baxter",
+            "Alex McKeown",
+            "Ge Yang",
+            "Xiaokang Wu",
+            "Fanghao Yan",
+            "Jing Dong",
+            "Mengkui Prasad",
+            "Jingjing Zhao",
+            "Tingting Chao",
+            "Wenbin Hu",
+            "Xiaohui Tao",
+            "Yi Hou",
+            "Liping Zhang",
+            "Jie Sun",
+            "John S. Goldbaum",
+            "Wenjia Cai",
+            "Carolina C.S. Valentim",
+            "Huiying Liang",
+            "Sally L. Baxter",
+            "Alex McKeown",
+            "Ge Yang",
+            "Xiaokang Wu",
+            "Fanghao Yan",
+            "Jing Dong",
+            "Mengkui Prasad",
+            "Jingjing Zhao",
+            "Tingting Chao",
+            "Wenbin Hu",
+            "Xiaohui Tao",
+            "Yi Hou",
+            "Liping Zhang",
+            "Jie Sun",
+            "John S. Zhang",
+            "Huiying Liang",
+            "Sally L. Baxter",
+            "Alex McKeown",
+            "Ge Yang",
+            "Xiaokang Wu",
+            "Fanghao Yan",
+            "Jing Dong",
+            "Mengkui Prasad",
+            "Jingjing Zhao",
+            "Tingting Chao",
+            "Wenbin Hu",
+            "Xiaohui Tao",
+            "Yi Hou",
+            "Liping Zhang",
+            "Jie Sun",
+            "John S. Zhang"
+          ],
+          "title": "Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning",
+          "journal": "Cell",
+          "year": 2018,
+          "volume": "172",
+          "issue": "5",
+          "pages": "1122-1131",
+          "doi": "10.1016/j.cell.2018.02.010"
+        },
+        {
+          "authors": [
+            "Diego Ardila",
+            "Atilla P. Kiraly",
+            "Sushant Bharadwaj",
+            "Bonsu Choi",
+            "Jeffrey J. Reicher",
+            "Lily Peng",
+            "Daniel Tse",
+            "Mads Eslund",
+            "Hua Ge",
+            "Shravya Shetty"
+          ],
+          "title": "End-to-end lung cancer screening with three-dimensional deep learning on low-dose chest computed tomography",
+          "journal": "Nature Medicine",
+          "year": 2019,
+          "volume": "25",
+          "issue": "6",
+          "pages": "954-961",
+          "doi": "10.1038/s41591-019-0447-x"
+        },
+        {
+          "authors": [
+            "Gabriele Campanella",
+            "Matthew G. Hanna",
+            "Luke Geneslaw",
+            "Allen Miraflor",
+            "Vitor Werneck Krauss Silva",
+            "Klaus J. Busam",
+            "Victor E. Reuter",
+            "David S. Klimstra",
+            "Thomas J. Fuchs"
+          ],
+          "title": "Clinical-grade computational pathology using weakly supervised deep learning on whole slide images",
+          "journal": "Nature Medicine",
+          "year": 2019,
+          "volume": "25",
+          "issue": "8",
+          "pages": "1301-1309",
+          "doi": "10.1038/s41591-019-0508-1"
+        },
+        {
+          "authors": [
+            "Zongwei Zhou",
+            "Vimal Singh",
+            "Johannes Wu",
+            "Jianming Liang"
+          ],
+          "title": "Models Genesis: Generic Self-Supervised Pre-Training for Medical Image Analysis",
+          "journal": "Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+          "year": 2019,
+          "volume": "11767",
+          "issue": "1",
+          "pages": "384-393",
+          "doi": "10.1007/978-3-030-32251-9_42"
+        },
+        {
+          "authors": [
+            "Scott Mayer McKinney",
+            "Marcin Sieniek",
+            "Varun Godbole",
+            "Jonathan Godwin",
+            "Natalia Antropova",
+            "Hutan Ashrafian",
+            "Trevor Back",
+            "Mary Chesus",
+            "Greg S. Corrado",
+            "Ara Darzi",
+            "Mozziyar Etemadi",
+            "Fiona J. Gilbert",
+            "Anthony Karthikesalingam",
+            "Dominic King",
+            "Shravya Shetty"
+          ],
+          "title": "International evaluation of an AI system for breast cancer screening",
+          "journal": "Nature",
+          "year": 2020,
+          "volume": "577",
+          "issue": "7788",
+          "pages": "89-94",
+          "doi": "10.1038/s41586-019-1799-6"
+        },
+        {
+          "authors": [
+            "Yuan Liu",
+            "Ayush Jain",
+            "Chih-Hung Eng",
+            "David H. Way",
+            "Kevin Lee",
+            "Patryk Bui",
+            "Kanaka J. Lappin",
+            "Michael C. Nelson",
+            "Susannah M. Swetter",
+            "Justin Ko",
+            "Sheena S. Swetter",
+            "Justin Ko"
+          ],
+          "title": "A deep learning system for differential diagnosis of skin diseases",
+          "journal": "Nature Medicine",
+          "year": 2020,
+          "volume": "26",
+          "issue": "6",
+          "pages": "900-908",
+          "doi": "10.1038/s41591-020-0842-3"
+        },
+        {
+          "authors": [
+            "Nicola Rieke",
+            "Jeevesh Holger",
+            "Abhinav Natarajan",
+            "Spyridon Bakas",
+            "Rickmer Braren",
+            "Giacomo Giacomo",
+            "Spero Spero",
+            "Ivana Isgum",
+            "Justin Justin",
+            "Bram van Ginneken",
+            "Daniel Daniel",
+            "James James",
+            "Michelle Michelle",
+            "Stephen Stephen"
+          ],
+          "title": "The future of digital health with federated learning",
+          "journal": "Nature Medicine",
+          "year": 2020,
+          "volume": "26",
+          "issue": "6",
+          "pages": "814-824",
+          "doi": "10.1038/s41591-020-0898-0"
+        },
+        {
+          "authors": [
+            "Fabian Isensee",
+            "Paul F. Jaeger",
+            "Simon A. A. Kohl",
+            "Jens Petersen",
+            "Klaus H. Maier-Hein"
+          ],
+          "title": "nnU-Net: a self-configuring method for deep learning-based biomedical image segmentation",
+          "journal": "Nature Methods",
+          "year": 2021,
+          "volume": "18",
+          "issue": "2",
+          "pages": "203-211",
+          "doi": "10.1038/s41592-020-01008-z"
+        },
+        {
+          "authors": [
+            "S. Kevin Zhou",
+            "Hayit Greenspan",
+            "Christos Davatzikos",
+            "James S. Duncan",
+            "Bram van Ginneken",
+            "Anant Madabhushi",
+            "Jerry L. Prince",
+            "Erik Meijering",
+            "Ronald M. Summers"
+          ],
+          "title": "A Review of Deep Learning in Medical Imaging: Imaging Traits, Challenges, and Prospects",
+          "journal": "Proceedings of the IEEE",
+          "year": 2021,
+          "volume": "109",
+          "issue": "5",
+          "pages": "603-638",
+          "doi": "10.1109/JPROC.2021.3054339"
+        },
+        {
+          "authors": [
+            "Shekoofeh Azizi",
+            "Basil Mustafa",
+            "Fiona Ryan",
+            "Zachary Beaver",
+            "Jan Freyberg",
+            "Jonathan Deaton",
+            "Aaron Loh",
+            "Alan Karthikesalingam",
+            "Simon Kornblith",
+            "Ting Chen",
+            "Vivek Natarajan",
+            "Mohammad Norouzi"
+          ],
+          "title": "Big self-supervised models are strong medical image learners",
+          "journal": "Nature Communications",
+          "year": 2021,
+          "volume": "12",
+          "issue": "1",
+          "pages": "4689",
+          "doi": "10.1038/s41467-021-24988-z"
+        },
+        {
+          "authors": [
+            "J. M. J. Valanarasu",
+            "P. Oneto",
+            "R. Sethumadhavan",
+            "V. M. Patel"
+          ],
+          "title": "Medical Transformer: Gated Axial-Attention for Medical Image Segmentation",
+          "journal": "Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+          "year": 2021,
+          "volume": "12901",
+          "issue": "1",
+          "pages": "36-46",
+          "doi": "10.1007/978-3-030-87193-2_4"
+        },
+        {
+          "authors": [
+            "Ali Hatamizadeh",
+            "Vishwa Nath",
+            "Yucheng Tang",
+            "Dong Yang",
+            "Holger R. Roth",
+            "Daguang Xu"
+          ],
+          "title": "Swin UNETR: Swin Transformers for Semantic Segmentation of Multi-modal Medical Images",
+          "journal": "Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+          "year": 2022,
+          "volume": "13435",
+          "issue": "1",
+          "pages": "273-284",
+          "doi": "10.1007/978-3-031-16443-9_26"
+        },
+        {
+          "authors": [
+            "Yucheng Tang",
+            "Dong Yang",
+            "Wenqi Li",
+            "Holger R. Roth",
+            "Bennett Landman",
+            "Daguang Xu",
+            "Vishwa Nath",
+            "Ali Hatamizadeh"
+          ],
+          "title": "Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis",
+          "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+          "year": 2022,
+          "volume": "1",
+          "issue": "1",
+          "pages": "20730-20740",
+          "doi": "10.1109/CVPR52688.2022.02007"
+        },
+        {
+          "authors": [
+            "Michael Moor",
+            "Oisín Banerjee",
+            "Harlan J. Abadneh",
+            "Theodore H. K. Cheng",
+            "Aditya J. Hull",
+            "Pang Wei Koh",
+            "Jure Leskovec"
+          ],
+          "title": "Foundation models for generalist medical artificial intelligence",
+          "journal": "Nature",
+          "year": 2023,
+          "volume": "616",
+          "issue": "7956",
+          "pages": "259-265",
+          "doi": "10.1038/s41586-023-05881-4"
+        },
+        {
+          "authors": [
+            "Jun Ma",
+            "Yutong He",
+            "Feifei Li",
+            "Lin Han",
+            "Chenyu You",
+            "Bo Wang"
+          ],
+          "title": "Segment anything in medical images",
+          "journal": "Nature Communications",
+          "year": 2024,
+          "volume": "15",
+          "issue": "1",
+          "pages": "654",
+          "doi": "10.1038/s41467-024-44824-z"
+        },
+        {
+          "authors": [
+            "Haoran Wang",
+            "Qiuye Jin",
+            "Shiman Li",
+            "Siyu Liu",
+            "Manning Wang",
+            "Zhijian Song"
+          ],
+          "title": "A comprehensive survey on deep active learning in medical image analysis",
+          "journal": "Medical Image Analysis",
+          "year": 2024,
+          "volume": "95",
+          "issue": "1",
+          "pages": "103201",
+          "doi": "10.1016/j.media.2024.103201"
+        },
+        {
+          "authors": [
+            "Arda Atalık",
+            "Sumit Chopra",
+            "Daniel K. Sodickson"
+          ],
+          "title": "A Trust-Guided Approach to MR Image Reconstruction with Side Information",
+          "journal": "IEEE Transactions on Medical Imaging",
+          "year": 2025,
+          "volume": "PP",
+          "issue": "99",
+          "pages": "1-12",
+          "doi": "10.1109/TMI.2025.3614546"
+        },
+        {
+          "authors": [
+            "H. Jin",
+            "C. Yu",
+            "J. Zhang",
+            "R. Zheng",
+            "Y. Fu",
+            "Y. Zhao"
+          ],
+          "title": "Multitask Swin Transformer for classification and characterization of pulmonary nodules in CT images",
+          "journal": "Quantitative Imaging in Medicine and Surgery",
+          "year": 2025,
+          "volume": "15",
+          "issue": "3",
+          "pages": "1845-1860",
+          "doi": "10.21037/qims-24-1108"
+        }
+      ],
+      "count": 25
+    },
+    "engineering": {
+      "raw_response": "[\n{\n\"authors\": [\"Amina Sghiri\", \"Maryam Gallab\", \"Safae Merzouk\", \"Saliha Assoul\"],\n\"title\": \"Leveraging Digital Twins for Enhancing Building Energy Efficiency: A Literature Review of Applications, Technologies, and Challenges\",\n\"journal\": \"Buildings\",\n\"year\": 2025,\n\"volume\": \"15\",\n\"issue\": \"3\",\n\"pages\": \"498\",\n\"doi\": \"10.3390/buildings15030498\"\n},\n{\n\"authors\": [\"Mukilan Poyyamozhi\", \"Balasubramanian Murugesan\", \"Narayanamoorthi Rajamanickam\", \"Mohammad Shorfuzzaman\", \"Yasser Aboelmagd\"],\n\"title...",
+      "citations": [
+        {
+          "authors": [
+            "Amina Sghiri",
+            "Maryam Gallab",
+            "Safae Merzouk",
+            "Saliha Assoul"
+          ],
+          "title": "Leveraging Digital Twins for Enhancing Building Energy Efficiency: A Literature Review of Applications, Technologies, and Challenges",
+          "journal": "Buildings",
+          "year": 2025,
+          "volume": "15",
+          "issue": "3",
+          "pages": "498",
+          "doi": "10.3390/buildings15030498"
+        },
+        {
+          "authors": [
+            "Mukilan Poyyamozhi",
+            "Balasubramanian Murugesan",
+            "Narayanamoorthi Rajamanickam",
+            "Mohammad Shorfuzzaman",
+            "Yasser Aboelmagd"
+          ],
+          "title": "IoT—A Promising Solution to Energy Management in Smart Buildings: A Systematic Review, Applications, Barriers, and Future Scope",
+          "journal": "Buildings",
+          "year": 2024,
+          "volume": "14",
+          "issue": "11",
+          "pages": "3446",
+          "doi": "10.3390/buildings14113446"
+        },
+        {
+          "authors": [
+            "Konstantinos Chatzikonstantinidis",
+            "Nicholas Afxentiou",
+            "Effrosyni Giama",
+            "Paris A. Fokaides",
+            "Agis M. Papadopoulos"
+          ],
+          "title": "Energy management of smart buildings during crises and digital twins as an optimisation tool for sustainable urban environment",
+          "journal": "International Journal of Sustainable Energy",
+          "year": 2025,
+          "volume": "44",
+          "issue": "1",
+          "pages": "2455134",
+          "doi": "10.1080/14786451.2025.2455134"
+        },
+        {
+          "authors": [
+            "Panagiotis Michailidis",
+            "Federico Minelli",
+            "Iakovos Michailidis",
+            "Mehmet Kurucan",
+            "Hasan Huseyin Coban",
+            "Elias Kosmatopoulos"
+          ],
+          "title": "Machine Learning for Energy Management in Buildings: A Systematic Review on Real-World Applications",
+          "journal": "Energies",
+          "year": 2025,
+          "volume": "19",
+          "issue": "1",
+          "pages": "219",
+          "doi": "10.3390/en19010219"
+        },
+        {
+          "authors": [
+            "Mehdi Ghiai",
+            "Marjan Pahlevani"
+          ],
+          "title": "Enhancing Indoor Environmental Quality through IoT: A Review of Applications and Challenges",
+          "journal": "Journal of Information Technology in Construction (ITcon)",
+          "year": 2025,
+          "volume": "30",
+          "issue": "1",
+          "pages": "1478-1496",
+          "doi": "10.36680/j.itcon.2025.060"
+        },
+        {
+          "authors": [
+            "M. A. Khan",
+            "Z. Sabahat",
+            "M. S. Farooq",
+            "M. Saleem",
+            "S. Abbas",
+            "M. Ahmad",
+            "M. M. Saeed"
+          ],
+          "title": "Optimizing smart home energy management for sustainability using machine learning techniques",
+          "journal": "Discover Sustainability",
+          "year": 2024,
+          "volume": "5",
+          "issue": "1",
+          "pages": "430",
+          "doi": "10.1007/s43621-024-00430-x"
+        },
+        {
+          "authors": [
+            "S. Malik",
+            "S. Malik",
+            "I. Singh",
+            "H. V. Gupta",
+            "S. Prakash",
+            "R. Jain",
+            "Y. C. Hu"
+          ],
+          "title": "Deep learning based predictive analysis of energy consumption for smart homes",
+          "journal": "Multimedia Tools and Applications",
+          "year": 2024,
+          "volume": "83",
+          "issue": "12",
+          "pages": "1-22",
+          "doi": "10.1007/s11042-024-18300-4"
+        },
+        {
+          "authors": [
+            "S. W. Al",
+            "A. M. Alghamdi"
+          ],
+          "title": "Smart home energy optimization system",
+          "journal": "Thermal Science",
+          "year": 2024,
+          "volume": "28",
+          "issue": "6 Part B",
+          "pages": "5071-5085",
+          "doi": "10.2298/TSCI2405071A"
+        },
+        {
+          "authors": [
+            "M. Farghali",
+            "A. I. Osman",
+            "I. M. Mohamed",
+            "Z. Chen",
+            "L. Chen",
+            "I. Ihara",
+            "D. W. Rooney"
+          ],
+          "title": "Strategies to save energy in the context of the energy crisis: A review",
+          "journal": "Environmental Chemistry Letters",
+          "year": 2023,
+          "volume": "21",
+          "issue": "4",
+          "pages": "2003-2039",
+          "doi": "10.1007/s10311-023-01588-y"
+        },
+        {
+          "authors": [
+            "Madhusudan Soni"
+          ],
+          "title": "Energy-Efficient Deep Learning Architectures for IoT Devices",
+          "journal": "International Journal of Advanced Research and Multidisciplinary Trends (IJARMT)",
+          "year": 2025,
+          "volume": "2",
+          "issue": "2",
+          "pages": "865-882",
+          "doi": "10.5281/zenodo.11183209"
+        },
+        {
+          "authors": [
+            "Z. Chen",
+            "C. B. Sivaparthipan",
+            "B. Muthu"
+          ],
+          "title": "IoT based smart and intelligent smart city energy optimization",
+          "journal": "Sustainable Energy Technologies and Assessments",
+          "year": 2022,
+          "volume": "49",
+          "issue": "1",
+          "pages": "101724",
+          "doi": "10.1016/j.seta.2021.101724"
+        },
+        {
+          "authors": [
+            "S. A. A. Abir",
+            "A. Anwar",
+            "J. Choi",
+            "A. Kayes"
+          ],
+          "title": "IoT-enabled smart energy grid: Applications and challenges",
+          "journal": "IEEE Access",
+          "year": 2021,
+          "volume": "9",
+          "issue": "1",
+          "pages": "50961-50981",
+          "doi": "10.1109/ACCESS.2021.3069354"
+        },
+        {
+          "authors": [
+            "P. Lissa",
+            "C. Deane",
+            "M. Schukat",
+            "F. Seri",
+            "M. Keane",
+            "E. Barrett"
+          ],
+          "title": "Deep reinforcement learning for home energy management system control",
+          "journal": "Energy and AI",
+          "year": 2021,
+          "volume": "3",
+          "issue": "1",
+          "pages": "100043",
+          "doi": "10.1016/j.egyai.2020.100043"
+        },
+        {
+          "authors": [
+            "S. H. Andrade",
+            "G. O. Contente",
+            "L. B. Rodrigues",
+            "L. X. Lima",
+            "N. L. Vijaykumar",
+            "C. R. L. Francês"
+          ],
+          "title": "A smart home architecture for smart energy consumption in a residence with multiple users",
+          "journal": "IEEE Access",
+          "year": 2021,
+          "volume": "9",
+          "issue": "1",
+          "pages": "16807-16824",
+          "doi": "10.1109/ACCESS.2021.3052822"
+        },
+        {
+          "authors": [
+            "S. A. Mansouri",
+            "A. Ahmarinejad",
+            "E. Nematbakhsh",
+            "M. S. Javadi",
+            "A. R. Jordehi",
+            "J. P. Catalao"
+          ],
+          "title": "Energy management in microgrids including smart homes: A multi-objective approach",
+          "journal": "Sustainable Cities and Society",
+          "year": 2021,
+          "volume": "69",
+          "issue": "1",
+          "pages": "102852",
+          "doi": "10.1016/j.scs.2021.102852"
+        },
+        {
+          "authors": [
+            "J. J. Moreno Escobar",
+            "O. Morales Matamoros",
+            "R. Tejeida Padilla",
+            "I. Lina Reyes",
+            "H. Quintana Espinosa"
+          ],
+          "title": "A comprehensive review on smart grids: Challenges and opportunities",
+          "journal": "Sensors",
+          "year": 2021,
+          "volume": "21",
+          "issue": "21",
+          "pages": "6978",
+          "doi": "10.3390/s21216978"
+        },
+        {
+          "authors": [
+            "B. Qolomany",
+            "A. Al-Fuqaha",
+            "A. Gupta",
+            "D. Benhaddou",
+            "S. Al-Ali",
+            "J. Qadir",
+            "A. C. Fong"
+          ],
+          "title": "Leveraging Intelligent IoT Devices for Smart City Services: A Survey",
+          "journal": "IEEE Access",
+          "year": 2019,
+          "volume": "7",
+          "issue": "1",
+          "pages": "155743-155767",
+          "doi": "10.1109/ACCESS.2019.2949219"
+        },
+        {
+          "authors": [
+            "J. Iqbal",
+            "M. Khan",
+            "M. Talha",
+            "H. Farman",
+            "B. Jan",
+            "A. Muhammad",
+            "H. A. Khattak"
+          ],
+          "title": "A generic internet of things architecture for controlling electrical energy consumption in smart homes",
+          "journal": "Sustainable Cities and Society",
+          "year": 2018,
+          "volume": "43",
+          "issue": "1",
+          "pages": "443-450",
+          "doi": "10.1016/j.scs.2018.09.016"
+        },
+        {
+          "authors": [
+            "M. Li",
+            "W. Gu",
+            "W. Chen",
+            "Y. He",
+            "Y. Wu",
+            "Y. Zhang"
+          ],
+          "title": "Smart home: Architecture, technologies and systems",
+          "journal": "Procedia Computer Science",
+          "year": 2018,
+          "volume": "131",
+          "issue": "1",
+          "pages": "393-400",
+          "doi": "10.1016/j.procs.2018.04.186"
+        },
+        {
+          "authors": [
+            "Z. Chen",
+            "C. B. Sivaparthipan",
+            "B. Muthu"
+          ],
+          "title": "Smart home energy management through behavioural analytics",
+          "journal": "Energy and Buildings",
+          "year": 2018,
+          "volume": "173",
+          "issue": "1",
+          "pages": "61-70",
+          "doi": "10.1016/j.enbuild.2018.05.018"
+        },
+        {
+          "authors": [
+            "D. Minoli",
+            "K. Sohraby",
+            "B. Occhiogrosso"
+          ],
+          "title": "IoT Considerations, Requirements, and Architectures for Smart Buildings—Energy Optimization and Next-Generation Building Management Systems",
+          "journal": "IEEE Internet of Things Journal",
+          "year": 2017,
+          "volume": "4",
+          "issue": "1",
+          "pages": "269-283",
+          "doi": "10.1109/JIOT.2017.2647881"
+        },
+        {
+          "authors": [
+            "Y. Wei",
+            "X. Zhang",
+            "Y. Shi",
+            "L. Xia",
+            "S. Pan",
+            "J. Wu",
+            "M. Han",
+            "X. Zhao"
+          ],
+          "title": "A review of data-driven approaches for prediction and classification of building energy consumption",
+          "journal": "Renewable and Sustainable Energy Reviews",
+          "year": 2018,
+          "volume": "82",
+          "issue": "1",
+          "pages": "1027-1047",
+          "doi": "10.1016/j.rser.2017.09.108"
+        },
+        {
+          "authors": [
+            "A. R. Al-Ali",
+            "R. Zualkernan",
+            "M. Rashid",
+            "R. Gupta",
+            "M. Alikarar"
+          ],
+          "title": "Smart Home Management System Based on ERP and IoT",
+          "journal": "IEEE Transactions on Consumer Electronics",
+          "year": 2017,
+          "volume": "63",
+          "issue": "4",
+          "pages": "426-434",
+          "doi": "10.1109/TCE.2017.015014"
+        },
+        {
+          "authors": [
+            "L. Liu",
+            "Y. Liu",
+            "L. Wang",
+            "A. Zomaya",
+            "S. Hu"
+          ],
+          "title": "Economical and balanced energy usage in the smart home infrastructure: A tutorial and new results",
+          "journal": "IEEE Transactions on Emerging Topics in Computing",
+          "year": 2015,
+          "volume": "3",
+          "issue": "4",
+          "pages": "556-570",
+          "doi": "10.1109/TETC.2015.2414772"
+        },
+        {
+          "authors": [
+            "M. Manic",
+            "K. Amarasinghe",
+            "J. J. Rodriguez-Andina",
+            "C. Rieger"
+          ],
+          "title": "Intelligent Buildings of the Future: The Role of IoT and Machine Learning",
+          "journal": "IEEE Industrial Electronics Magazine",
+          "year": 2016,
+          "volume": "10",
+          "issue": "4",
+          "pages": "32-49",
+          "doi": "10.1109/MIE.2016.2615575"
+        }
+      ],
+      "count": 25
+    },
+    "social_science": {
+      "raw_response": "[\n{\n\"authors\": [\"Stefan Arvidsson\", \"James Dumay\"],\n\"title\": \"Corporate ESG reporting quantity, quality and materiality: a review and future research agenda\",\n\"journal\": \"Accounting, Auditing & Accountability Journal\",\n\"year\": 2022,\n\"volume\": \"35\",\n\"issue\": \"1\",\n\"pages\": \"188-216\",\n\"doi\": \"10.1108/AAAJ-05-2020-4545\"\n},\n{\n\"authors\": [\"Patrycja Habek\", \"Radosław Wolniak\"],\n\"title\": \"Assessing the quality of corporate social responsibility reports: the case of reporting practices in selected Europe...",
+      "citations": [
+        {
+          "authors": [
+            "Stefan Arvidsson",
+            "James Dumay"
+          ],
+          "title": "Corporate ESG reporting quantity, quality and materiality: a review and future research agenda",
+          "journal": "Accounting, Auditing & Accountability Journal",
+          "year": 2022,
+          "volume": "35",
+          "issue": "1",
+          "pages": "188-216",
+          "doi": "10.1108/AAAJ-05-2020-4545"
+        },
+        {
+          "authors": [
+            "Patrycja Habek",
+            "Radosław Wolniak"
+          ],
+          "title": "Assessing the quality of corporate social responsibility reports: the case of reporting practices in selected European Union member states",
+          "journal": "Quality & Quantity",
+          "year": 2016,
+          "volume": "50",
+          "issue": "1",
+          "pages": "399-420",
+          "doi": "10.1007/s11135-014-0155-z"
+        },
+        {
+          "authors": [
+            "Giovanna Michelon",
+            "Silvia Pilonato",
+            "Federica Ricceri"
+          ],
+          "title": "CSR reporting practices and the quality of disclosure: An empirical analysis",
+          "journal": "Critical Perspectives on Accounting",
+          "year": 2015,
+          "volume": "33",
+          "issue": "1",
+          "pages": "59-78",
+          "doi": "10.1016/j.cpa.2014.10.003"
+        },
+        {
+          "authors": [
+            "Katrin Hummel",
+            "Christian Schlick"
+          ],
+          "title": "The relationship between sustainability performance and sustainability disclosure – Reconciling voluntary disclosure theory and legitimacy theory",
+          "journal": "Journal of Accounting and Public Policy",
+          "year": 2016,
+          "volume": "35",
+          "issue": "5",
+          "pages": "455-476",
+          "doi": "10.1016/j.jaccpubpol.2016.06.001"
+        },
+        {
+          "authors": [
+            "Hans B. Christensen",
+            "Luzi Hail",
+            "Christian Leuz"
+          ],
+          "title": "Mandatory CSR and sustainability reporting: economic analysis and literature review",
+          "journal": "Review of Accounting Studies",
+          "year": 2021,
+          "volume": "26",
+          "issue": "3",
+          "pages": "1176-1248",
+          "doi": "10.1007/s11142-021-09609-5"
+        },
+        {
+          "authors": [
+            "Jody Grewal",
+            "Edward J. Riedl",
+            "George Serafeim"
+          ],
+          "title": "Market Reaction to Mandatory Nonfinancial Disclosure",
+          "journal": "Management Science",
+          "year": 2019,
+          "volume": "65",
+          "issue": "7",
+          "pages": "3061-3084",
+          "doi": "10.1287/mnsc.2018.3067"
+        },
+        {
+          "authors": [
+            "Matteo La Torre",
+            "Svetlana Sabelfeld",
+            "Mikael Blomkvist",
+            "Lara Tarquinio",
+            "James Dumay"
+          ],
+          "title": "Harmonising non-financial reporting: Is the EU Directive 2014/95/EU on the right track?",
+          "journal": "Sustainability Accounting, Management and Policy Journal",
+          "year": 2018,
+          "volume": "9",
+          "issue": "5",
+          "pages": "584-609",
+          "doi": "10.1108/SAMPJ-03-2018-0083"
+        },
+        {
+          "authors": [
+            "Dominique Diouf",
+            "Olivier Boiral"
+          ],
+          "title": "The Quality of Sustainability Reports and Outcomes of Stakeholder Engagement in Carbon Disclosure Project Reports",
+          "journal": "Journal of Business Ethics",
+          "year": 2017,
+          "volume": "141",
+          "issue": "3",
+          "pages": "641-667",
+          "doi": "10.1007/s10551-015-2826-6"
+        },
+        {
+          "authors": [
+            "Olivier Boiral",
+            "Jean-François Henri"
+          ],
+          "title": "Is Sustainability Performance Comparable? A Study of GRI Reports of Mining Organizations",
+          "journal": "Business & Society",
+          "year": 2017,
+          "volume": "56",
+          "issue": "2",
+          "pages": "283-317",
+          "doi": "10.1177/0007650315576134"
+        },
+        {
+          "authors": [
+            "Hervé Stolowy",
+            "Luc Paugam"
+          ],
+          "title": "The sustainability reporting field: a classification of benchmarks",
+          "journal": "European Accounting Review",
+          "year": 2018,
+          "volume": "27",
+          "issue": "3",
+          "pages": "513-555",
+          "doi": "10.1080/09638180.2018.1435334"
+        },
+        {
+          "authors": [
+            "Francesca Manes-Rossi",
+            "Adriana Tiron-Tudor",
+            "Giacomo Nicolò",
+            "Natalia Aversano"
+          ],
+          "title": "The disclosure of non-financial information in Europe: The state of the art and future perspectives",
+          "journal": "Sustainability Accounting, Management and Policy Journal",
+          "year": 2018,
+          "volume": "9",
+          "issue": "2",
+          "pages": "166-186",
+          "doi": "10.1108/SAMPJ-10-2017-0116"
+        },
+        {
+          "authors": [
+            "Simone Pizzi",
+            "Fabio Caputo",
+            "Antonella Corvino",
+            "Andrea Venturelli"
+          ],
+          "title": "The impact of the board of directors on the quality of non-financial reporting: a systematic literature review",
+          "journal": "Sustainability Accounting, Management and Policy Journal",
+          "year": 2022,
+          "volume": "13",
+          "issue": "3",
+          "pages": "582-608",
+          "doi": "10.1108/SAMPJ-05-2021-0182"
+        },
+        {
+          "authors": [
+            "Carol A. Adams",
+            "Subhash Abhayawansa"
+          ],
+          "title": "Connecting the COVID-19 pandemic, environmental, social and governance (ESG) investing and reporting: the role of internal auditing",
+          "journal": "Accounting, Auditing & Accountability Journal",
+          "year": 2022,
+          "volume": "35",
+          "issue": "2",
+          "pages": "431-457",
+          "doi": "10.1108/AAAJ-08-2020-4796"
+        },
+        {
+          "authors": [
+            "Pedro Gomez-Carrasco",
+            "Encarna Guillamon-Saorin",
+            "Beatriz Garcia-Osma"
+          ],
+          "title": "Stakeholders versus investors: The responsiveness of corporate social responsibility disclosures to public vs private pressure",
+          "journal": "Corporate Social Responsibility and Environmental Management",
+          "year": 2021,
+          "volume": "28",
+          "issue": "1",
+          "pages": "317-332",
+          "doi": "10.1002/csr.2051"
+        },
+        {
+          "authors": [
+            "Laura Mervelskemper",
+            "Daniel Streit"
+          ],
+          "title": "A Study on the Value Relevance of Corporate Social Responsibility Disclosures: The Moderating Role of Assurance and ESG Reporting Frames",
+          "journal": "Journal of Business Ethics",
+          "year": 2017,
+          "volume": "143",
+          "issue": "1",
+          "pages": "129-141",
+          "doi": "10.1007/s10551-015-2834-6"
+        },
+        {
+          "authors": [
+            "Rashid Zaman",
+            "Monomita Nandy",
+            "Suman Lodh"
+          ],
+          "title": "Corporate governance and corporate social responsibility reporting: the case of a developing country",
+          "journal": "Business Strategy and the Environment",
+          "year": 2021,
+          "volume": "30",
+          "issue": "1",
+          "pages": "121-142",
+          "doi": "10.1002/bse.2613"
+        },
+        {
+          "authors": [
+            "Peter Fiechter",
+            "Frank-Bernhard Hitz",
+            "Nico Lehmann"
+          ],
+          "title": "The Impact of Adopting Common ESG Reporting Standards on Firm Equity Value",
+          "journal": "Journal of International Accounting Research",
+          "year": 2022,
+          "volume": "21",
+          "issue": "2",
+          "pages": "57-86",
+          "doi": "10.2308/JIAR-2021-042"
+        },
+        {
+          "authors": [
+            "Angie Buitrago-Franco",
+            "Sandra Rodriguez-Cano",
+            "David Arango-Londoño"
+          ],
+          "title": "The Quality of Sustainability Reporting in Higher Education Institutions",
+          "journal": "Journal of Cleaner Production",
+          "year": 2020,
+          "volume": "257",
+          "issue": "1",
+          "pages": "120513",
+          "doi": "10.1016/j.jclepro.2020.120513"
+        },
+        {
+          "authors": [
+            "Andrea Venturelli",
+            "Fabio Caputo",
+            "Stefania Cosma",
+            "Rossella Leopizzi"
+          ],
+          "title": "The external assurance of sustainability reports: A review of the literature",
+          "journal": "Sustainability",
+          "year": 2017,
+          "volume": "9",
+          "issue": "3",
+          "pages": "462",
+          "doi": "10.3390/su9030462"
+        },
+        {
+          "authors": [
+            "Jing Lu",
+            "Jia Wang"
+          ],
+          "title": "Corporate social responsibility and sustainability reporting: A review",
+          "journal": "Sustainability",
+          "year": 2021,
+          "volume": "13",
+          "issue": "12",
+          "pages": "6591",
+          "doi": "10.3390/su13126591"
+        },
+        {
+          "authors": [
+            "Carol A. Adams",
+            "Carlos Larrinaga"
+          ],
+          "title": "Progress: engaging with organisations in pursuit of improved sustainability accounting and performance",
+          "journal": "Accounting, Auditing & Accountability Journal",
+          "year": 2019,
+          "volume": "32",
+          "issue": "8",
+          "pages": "2367-2394",
+          "doi": "10.1108/AAAJ-03-2018-3399"
+        },
+        {
+          "authors": [
+            "Abdullahi Ahmed Haji",
+            "Musa Anifowose"
+          ],
+          "title": "The role of integrated reporting in enhancing systems thinking in corporate reporting",
+          "journal": "Corporate Governance: The International Journal of Business in Society",
+          "year": 2016,
+          "volume": "16",
+          "issue": "5",
+          "pages": "865-891",
+          "doi": "10.1108/CG-10-2015-0142"
+        },
+        {
+          "authors": [
+            "Filippo Vitolla",
+            "Nicola Raimo",
+            "Michele Rubino"
+          ],
+          "title": "Appreciations, criticisms and challenges of integrated reporting: a systematic literature review",
+          "journal": "Corporate Social Responsibility and Environmental Management",
+          "year": 2019,
+          "volume": "26",
+          "issue": "4",
+          "pages": "743-758",
+          "doi": "10.1002/csr.1738"
+        },
+        {
+          "authors": [
+            "Patrick Velte"
+          ],
+          "title": "The impact of the board’s sustainability expertise on sustainability reporting quality: A review of the empirical literature",
+          "journal": "Journal of Applied Accounting Research",
+          "year": 2023,
+          "volume": "24",
+          "issue": "3",
+          "pages": "433-455",
+          "doi": "10.1108/JAAR-11-2021-0303"
+        },
+        {
+          "authors": [
+            "Gregory Jackson",
+            "Julia Bartosch",
+            "Emma Avetisyan",
+            "Daniel Kinderman",
+            "Jette Steen Knudsen"
+          ],
+          "title": "Mandatory Non-financial Disclosure and Its Influence on CSR: An International Comparison",
+          "journal": "Journal of Business Ethics",
+          "year": 2020,
+          "volume": "162",
+          "issue": "2",
+          "pages": "323-342",
+          "doi": "10.1007/s10551-019-04273-z"
+        }
+      ],
+      "count": 25
+    }
+  }
+}
