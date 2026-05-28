@@ -34,7 +34,7 @@ def main():
 
     # 2. Other LLM citations (4 files)
     llm_configs = {
-        "citations_gpt5nano.json": ("gpt-4.1-nano", "commercial"),
+        "citations_gpt-4.1-nano.json": ("gpt-4.1-nano", "commercial"),
         "citations_gemini.json": ("gemini-3-flash", "commercial"),
         "citations_llama70b.json": ("llama-3.3-70b", "open_source"),
         "citations_llama8b.json": ("llama-3.1-8b", "open_source"),

@@ -1,0 +1,78 @@
+{
+  "version": "1.0",
+  "instruction": "For each domain, use the EXACT prompt below. Do NOT modify wording across LLMs — consistency is critical for cross-model comparison.",
+  "prompt_template": "You are an academic researcher writing a literature review on the topic: \"{topic}\". Please recommend 25 relevant scholarly references published between 2015 and 2025. For EACH reference, provide the following in a structured JSON array format:\n\n[\n  {\n    \"authors\": [\"First Author\", \"Second Author\"],\n    \"title\": \"Exact paper title\",\n    \"journal\": \"Journal or Conference name\",\n    \"year\": 2023,\n    \"volume\": \"12\",\n    \"issue\": \"3\",\n    \"pages\": \"100-120\",\n    \"doi\": \"10.xxxx/xxxxx\"\n  }\n]\n\nPlease provide only real, verifiable references. Do not fabricate any citations. Return ONLY the JSON array, no other text.",
+  "domains": {
+    "cs_ml": {
+      "topic": "transformer-based models for natural language processing and their evaluation benchmarks",
+      "count": 25,
+      "target_per_llm": 25,
+      "review_papers_for_human": [
+        "Recent survey papers on transformer architectures and NLP benchmarks from ACM Computing Surveys, JMLR, or similar"
+      ]
+    },
+    "finance": {
+      "topic": "machine learning applications in credit risk assessment and financial forecasting",
+      "count": 25,
+      "target_per_llm": 25,
+      "review_papers_for_human": [
+        "Recent survey papers on ML in finance from Journal of Financial Economics, Journal of Banking & Finance, or similar"
+      ]
+    },
+    "biomedicine": {
+      "topic": "deep learning methods for medical image analysis and clinical diagnosis",
+      "count": 25,
+      "target_per_llm": 25,
+      "review_papers_for_human": [
+        "Recent survey papers on DL in medical imaging from Medical Image Analysis, IEEE TMI, or similar"
+      ]
+    },
+    "engineering": {
+      "topic": "energy efficiency optimization in smart buildings using IoT and machine learning",
+      "count": 25,
+      "target_per_llm": 25,
+      "review_papers_for_human": [
+        "Recent survey papers on smart building energy from Energy and Buildings, Applied Energy, or similar"
+      ]
+    },
+    "social_science": {
+      "topic": "ESG disclosure quality assessment and corporate sustainability reporting standards",
+      "count": 25,
+      "target_per_llm": 25,
+      "review_papers_for_human": [
+        "Recent survey papers on ESG/CSR from Journal of Business Ethics, Business Strategy and the Environment, or similar"
+      ]
+    }
+  },
+  "llms": {
+    "claude": {
+      "model_id": "claude-opus-4-6",
+      "type": "commercial",
+      "method": "direct_generation"
+    },
+    "gemini": {
+      "model_id": "gemini-3-flash",
+      "type": "commercial",
+      "method": "ai_hub_llm_chat",
+      "provider": "gemini"
+    },
+    "gpt": {
+      "model_id": "gpt-4.1-nano",
+      "type": "commercial",
+      "method": "openai_api"
+    },
+    "llama70b": {
+      "model_id": "llama-3.3-70b-versatile",
+      "type": "open_source",
+      "method": "ai_hub_llm_chat",
+      "provider": "groq"
+    },
+    "llama8b": {
+      "model_id": "llama-3.1-8b-instant",
+      "type": "open_source",
+      "method": "ai_hub_llm_chat",
+      "provider": "groq",
+      "model_override": "llama-3.1-8b-instant"
+    }
+  }
+}

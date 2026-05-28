@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Cross-database citation metadata verification tool.
-Queries CrossRef, OpenAlex, Semantic Scholar, and Google Scholar
+Queries CrossRef, OpenAlex, and Semantic Scholar
 for each citation, then compares metadata across sources.
 
 Usage:
@@ -23,7 +23,6 @@ RATE_LIMITS = {
     "crossref": 0.5,    # 2 req/sec (polite pool)
     "openalex": 0.1,    # 10 req/sec (free key)
     "s2": 1.1,          # 1 req/sec (free key)
-    "scholar": 12.0,    # slow crawl to avoid ban
 }
 
 CROSSREF_MAILTO = "d11351004@mail.ntust.edu.tw"
@@ -193,7 +192,7 @@ def compare_field(field_name: str, values: dict) -> dict:
     }
 
 
-def verify_single(doi: str, skip_scholar: bool = False) -> dict:
+def verify_single(doi: str) -> dict:
     """Verify a single DOI across all databases."""
     results = {}
 
@@ -208,11 +207,6 @@ def verify_single(doi: str, skip_scholar: bool = False) -> dict:
     # Semantic Scholar
     results["s2"] = fetch_s2(doi)
     time.sleep(RATE_LIMITS["s2"])
-
-    # Google Scholar (placeholder — requires scholarly package)
-    if not skip_scholar:
-        # TODO: integrate scholarly package for GS queries
-        results["scholar"] = DBMetadata(source="scholar", found=False, raw={"error": "not_implemented"})
 
     # Cross-database comparison
     fields = ["title", "year", "journal", "volume", "pages", "doi"]
@@ -250,11 +244,10 @@ def main():
     parser.add_argument("--doi", help="Single DOI to verify")
     parser.add_argument("--batch", help="JSONL file with DOIs to verify (one per line, field: doi)")
     parser.add_argument("--output", default="results.jsonl", help="Output JSONL file")
-    parser.add_argument("--skip-scholar", action="store_true", help="Skip Google Scholar (avoids scraping)")
     args = parser.parse_args()
 
     if args.doi:
-        result = verify_single(args.doi, skip_scholar=args.skip_scholar)
+        result = verify_single(args.doi)
         print(json.dumps(result, indent=2, ensure_ascii=False))
     elif args.batch:
         with open(args.batch) as f:
@@ -267,7 +260,7 @@ def main():
                 if not doi:
                     continue
                 print(f"[{i+1}/{total}] Verifying {doi}...", file=sys.stderr)
-                result = verify_single(doi, skip_scholar=args.skip_scholar)
+                result = verify_single(doi)
                 result["meta"] = {k: v for k, v in cit.items() if k != "doi"}
                 out.write(json.dumps(result, ensure_ascii=False) + "\n")
                 out.flush()

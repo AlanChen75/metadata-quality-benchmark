@@ -1,41 +1,83 @@
 {
-  "chi_square_domain": {
-    "chi2": 28.828,
-    "df": 4,
-    "p": "p < 0.01"
+  "total_citations": 1246,
+  "citations_with_disagreement": {
+    "n": 831,
+    "rate_pct": 66.7
   },
-  "chi_square_ai_human": {
-    "chi2": 62.01,
-    "df": 1
+  "chi_square_domain": {
+    "chi2": 17.155,
+    "df": 4,
+    "p_value": 0.001803
+  },
+  "domain_rates": {
+    "biomedicine": {
+      "n": 202,
+      "disc": 152,
+      "rate": 75.2
+    },
+    "cs_ml": {
+      "n": 229,
+      "disc": 139,
+      "rate": 60.7
+    },
+    "engineering": {
+      "n": 281,
+      "disc": 184,
+      "rate": 65.5
+    },
+    "finance": {
+      "n": 264,
+      "disc": 162,
+      "rate": 61.4
+    },
+    "social_science": {
+      "n": 270,
+      "disc": 194,
+      "rate": 71.9
+    }
+  },
+  "chi_square_ai_vs_database": {
+    "chi2": 44.886,
+    "df": 1,
+    "p_value": 0.0
+  },
+  "source_rates": {
+    "ai": {
+      "n": 491,
+      "disc": 273,
+      "rate": 55.6
+    },
+    "human": {
+      "n": 755,
+      "disc": 558,
+      "rate": 73.9
+    }
   },
   "two_vs_three_source": {
     "two_src": {
-      "n": 763,
-      "disc": 452
+      "n": 254,
+      "disc": 128
     },
     "three_src": {
-      "n": 284,
-      "disc": 251
+      "n": 794,
+      "disc": 703
     }
   },
   "error_type_distribution": {
-    "pages": 239,
-    "authors": 453,
-    "title": 31,
-    "volume": 2,
-    "year": 121,
-    "journal": 202
+    "authors": 637,
+    "journal": 303,
+    "pages": 270,
+    "year": 138,
+    "title": 57,
+    "volume": 10
   },
-  "total_field_discrepancies": 1048,
-  "ground_truth_sample": {
-    "n": 50,
-    "cr_oa_agreement": 5,
-    "cr_oa_disagree_by_field": {
-      "authors": 25,
-      "year": 11,
-      "pages": 14,
-      "title": 1,
-      "journal": 9
-    }
-  }
+  "total_field_discrepancies": 1415,
+  "cr_oa_only_sensitivity": {
+    "n_citations_both": 1034,
+    "checkable_pairs": 6396,
+    "disagreeing_pairs": 876,
+    "field_disc_rate_pct": 13.7,
+    "citations_with_disc_pct": 62.7
+  },
+  "_note": "Recomputed after authenticated S2 re-collection; supersedes pre-recollect values."
 }

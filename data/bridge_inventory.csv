@@ -1,0 +1,752 @@
+doi,field,crossref,openalex,s2,label
+10.1038/nature21056,authors,Andre Esteva; Brett Kuprel; Roberto A. Novoa; Justin Ko; Susan M. Swetter; Helen M. Blau; Sebastian Thrun,Andre Esteva; Brett Kuprel; Roberto A. Novoa; Justin Ko; Susan M. Swetter; Helen M. Blau; Sebastian Thrun,A. Esteva; Brett Kuprel; R. Novoa; J. Ko; S. Swetter; H. Blau; S. Thrun,variant
+10.1371/journal.pmed.1002686,authors,Pranav Rajpurkar; Jeremy Irvin; Robyn L. Ball; Kaylie Zhu; Brandon Yang; Hershel Mehta; Tony Duan; Daisy Ding; Aarti Bagul; Curtis P. Langlotz; Bhavik N. Patel; Kristen W. Yeom; Katie Shpanskaya; Francis G. Blankenberg; Jayne Seekins; Timothy J. Amrhein; David A. Mong; Safwan S. Halabi; Evan J. Zucker; Andrew Y. Ng; Matthew P. Lungren,Pranav Rajpurkar; Jeremy Irvin; Robyn L. Ball; Kaylie Zhu; Brandon Yang; Hershel Mehta; Tony Duan; Daisy Yi Ding; Aarti Bagul; Curtis P. Langlotz; Bhavik N. Patel; Kristen W. Yeom; Katie Shpanskaya; Francis G. Blankenberg; Jayne Seekins; Timothy J. Amrhein; David A. Mong; Safwan S. Halabi; Evan J. Zucker; Andrew Y. Ng; Matthew P. Lungren,Pranav Rajpurkar; J. Irvin; Robyn L. Ball; Kaylie Zhu; Brandon Yang; Hershel Mehta; Tony Duan; D. Ding; Aarti Bagul; C. Langlotz; B. Patel; K. Yeom; K. Shpanskaya; F. Blankenberg; J. Seekins; T. Amrhein; D. Mong; S. Halabi; Evan Zucker; A. Ng; M. Lungren,variant
+10.1007/978-3-319-24574-4_28,journal,Lecture Notes in Computer Science,Lecture notes in computer science,ArXiv,substantive
+10.1007/978-3-319-24574-4_28,authors,Olaf Ronneberger; Philipp Fischer; Thomas Brox,Olaf Ronneberger; Philipp Fischer; Thomas Brox,O. Ronneberger; P. Fischer; T. Brox,variant
+10.1038/s41586-019-1799-6,pages,,89-94,89 - 94,variant
+10.1038/s41586-019-1799-6,authors,,Scott Mayer McKinney; Marcin Sieniek; Varun Godbole; Jonathan Godwin; Н. В. Антропова; Hutan Ashrafian; Trevor Back; Mary Chesus; Greg S. Corrado; Ara Darzi; Mozziyar Etemadi; Florencia Garcia-Vicente; Fiona J. Gilbert; Mark Halling‐Brown; Demis Hassabis; Sunny Jansen; Alan Karthikesalingam; Christopher Kelly; Dominic King; Joseph R. Ledsam; David Melnick; Hormuz Mostofi; Lily Peng; Joshua Reicher; Bernardino Romera‐Paredes; Richard Sidebottom; Mustafa Suleyman; Daniel Tse; Kenneth C. Young; Jeffrey De Fauw; Shravya Shetty,S. McKinney; Marcin Sieniek; Varun Godbole; Jonathan Godwin; Natasha Antropova; H. Ashrafian; T. Back; Mary Chesus; Greg C. Corrado; A. Darzi; M. Etemadi; Florencia Garcia-Vicente; F. Gilbert; M. Halling-Brown; D. Hassabis; Sunny Jansen; A. Karthikesalingam; Christopher J. Kelly; Dominic King; J. Ledsam; David S. Melnick; Hormuz Mostofi; L. Peng; J. Reicher; B. Romera-Paredes; Richard Sidebottom; Mustafa Suleyman; Daniel Tse; K. Young; J. Fauw; S. Shetty,variant
+10.1038/s41591-018-0107-6,pages,1342-1350,1342-1350,1342 - 1350,variant
+10.1038/s41591-018-0107-6,authors,Jeffrey De Fauw; Joseph R. Ledsam; Bernardino Romera-Paredes; Stanislav Nikolov; Nenad Tomasev; Sam Blackwell; Harry Askham; Xavier Glorot; Brendan O’Donoghue; Daniel Visentin; George van den Driessche; Balaji Lakshminarayanan; Clemens Meyer; Faith Mackinder; Simon Bouton; Kareem Ayoub; Reena Chopra; Dominic King; Alan Karthikesalingam; Cían O. Hughes; Rosalind Raine; Julian Hughes; Dawn A. Sim; Catherine Egan; Adnan Tufail; Hugh Montgomery; Demis Hassabis; Geraint Rees; Trevor Back; Peng T. Khaw; Mustafa Suleyman; Julien Cornebise; Pearse A. Keane; Olaf Ronneberger,Jeffrey De Fauw; Joseph R. Ledsam; Bernardino Romera‐Paredes; Stanislav Nikolov; Nenad Tomašev; Sam Blackwell; Harry Askham; Xavier Glorot; Brendan O’Donoghue; Daniel Visentin; George van den Driessche; Balaji Lakshminarayanan; Clemens Meyer; Faith Mackinder; S. Miles Bouton; Kareem Ayoub; Reena Chopra; Dominic King; Alan Karthikesalingam; Cían Hughes; Rosalind Raine; J. Randall Hughes; Dawn A. Sim; Catherine Egan; Adnan Tufail; Hugh Montgomery; Demis Hassabis; Geraint Rees; Trevor Back; Peng T. Khaw; Mustafa Suleyman; Julien Cornebise; Pearse A. Keane; Olaf Ronneberger,Jeffrey De Fauw; J. Ledsam; B. Romera-Paredes; Stanislav Nikolov; Nenad Tomašev; Sam Blackwell; Harry Askham; Xavier Glorot; Brendan O'Donoghue; D. Visentin; George Van Den Driessche; Balaji Lakshminarayanan; Clemens Meyer; Faith Mackinder; Simon Bouton; K. Ayoub; Reena Chopra; Dominic King; A. Karthikesalingam; Cían O. Hughes; R. Raine; J. Hughes; D. Sim; C. Egan; A. Tufail; Hugh Montgomery; D. Hassabis; G. Rees; T. Back; P. Khaw; Mustafa Suleyman; Julien Cornebise; P. Keane; O. Ronneberger,variant
+10.1007/978-3-030-00889-5_1,journal,Lecture Notes in Computer Science,Lecture notes in computer science,"Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support : 4th International Workshop, DLMIA 2018, and 8th International Workshop, ML-CDS 2018, held in conjunction with MICCAI 2018, Granada, Spain, S",substantive
+10.1007/978-3-030-00889-5_1,pages,3-11,3-11,3 - 11,variant
+10.1007/978-3-030-00889-5_1,authors,Zongwei Zhou; Md Mahfuzur Rahman Siddiquee; Nima Tajbakhsh; Jianming Liang,Zongwei Zhou; Md Mahfuzur Rahman Siddiquee; Nima Tajbakhsh; Jianming Liang,Zongwei Zhou; M. R. Siddiquee; Nima Tajbakhsh; Jianming Liang,variant
+10.1038/s41591-018-0268-3,year,2019,2018,2019,variant
+10.1038/s41591-018-0268-3,pages,65-69,65-69,65 - 69,variant
+10.1038/s41591-018-0268-3,authors,Awni Y. Hannun; Pranav Rajpurkar; Masoumeh Haghpanahi; Geoffrey H. Tison; Codie Bourn; Mintu P. Turakhia; Andrew Y. Ng,Awni Hannun; Pranav Rajpurkar; Masoumeh Haghpanahi; Geoffrey H. Tison; Codie Bourn; Mintu P. Turakhia; Andrew Y. Ng,Awni Y. Hannun; Pranav Rajpurkar; Masoumeh Haghpanahi; G. Tison; Codie Bourn; M. Turakhia; A. Ng,variant
+10.1038/s41568-018-0016-5,journal,Nature Reviews Cancer,Nature reviews. Cancer,Nature reviews. Cancer,variant
+10.1038/s41568-018-0016-5,pages,500-510,500-510,500 - 510,variant
+10.1038/s41568-018-0016-5,authors,Ahmed Hosny; Chintan Parmar; John Quackenbush; Lawrence H. Schwartz; Hugo J. W. L. Aerts,Ahmed Hosny; Chintan Parmar; John Quackenbush; Lawrence H. Schwartz; Hugo J.W.L. Aerts,A. Hosny; Chintan Parmar; John Quackenbush; L. Schwartz; H. Aerts,variant
+10.1038/s41591-019-0508-1,pages,,1301-1309,1301 - 1309,variant
+10.1038/s41591-019-0508-1,authors,,Gabriele Campanella; Matthew G. Hanna; Luke Geneslaw; Allen P. Miraflor; Vitor Werneck Krauss Silva; Klaus J. Busam; Edi Brogi; Victor E. Reuter; David S. Klimstra; Thomas J. Fuchs,Gabriele Campanella; M. Hanna; Luke Geneslaw; Allen P. Miraflor; Vitor Werneck Krauss Silva; K. Busam; E. Brogi; V. Reuter; D. Klimstra; Thomas J. Fuchs,variant
+10.1007/978-3-030-01234-2_49,journal,,Lecture notes in computer science,European Conference on Computer Vision,substantive
+10.1007/978-3-030-01234-2_49,authors,,Liang-Chieh Chen; Yukun Zhu; George Papandreou; Florian Schroff; Hartwig Adam,Liang-Chieh Chen; Yukun Zhu; G. Papandreou; Florian Schroff; Hartwig Adam,variant
+10.1109/WACV51458.2022.00181,year,2022,2022,2021,variant
+10.1109/WACV51458.2022.00181,authors,Ali Hatamizadeh; Yucheng Tang; Vishwesh Nath; Dong Yang; Andriy Myronenko; Bennett Landman; Holger R. Roth; Daguang Xu,Ali Hatamizadeh; Yucheng Tang; Vishwesh Nath; Dong Yang; Andriy Myronenko; Bennett A. Landman; Holger R. Roth; Daguang Xu,Ali Hatamizadeh; Dong Yang; H. Roth; Daguang Xu,variant
+10.18653/v1/P18-2124,journal,Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers),,ArXiv,substantive
+10.18653/v1/N18-1202,journal,"Proceedings of the 2018 Conference of the North American Chapter of
+          the Association for Computational Linguistics: Human Language
+          Technologies, Volume 1 (Long Papers)",,ArXiv,substantive
+10.18653/v1/N18-1202,authors,Matthew Peters; Mark Neumann; Mohit Iyyer; Matt Gardner; Christopher Clark; Kenton Lee; Luke Zettlemoyer,Matthew E. Peters; Mark E Neumann; Mohit Iyyer; Matt Gardner; Christopher Clark; Kenton Lee; Luke Zettlemoyer,Matthew E. Peters; Mark Neumann; Mohit Iyyer; Matt Gardner; Christopher Clark; Kenton Lee; Luke Zettlemoyer,variant
+10.18653/v1/2020.acl-main.703,year,2020,2020,2019,variant
+10.18653/v1/2020.acl-main.703,journal,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,,Annual Meeting of the Association for Computational Linguistics,substantive
+10.18653/v1/2020.acl-main.703,authors,Mike Lewis; Yinhan Liu; Naman Goyal; Marjan Ghazvininejad; Abdelrahman Mohamed; Omer Levy; Veselin Stoyanov; Luke Zettlemoyer,Mike Lewis; Yinhan Liu; Naman Goyal; Marjan Ghazvininejad; Abdelrahman Mohamed; Omer Levy; Ves Stoyanov; Luke Zettlemoyer,M. Lewis; Yinhan Liu; Naman Goyal; Marjan Ghazvininejad; Abdel-rahman Mohamed; Omer Levy; Veselin Stoyanov; Luke Zettlemoyer,variant
+10.18653/v1/2020.emnlp-demos.6,year,2020,,2019,variant
+10.18653/v1/2020.emnlp-demos.6,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations,,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.emnlp-demos.6,authors,Thomas Wolf; Lysandre Debut; Victor Sanh; Julien Chaumond; Clement Delangue; Anthony Moi; Pierric Cistac; Tim Rault; Remi Louf; Morgan Funtowicz; Joe Davison; Sam Shleifer; Patrick von Platen; Clara Ma; Yacine Jernite; Julien Plu; Canwen Xu; Teven Le Scao; Sylvain Gugger; Mariama Drame; Quentin Lhoest; Alexander Rush,,Thomas Wolf; Lysandre Debut; Victor Sanh; Julien Chaumond; C. Delangue; Anthony Moi; Pierric Cistac; Tim Rault; Rémi Louf; Morgan Funtowicz; Joe Davison; Sam Shleifer; Patrick von Platen; Clara Ma; Yacine Jernite; J. Plu; Canwen Xu; Teven Le Scao; Sylvain Gugger; Mariama Drame; Quentin Lhoest; Alexander M. Rush,variant
+10.1016/j.buildenv.2010.05.012,authors,Edson R. Marciotto; Amauri P. Oliveira; Steven R. Hanna,,E. Marciotto; A. Oliveira; S. Hanna,variant
+10.1016/j.buildenv.2013.11.016,year,2014,2013,2014,variant
+10.1016/j.buildenv.2013.11.016,authors,Abdul Afram; Farrokh Janabi-Sharifi,Abdul Afram; Farrokh Janabi‐Sharifi,Abdul Afram; F. Janabi-Sharifi,variant
+10.1109/TSG.2018.2834219,year,2019,2018,2017,substantive
+10.1109/TSG.2018.2834219,authors,Elena Mocanu; Decebal Constantin Mocanu; Phuong H. Nguyen; Antonio Liotta; Michael E. Webber; Madeleine Gibescu; J. G. Slootweg,Elena Mocanu; Decebal Constantin Mocanu; Phuong H. Nguyen; Antonio Liotta; Michael E. Webber; Madeleine Gibescu; J.G. Slootweg,Elena Mocanu; D. Mocanu; Phuong H. Nguyen; A. Liotta; M. Webber; M. Gibescu; J. Slootweg,variant
+10.1016/j.buildenv.2017.01.022,authors,Tomohiro Kobayashi; Kazuki Sugita; Noriko Umemiya; Takashi Kishimoto; Mats Sandberg,Tomohiro Kobayashi; Kazuki Sugita; Noriko Umemiya; Takashi Kishimoto; Mats Sandberg,Tomohiro Kobayashi; K. Sugita; N. Umemiya; T. Kishimoto; M. Sandberg,variant
+10.1016/j.enbuild.2017.04.038,authors,Muhammad Waseem Ahmad; Monjur Mourshed; Yacine Rezgui,Muhammad Waseem Ahmad; Monjur Mourshed; Yacine Rezgui,M. Ahmad; M. Mourshed; Y. Rezgui,variant
+10.1016/j.enbuild.2019.109538,pages,109538,109538-109538,109538,variant
+10.1016/j.enbuild.2019.109538,authors,Mehmet Efe Biresselioglu; Muhittin Hakan Demir; Athar Rashid; Berfu Solak; Evrim Ozyorulmaz,Mehmet Efe Biresselioğlu; Muhittin Hakan Demir; Athar Rashid; Berfu Solak; Evrim Ozyorulmaz,M. Biresselioglu; M. Demir; A. Rashid; Berfu Solak; Evrim Ozyorulmaz,variant
+10.1016/j.enbuild.2018.11.010,year,2019,2018,2019,variant
+10.1007/s12273-018-0431-2,pages,633-645,633-645,633 - 645,variant
+10.1016/j.egyr.2022.02.308,authors,Sel Ly; Songsak Sriboonchitta; Jiechen Tang; Wing-Keung Wong,Sel Ly; Songsak Sriboonchitta; Jiechen Tang; Wing‐Keung Wong,S. Ly; S. Sriboonchitta; Jiechen Tang; W. Wong,variant
+10.1080/19401493.2014.891656,year,2015,2014,2015,variant
+10.1080/19401493.2014.891656,pages,121-134,121-134,121 - 134,variant
+10.1080/19401493.2014.891656,authors,Jie Zhao; Khee Poh Lam; B. Erik Ydstie; Omer T. Karaguzel,Jie Zhao; Khee Poh Lam; B. Erik Ydstie; Omer T. Karaguzel,Jie Zhao; Khee Poh Lam; B. Ydstie; O. Karaguzel,variant
+10.1016/j.enbuild.2023.112835,authors,Jianyang Cai; Haidong Yang; Tiancheng Lai; Kangkang Xu,Jianyang Cai; Haidong Yang; Tiancheng Lai; Kang Xu,Jianyang Cai; Haidong Yang; Tiancheng Lai; Kangkang Xu,variant
+10.1016/j.enbuild.2022.112602,year,2023,2022,2022,variant
+10.1016/j.enbuild.2022.112602,authors,Iver Frimannslund; Thomas Thiis; Louise V. Skjøndal; Thomas Marke,Iver Frimannslund; Thomas K. Thiis; Louise V. Skjøndal; Thomas Marke,Iver Frimannslund; T. Thiis; Louise V. Skjøndal; T. Marke,variant
+10.1016/j.eswa.2017.04.006,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2017.04.006,authors,Flavio Barboza; Herbert Kimura; Edward Altman,Flávio Barboza; Herbert Kimura; Edward I. Altman,Flavio Barboza; H. Kimura; E. Altman,variant
+10.1111/rssa.12469,title,Retail Credit Scoring using Fine-Grained Payment Data,Retail Credit Scoring using Fine-Grained Payment Data,Retail credit scoring using fine‐grained payment data,variant
+10.1111/rssa.12469,journal,Journal of the Royal Statistical Society Series A: Statistics in Society,Journal of the Royal Statistical Society Series A (Statistics in Society),Journal of the Royal Statistical Society: Series A (Statistics in Society),variant
+10.1016/j.eswa.2017.02.017,journal,Expert Systems with Applications,,Expert Syst. Appl.,substantive
+10.3390/risks6020038,journal,Risks,Risks,,substantive
+10.3390/risks6020038,pages,38,38-38,38,variant
+10.3390/risks6020038,authors,Peter Addo; Dominique Guegan; Bertrand Hassani,Peter Martey Addo; Dominique Guégan; Bertrand K. Hassani,P. Addo; D. Guégan; Bertrand K. Hassani,variant
+10.1016/j.ejor.2021.03.006,title,Deep learning for credit scoring: Do or don’t?,Deep learning for credit scoring: Do or don’t?,Deep learning for credit scoring: Do or don't?,variant
+10.1016/j.ejor.2021.03.006,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.ejor.2021.03.006,authors,Björn Rafn Gunnarsson; Seppe vanden Broucke; Bart Baesens; María Óskarsdóttir; Wilfried Lemahieu,Björn Rafn Gunnarsson; Seppe vanden Broucke; Bart Baesens; María Óskarsdóttir; Wilfried Lemahieu,B. Gunnarsson; S. V. Broucke; B. Baesens; M. Óskarsdóttir; Wilfried Lemahieu,variant
+10.1002/asmb.2209,title,Deep learning for finance: deep portfolios,Deep learning for finance: deep portfolios,"Deep learning for finance: deep portfolios: J. B. HEATON, N. G. POLSON AND J. H. WITTE",substantive
+10.1002/asmb.2209,year,2017,2016,2017,variant
+10.1002/asmb.2209,authors,J. B. Heaton; N. G. Polson; J. H. Witte,J.B. Heaton; Nick Polson; J. H. Witte,J. B. Heaton; Nicholas G. Polson; J. Witte,variant
+10.1016/j.ejor.2017.11.054,year,2018,2017,2017,variant
+10.1016/j.ejor.2017.11.054,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.ejor.2017.11.054,authors,Thomas Fischer; Christopher Krauss,Thomas Fischer; Christopher Krauß,Thomas G. Fischer; C. Krauss,variant
+10.1016/j.asoc.2018.10.004,year,2019,2018,2019,variant
+10.1016/j.asoc.2018.10.004,journal,Applied Soft Computing,Applied Soft Computing,ArXiv,substantive
+10.1016/j.asoc.2018.10.004,volume,74,74,abs/2002.09931,substantive
+10.1016/j.asoc.2018.10.004,authors,María Óskarsdóttir; Cristián Bravo; Carlos Sarraute; Jan Vanthienen; Bart Baesens,María Óskarsdóttir; Cristián Bravo; Carlos Sarraute; Jan Vanthienen; Bart Baesens,M. Óskarsdóttir; Cristián Bravo; Carlos Sarraute; J. Vanthienen; B. Baesens,variant
+10.1007/s10479-017-2668-z,year,2018,2017,2017,variant
+10.1007/s10479-017-2668-z,pages,511-529,511-529,511 - 529,variant
+10.1080/14697680903410015,year,2011,2010,2011,variant
+10.1080/14697680903410015,pages,135-154,135-154,135 - 154,variant
+10.1080/14697680903410015,authors,Shiyi Chen; W. K. Härdle; R. A. Moro,Shiyi Chen; Wolfgang Karl Härdle; Rouslan Moro,Shiyi Chen; W. Härdle; Russ A. Moro,variant
+10.1016/j.ejor.2021.06.053,year,2022,2021,2021,variant
+10.1016/j.ejor.2021.06.053,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1109/ACCESS.2020.3033784,authors,Talha Mahboob Alam; Kamran Shaukat; Ibrahim A. Hameed; Suhuai Luo; Muhammad Umer Sarwar; Shakir Shabbir; Jiaming Li; Matloob Khushi,Talha Mahboob Alam; Kamran Shaukat; Ibrahim A. Hameed; Suhuai Luo; Muhammad Umer Sarwar; Shakir Shabbir; Jiaming Li; Matloob Khushi,Talha Mahboob Alam; K. Shaukat; I. Hameed; S. Luo; Muhammad Umer Sarwar; Shakir Shabbir; Jiaming Li; Matloob Khushi,variant
+10.1007/s11142-021-09609-5,year,2021,2021,2019,substantive
+10.1007/s11142-021-09609-5,pages,1176-1248,1176-1248,1176 - 1248,variant
+10.1007/s11142-021-09609-5,authors,Hans B. Christensen; Luzi Hail; Christian Leuz,Hans Bonde Christensen; Luzi Hail; Christian Leuz,Hans B. Christensen; Luzi Hail; C. Leuz,variant
+10.1007/s11142-021-09611-x,year,2021,2021,2020,variant
+10.1007/s11142-021-09611-x,pages,1137-1175,1137-1175,1137 - 1175,variant
+10.1007/s11142-021-09611-x,authors,Benedikt Downar; Jürgen Ernstberger; Stefan Reichelstein; Sebastian Schwenen; Aleksandar Zaklan,Benedikt Downar; Jürgen Ernstberger; Stefan Reichelstein; Sebastian Schwenen; Aleksandar Zaklan,Benedikt Downar; J. Ernstberger; S. Reichelstein; Sebastian Schwenen; A. Zaklan,variant
+10.1093/rfs/hhz137,year,2020,2019,2020,variant
+10.1093/rfs/hhz137,journal,The Review of Financial Studies,Review of Financial Studies,The Review of Financial Studies,variant
+10.1093/rfs/hhz137,authors,Philipp Krueger; Zacharias Sautner; Laura T Starks,Philipp Krueger; Zacharias Sautner; Laura T. Starks,Philipp Krueger; Z. Sautner; Laura T. Starks,variant
+10.2308/accr.00000005,year,2011,2010,2011,variant
+10.2308/accr.00000005,authors,Dan S. Dhaliwal; Oliver Zhen Li; Albert Tsang; Yong George Yang,Dan S. Dhaliwal; Oliver Zhen Li; Albert Tsang; Yong Yang,D. Dhaliwal; Oliver Zhen Li; Albert H. C. Tsang; Yong George Yang,variant
+10.1016/j.frl.2020.101716,year,2021,2020,2020,variant
+10.1016/j.frl.2020.101716,pages,101716,101716-101716,101716 - 101716,variant
+10.1016/j.frl.2020.101716,authors,David C. Broadstock; Kalok Chan; Louis T.W. Cheng; Xiaowei Wang,David C. Broadstock; Kalok Chan; Louis T. W. Cheng; Xiaowei Wang,D. Broadstock; Kalok Chan; Louis T. W. Cheng; Xiaowei Wang,variant
+10.1108/AAAJ-12-2013-1549,journal,"Accounting, Auditing &amp; Accountability Journal",Accounting Auditing & Accountability Journal,"Accounting, Auditing & Accountability Journal",variant
+10.2308/accr-50629,year,2014,2013,2014,variant
+10.2308/accr-50629,journal,The Accounting Review,The Accounting Review,Accounting review: A quarterly journal of the American Accounting Association,substantive
+10.2308/accr-50629,authors,Ella Mae Matsumura; Rachna Prakash; Sandra C. Vera-Muñoz,Ella Mae Matsumura; Rachna Prakash; Sandra C. Vera‐Muñoz,E. M. Matsumura; Rachna Prakash; Sandra C. Vera-Muñoz,variant
+10.1016/j.jcae.2014.08.003,title,Does voluntary carbon disclosure reflect underlying carbon performance?,Does voluntary carbon disclosure reflect underlying carbon performance?,Does voluntary carbon disclosure reflect underlying carbon performance,variant
+10.1016/j.jcae.2014.08.003,journal,Journal of Contemporary Accounting &amp; Economics,Journal of Contemporary Accounting & Economics,Journal of Contemporary Accounting & Economics,variant
+10.1016/j.jcae.2014.08.003,authors,Le Luo; Qingliang Tang,Le Luo; Qingliang Tang,L. Luo; Qingliang Tang,variant
+10.1108/SAMPJ-08-2014-0050,journal,"Sustainability Accounting, Management and Policy Journal",Sustainability Accounting Management and Policy Journal,"Sustainability Accounting, Management and Policy Journal",variant
+10.1108/SAMPJ-08-2014-0050,authors,Dominik Dienes; Remmer Sassen; Jasmin Fischer,Dominik Dienes; Remmer Sassen; Jasmin Fischer,D. Dienes; Remmer Sassen; J. Fischer,variant
+10.1016/j.jclepro.2017.11.092,year,2018,2017,2018,variant
+10.1016/j.jclepro.2017.11.092,authors,Wei Qian; Jacob Hörisch; Stefan Schaltegger,Wei Qian; Jacob Hörisch; Stefan Schaltegger,W. Qian; Jacob Hörisch; S. Schaltegger,variant
+10.1002/csr.2134,title,Extending the benefits of <scp>ESG</scp> disclosure: The effect on the cost of debt financing,Extending the benefits of <scp>ESG</scp> disclosure: The effect on the cost of debt financing,"Extending the benefits of
+ ESG
+ disclosure: The effect on the cost of debt financing",variant
+10.1002/csr.2134,volume,28,28,,substantive
+10.1002/csr.2134,authors,Nicola Raimo; Alessandra Caragnano; Marianna Zito; Filippo Vitolla; Massimo Mariani,Nicola Raimo; Alessandra Caragnano; Marianna Zito; Filippo Vitolla; Massimo Mariani,Nicola Raimo; Alessandra Caragnano; Marianna Zito; Filippo Vitolla; M. Mariani,variant
+10.1108/SAMPJ-07-2015-0055,journal,"Sustainability Accounting, Management and Policy Journal",Sustainability Accounting Management and Policy Journal,"Sustainability Accounting, Management and Policy Journal",variant
+10.1108/SAMPJ-07-2015-0055,authors,Mahmoud Arayssi; Mustafa Dah; Mohammad Jizi,Mahmoud Arayssi; Mustafa A. Dah; Mohammad Jizi,Mahmoud Arayssi; Mustafa A. Dah; Mohammad I. Jizi,variant
+10.18653/v1/D19-1410,journal,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),,ArXiv,substantive
+10.18653/v1/2021.naacl-main.142,journal,Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies,,North American Chapter of the Association for Computational Linguistics,substantive
+10.1016/j.eswa.2019.03.012,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2019.03.012,authors,Kristijonas Čyras; David Birch; Yike Guo; Francesca Toni; Rajvinder Dulay; Sally Turvey; Daniel Greenberg; Tharindi Hapuarachchi,Kristijonas Čyras; David Birch; Yike Guo; Francesca Toni; Rajvinder Dulay; Sally Turvey; Daniel Greenberg; Tharindi Hapuarachchi,K. Čyras; David Birch; Yike Guo; Francesca Toni; Rajvinder Dulay; S. Turvey; Daniel Greenberg; T. Hapuarachchi,variant
+10.1016/j.jbankfin.2015.04.031,journal,Journal of Banking &amp; Finance,Journal of Banking & Finance,Journal of Banking and Finance,variant
+10.1016/j.jbankfin.2015.04.031,authors,Lucia Esposito; Andrea Nobili; Tiziano Ropele,Lucia Esposito; Andrea Nobili; Tiziano Ropele,L. Esposito; Andrea Nobili; Tiziano Ropele,variant
+10.1016/j.ejor.2015.05.042,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.ejor.2015.05.042,authors,Chao Fu; Jian-Bo Yang; Shan-Lin Yang,Chao Fu; Jianbo Yang; Shanlin Yang,Chao Fu; Jianbo Yang; Shanlin Yang,variant
+10.1057/jors.2015.25,year,2016,2015,2016,variant
+10.1002/for.2519,title,Out‐of‐sample equity premium prediction: A scenario analysis approach,Out‐of‐sample equity premium prediction: A scenario analysis approach,Out-of-sample equity premium prediction: A scenario analysis approach: Out-of-sample equity premium prediction: A scenario analysis approach,substantive
+10.1002/for.2519,authors,Xiaoxiao Tang; Feifang Hu; Peiming Wang,Xiaoxiao Tang; Feifang Hu; Peiming Wang,Xiaoxiao Tang; F. Hu; Peiming Wang,variant
+10.1016/j.knosys.2021.106839,journal,Knowledge-Based Systems,Knowledge-Based Systems,Knowl. Based Syst.,substantive
+10.1016/j.knosys.2021.106839,pages,106839,106839-106839,106839,variant
+10.1016/j.knosys.2021.106839,authors,Pengshuai Yin; Jiayong Ye; Guoshen Lin; Qingyao Wu,Pengshuai Yin; Jiayong Ye; Guoshen Lin; Qingyao Wu,Pengshuai Yin; Jiayong Ye; Guosheng Lin; Qingyao Wu,variant
+10.3390/ijfs9030036,authors,Saeed Md. Abdullah; Simon Zaby,Saeed Md. Abdullah; Simon Zaby,Saeed Abdullah; Simon Zaby,variant
+10.1016/j.eswa.2021.115874,year,2022,2021,2022,variant
+10.1016/j.eswa.2021.115874,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2021.115874,pages,115874,115874-115874,115874,variant
+10.1016/j.eswa.2021.115874,authors,Henrique Evangelista de Oliveira; Leonardo Tomazeli Duarte; João Marcos Travassos Romano,Henrique Evangelista de Oliveira; Leonardo Tomazeli Duarte; João Marcos Travassos Romano,H. Oliveira; L. Duarte; J. Romano,variant
+10.1145/2939672.2939785,title,XGBoost,XGBoost,XGBoost: A Scalable Tree Boosting System,substantive
+10.1016/j.knosys.2020.105835,year,2020,2020,2019,variant
+10.1016/j.knosys.2020.105835,journal,Knowledge-Based Systems,Knowledge-Based Systems,Knowl. Based Syst.,substantive
+10.1016/j.knosys.2020.105835,pages,105835,105835-105835,105835,variant
+10.1016/j.rser.2017.06.069,year,2018,2017,2018,variant
+10.1016/j.rser.2017.06.069,journal,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,Renewable & Sustainable Energy Reviews,variant
+10.1016/j.rser.2017.06.069,authors,Thiago Luz; Pedro Moura; Aníbal de Almeida,Thiago José da Luz; Pedro Moura; Anı́bal T. de Almeida,T. Luz; Pedro S. Moura; A. Almeida,variant
+10.1016/j.enbuild.2019.109679,year,2020,2019,2020,variant
+10.1016/j.enbuild.2019.109679,pages,109679,109679-109679,109679,variant
+10.1016/j.enbuild.2019.109679,authors,Ramendra Kumar; Sanjeev Jain,Ramendra Kumar; Sanjeev Jain,Ramendra Kumar; S. Jain,variant
+10.1016/j.egyr.2021.11.015,year,2022,2021,2021,variant
+10.1016/j.egyr.2021.11.015,authors,Xiwen Liu; Jia Li; Zhuohong Yao; Zhongyan Wang; Ruicai Si; Yunpeng Diao,Xiwen Liu; Li Jia; Zhuohong Yao; Zhongren Wang; Ruicai Si; Yunpeng Diao,Xiwen Liu; Jia Li; Zhuohong Yao; Zhongyang Wang; Ruicai Si; Yunpeng Diao,variant
+10.1016/j.scs.2018.11.002,year,2019,2018,2019,variant
+10.1016/j.scs.2018.11.002,authors,M. Rahimi; M.J. Hosseini; M. Gorzin,M. Rahimi; M.J. Hosseini; M. Gorzin,M. Rahimi; M. Hosseini; M. Gorzin,variant
+10.1016/j.enbuild.2018.04.031,authors,Tao Wen; Lin Lu; Chuanshuai Dong,Tao Wen; Lin Lu; Chuanshuai Dong,T. Wen; Lin Lu; Chuanshuai Dong,variant
+10.1016/j.apenergy.2021.118278,year,2022,2021,2022,variant
+10.1016/j.apenergy.2021.118278,authors,Yang Yang; Jun Li; Yingrui Yang; Linghan Lan; Run Liu; Qian Fu; Liang Zhang; Qiang Liao; Xun Zhu,Yang Yang; Jun Li; Yingrui Yang; Linghan Lan; Run Liu; Qian Fu; Liang Zhang; Qiang Liao; Xun Zhu,Yang Yang; Jun Li; Yingrui Yang; Linghan Lan; Run Liu; Q. Fu; Liang Zhang; Q. Liao; Xun Zhu,variant
+10.1016/j.enbuild.2019.109448,authors,Kuniaki Mihara; Chandra Sekhar; Yuichi Takemasa; Bertrand Lasternas; Kwok Wai Tham,Kuniaki Mihara; Chandra Sekhar; Yuichi Takemasa; Bertrand Lasternas; Kwok Wai Tham,K. Mihara; C. Sekhar; Y. Takemasa; B. Lasternas; K. Tham,variant
+10.1016/j.egyr.2018.01.005,authors,Fatima Merza; Aya Fawzy; Inas AlNashef; Sulaiman Al-Zuhair; Hanifa Taher,Fatima Merza; Aya Fawzy; Inas M. AlNashef; Sulaiman Al‐Zuhair; Hanifa Taher,Fatima Merza; A. Fawzy; I. Alnashef; S. Al‐Zuhair; Hanifa Taher,variant
+10.1016/j.scs.2020.102377,pages,102377,102377-102377,102377,variant
+10.1002/csr.1374,title,Corporate Adaptation Behaviour to Deal With Climate Change: The Influence of Firm‐Specific Interpretations of Physical Climate Impacts,Corporate Adaptation Behaviour to Deal With Climate Change: The Influence of Firm‐Specific Interpretations of Physical Climate Impacts,Corporate adaptation behaviour to deal with climate change: The influence of firm-specific interpretations of physical climate impacts,variant
+10.1002/csr.1374,year,2016,2015,2016,variant
+10.1002/csr.1374,authors,Federica Gasbarro; Jonatan Pinkse,Federica Gasbarro; Jonatan Pinkse,F. Gasbarro; J. Pinkse,variant
+10.1002/bse.1934,year,2017,2016,2017,variant
+10.1002/bse.1934,authors,Anna Katharina Provasnek; Erwin Schmid; Bernhard Geissler; Gerald Steiner,Anna Katharina Provasnek; Erwin Schmid; Bernhard Geißler; Gerald Steiner,A. K. Provasnek; E. Schmid; Bernhard Geissler; Gerald Steiner,variant
+10.2139/ssrn.2585748,title,Reconsidering Copyright,Reconsidering Copyright,Reconsidering Copyright: A Spatial Model of Differentiated Competition and Infringement,substantive
+10.2139/ssrn.2585748,year,2015,2015,2016,variant
+10.2139/ssrn.2585748,journal,SSRN Electronic Journal,SSRN Electronic Journal,,substantive
+10.2139/ssrn.2585748,authors,Thomas Randolph Beard; George S. Ford; Gilad Sorek; Lawrence J. Spiwak,T. Randolph Beard; George S. Ford; Gilad Sorek; Lawrence J. Spiwak,T. Beard; George S. Ford; G. Sorek; L. J. Spiwak,variant
+10.1002/csr.1468,journal,Corporate Social Responsibility and Environmental Management,Corporate Social Responsibility and Environmental Management,,substantive
+10.1002/csr.1468,volume,25,25,,substantive
+10.1002/smj.2131,year,2014,2013,2012,substantive
+10.1002/smj.2131,journal,Strategic Management Journal,Strategic Management Journal,Southern Medical Journal,substantive
+10.1002/smj.2131,authors,Beiting Cheng; Ioannis Ioannou; George Serafeim,Beiting Cheng; Ioannis Ioannou; George Serafeim,Beiting Cheng; I. Ioannou; G. Serafeim,variant
+10.1016/j.jwb.2015.08.002,title,From the Editor: Why we need phenomenon-based research in international business,From the Editor: Why we need phenomenon-based research in international business,From the Editor: Why we need phenomenon-based research in international business☆,variant
+10.1016/j.jwb.2015.08.002,authors,Jonathan P. Doh,Jonathan P. Doh,J. Doh,variant
+10.1111/acfi.12345,year,2019,2018,2019,variant
+10.1111/acfi.12345,journal,Accounting &amp; Finance,Accounting and Finance,Accounting and Finance,variant
+10.2139/ssrn.3055430,journal,SSRN Electronic Journal,SSRN Electronic Journal,Social Science Research Network,substantive
+10.1111/jacf.12272,authors,Craig Doidge; Kathleen M. Kahle; G. Andrew Karolyi; René M. Stulz,Craig Doidge; Kathleen M. Kahle; George Andrew Karolyi; René M. Stulz,Craig Doidge; Kathleen M. Kahle; Andrew Karolyi,variant
+10.1002/bse.2260,year,2019,2018,2018,variant
+10.1002/bse.2260,authors,Benjamin S. Thompson,Benjamin S. Thompson,B. S. Thompson,variant
+10.18653/v1/D19-1413,journal,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.acl-main.747,year,2020,2020,2019,variant
+10.18653/v1/2020.acl-main.747,journal,Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics,,ArXiv,substantive
+10.18653/v1/2020.acl-main.747,authors,Alexis Conneau; Kartikay Khandelwal; Naman Goyal; Vishrav Chaudhary; Guillaume Wenzek; Francisco Guzmán; Edouard Grave; Myle Ott; Luke Zettlemoyer; Veselin Stoyanov,Alexis Conneau; Kartikay Khandelwal; Naman Goyal; Vishrav Chaudhary; Guillaume Wenzek; Francisco Guzmán; Édouard Grave; Myle Ott; Luke Zettlemoyer; Veselin Stoyanov,Alexis Conneau; Kartikay Khandelwal; Naman Goyal; Vishrav Chaudhary; Guillaume Wenzek; Francisco (Paco) Guzmán; Edouard Grave; Myle Ott; Luke Zettlemoyer; Veselin Stoyanov,variant
+10.18653/v1/2020.emnlp-main.435,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,ArXiv,substantive
+10.18653/v1/2020.emnlp-main.436,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,ArXiv,substantive
+10.18653/v1/2020.emnlp-main.436,authors,Miguel Ballesteros; Rishita Anubhai; Shuai Wang; Nima Pourdamghani; Yogarshi Vyas; Jie Ma; Parminder Bhatia; Kathleen McKeown; Yaser Al-Onaizan,Miguel Ballesteros; Rishita Anubhai; Shuai Wang; Nima Pourdamghani; Yogarshi Vyas; Jie Ma; Parminder Bhatia; Kathleen McKeown; Yaser Al-Onaizan,Miguel Ballesteros; Rishita Anubhai; Shuai Wang; Nima Pourdamghani; Yogarshi Vyas; Jie Ma; Parminder Bhatia; K. McKeown; Yaser Al-Onaizan,variant
+10.18653/v1/2020.emnlp-main.451,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.emnlp-main.445,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,ArXiv,substantive
+10.18653/v1/2020.emnlp-main.445,authors,David Gaddy; Dan Klein,David Gaddy; Dan Klein,David Gaddy; Dana Klein,variant
+10.18653/v1/2020.emnlp-main.454,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.emnlp-main.454,authors,Sudipta Kar; Gustavo Aguilar; Mirella Lapata; Thamar Solorio,Sudipta Kar; Gustavo Aguilar; Mirella Lapata; Thamar Solorio,Sudipta Kar; Gustavo Aguilar; Mirella Lapata; T. Solorio,variant
+10.18653/v1/2020.emnlp-main.453,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.emnlp-main.457,title,RethinkCWS: Is Chinese Word Segmentation a Solved Task?,RethinkCWS: Is Chinese Word Segmentation a Solved Task?,Is Chinese Word Segmentation a Solved Task? Rethinking Neural Chinese Word Segmentation,substantive
+10.18653/v1/2020.emnlp-main.457,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2021.emnlp-main.443,journal,Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing,Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2021.emnlp-main.459,year,2021,2021,2020,variant
+10.18653/v1/2021.emnlp-main.459,journal,Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing,Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing,Conference on Empirical Methods in Natural Language Processing,substantive
+10.3390/risks7010029,authors,Martin Leo; Suneel Sharma; K. Maddulety,Martin Leo; Suneel Sharma; K. Maddulety,M. Leo; Suneel Sharma; K. Maddulety,variant
+10.1016/j.eswa.2018.09.044,year,2019,2018,2019,variant
+10.1016/j.eswa.2018.09.044,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2018.09.044,authors,Chandrawati Putri Wulandari; Chao Ou-Yang; Han-Cheng Wang,Chandrawati Putri Wulandari; Chao Ouyang; Hancheng Wang,Chandrawati Putri Wulandari; C. Ou-Yang; Han-Cheng Wang,variant
+10.1016/j.asoc.2020.106263,journal,Applied Soft Computing,Applied Soft Computing,Appl. Soft Comput.,substantive
+10.1016/j.asoc.2020.106263,pages,106263,106263-106263,106263,variant
+10.1016/j.asoc.2020.106263,authors,Xolani Dastile; Turgay Celik; Moshe Potsane,Xolani Dastile; Turgay Çelik; Moshe Moses Potsane,X. Dastile; T. Çelik; M. Potsane,variant
+10.1016/j.eswa.2019.113120,year,2020,2019,2020,variant
+10.1016/j.eswa.2019.113120,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2019.113120,pages,113120,113120-113120,113120,variant
+10.1016/j.eswa.2019.113120,authors,Khalid Mahmood Malik; Madan Krishnamurthy; Mazen Alobaidi; Maqbool Hussain; Fakhare Alam; Ghaus Malik,Khalid Mahmood Malik; Madan Krishnamurthy; Mazen Alobaidi; Maqbool Hussain; Fakhare Alam; Ghaus M. Malik,K. Malik; Madan Krishnamurthy; Mazen Alobaidi; M. Hussain; Fakhare Alam; G. Malik,variant
+10.1016/j.ijforecast.2021.03.012,year,2021,2021,2019,substantive
+10.1016/j.ijforecast.2021.03.012,journal,International Journal of Forecasting,International Journal of Forecasting,ArXiv,substantive
+10.1016/j.ijforecast.2021.03.012,volume,37,37,abs/1912.09363,substantive
+10.1016/j.ijforecast.2021.03.012,authors,Bryan Lim; Sercan Ö. Arık; Nicolas Loeff; Tomas Pfister,Bryan Lim; Sercan Ö. Arık; Nicolas Loeff; Tomas Pfister,Bryan Lim; Sercan Ö. Arik; Nicolas Loeff; Tomas Pfister,variant
+10.1016/j.eswa.2021.115537,year,2021,2021,2020,variant
+10.1016/j.eswa.2021.115537,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2021.115537,pages,115537,115537-115537,115537,variant
+10.1016/j.ejor.2021.06.021,year,2022,2021,2019,substantive
+10.1016/j.ejor.2021.06.021,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.ejor.2021.06.021,authors,Xinwei Chen; Marlin W. Ulmer; Barrett W. Thomas,Xinwei Chen; Marlin W. Ulmer; Barrett W. Thomas,Xinwei Chen; M. Ulmer; Barrett W. Thomas,variant
+10.3390/jrfm16120496,authors,Nicolas Suhadolnik; Jo Ueyama; Sergio Da Silva,Nicolas Suhadolnik; Jó Ueyama; Sérgio Da Silva,Nicolas Suhadolnik; Jó Ueyama; Sergio Da Silva,variant
+10.3390/risks12110174,authors,Victor Chang; Sharuga Sivakulasingam; Hai Wang; Siu Tung Wong; Meghana Ashok Ganatra; Jiabin Luo,Victor Chang; Sharuga Sivakulasingam; Hai Wang; Siu Tung Wong; Meghana Ashok Ganatra; Jiabin Luo,Victor I. Chang; Sharuga Sivakulasingam; Hai Wang; S. Wong; M. Ganatra; Jiabin Luo,variant
+10.1111/joes.12561,year,2024,2023,2023,variant
+10.1111/joes.12561,authors,Bao Trung Hoang; Cesario Mateus,Bao Trung Hoang; Cesário Mateus,B. Hoang; Cesario Mateus,variant
+10.1016/j.eswa.2021.114755,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2021.114755,pages,114755,114755-114755,114755,variant
+10.1016/j.eswa.2021.114755,authors,Ülkü Öztürk; Hasan Alp Boz; Selim Balcisoy,Ülkü Öztürk; Hasan Alp Boz; Selim Balcısoy,Ülkü Öztürk; H. Boz; Selim Balcisoy,variant
+10.1007/978-3-030-32251-9_42,journal,Lecture Notes in Computer Science,Lecture notes in computer science,Medical image computing and computer-assisted intervention : MICCAI ... International Conference on Medical Image Computing and Computer-Assisted Intervention,substantive
+10.1007/978-3-030-32251-9_42,pages,384-393,384-393,384 - 393,variant
+10.1007/978-3-030-32251-9_42,authors,Zongwei Zhou; Vatsal Sodha; Md Mahfuzur Rahman Siddiquee; Ruibin Feng; Nima Tajbakhsh; Michael B. Gotway; Jianming Liang,Zongwei Zhou; Vatsal Sodha; Md Mahfuzur Rahman Siddiquee; Ruibin Feng; Nima Tajbakhsh; Michael B. Gotway; Jianming Liang,Zongwei Zhou; V. Sodha; M. R. Siddiquee; Ruibin Feng; Nima Tajbakhsh; M. Gotway; Jianming Liang,variant
+10.1038/s41591-020-0898-0,pages,819-820,819-820,819 - 820,variant
+10.1038/s41591-020-0898-0,authors,Sarah E. Wakeman; Traci C. Green; Josiah Rich,Sarah E. Wakeman; Traci C. Green; Josiah D. Rich,S. Wakeman; Traci C. Green; J. Rich,variant
+10.1007/978-3-031-16443-9_26,journal,Lecture Notes in Computer Science,Lecture notes in computer science,International Conference on Medical Image Computing and Computer-Assisted Intervention,substantive
+10.1007/978-3-031-16443-9_26,authors,Chenchu Xu; Dong Zhang; Yuhui Song; Leonardo Kayat Bittencourt; Sree Harsha Tirumani; Shuo Li,Chenchu Xu; Dong Zhang; Yuhui Song; Leonardo Kayat Bittencourt; Sree Harsha Tirumani; Shuo Li,Chenchu Xu; Dong Zhang; Yuhui Song; L. Bittencourt; S. Tirumani; Shuo Li,variant
+10.1109/CVPR52688.2022.02007,year,2022,2022,2021,variant
+10.1109/CVPR52688.2022.02007,authors,Yucheng Tang; Dong Yang; Wenqi Li; Holger R. Roth; Bennett Landman; Daguang Xu; Vishwesh Nath; Ali Hatamizadeh,Yucheng Tang; Dong Yang; Wenqi Li; Holger R. Roth; Bennett A. Landman; Daguang Xu; Vishwesh Nath; Ali Hatamizadeh,Yucheng Tang; Dong Yang; Wenqi Li; H. Roth; B. Landman; Daguang Xu; V. Nath; Ali Hatamizadeh,variant
+10.1038/s41586-023-05881-4,authors,Michael Moor; Oishi Banerjee; Zahra Shakeri Hossein Abad; Harlan M. Krumholz; Jure Leskovec; Eric J. Topol; Pranav Rajpurkar,Michael Moor; Oishi Banerjee; Zahra Shakeri Hossein Abad; Harlan M. Krumholz; Jure Leskovec; Eric J. Topol; Pranav Rajpurkar,Michael Moor; Oishi Banerjee; Zahra F H Abad; H. Krumholz; J. Leskovec; E. Topol; P. Rajpurkar,variant
+10.1038/s41467-024-44824-z,year,2024,2024,2023,variant
+10.1038/s41467-024-44824-z,authors,Jun Ma; Yuting He; Feifei Li; Lin Han; Chenyu You; Bo Wang,Jun Ma; Yuting He; Feifei Li; Lin Han; Chenyu You; Bo Wang,Jun Ma; Yuting He; Feifei Li; Li-Jun Han; Chenyu You; Bo Wang,variant
+10.1016/j.media.2024.103201,year,2024,2024,2023,variant
+10.1016/j.media.2024.103201,pages,103201,103201-103201,"
+          103201
+        ",variant
+10.1016/j.media.2024.103201,authors,Haoran Wang; Qiuye Jin; Shiman Li; Siyu Liu; Manning Wang; Zhijian Song,Haoran Wang; Qiuye Jin; Shiman Li; Siyu Liu; Manning Wang; Zhijian Song,Haoran Wang; Q. Jin; Shiman Li; Siyu Liu; Manning Wang; Zhijian Song,variant
+10.3390/buildings14113446,authors,Mukilan Poyyamozhi; Balasubramanian Murugesan; Narayanamoorthi Rajamanickam; Mohammad Shorfuzzaman; Yasser Aboelmagd,Mukilan Poyyamozhi; Balasubramanian Murugesan; R Narayanamoorthi; Mohammad Shorfuzzaman; Yasser Aboelmagd,Mukilan Poyyamozhi; Balasubramanian Murugesan; N. Rajamanickam; Mohammad Shorfuzzaman; Yasser Aboelmagd,variant
+10.1080/14786451.2025.2455134,authors,Konstantinos Chatzikonstantinidis; Nicholas Afxentiou; Effrosyni Giama; Paris A. Fokaides; Agis M. Papadopoulos,Konstantinos Chatzikonstantinidis; Nicholas Afxentiou; Effrosyni Giama; Paris A. Fokaides; Agis M. Papadopoulos,Konstantinos Chatzikonstantinidis; N. Afxentiou; E. Giama; Paris A. Fokaides; Agis M. Papadopoulos,variant
+10.36680/j.itcon.2025.060,journal,Journal of Information Technology in Construction,Journal of Information Technology in Construction,J. Inf. Technol. Constr.,substantive
+10.36680/j.itcon.2025.060,pages,1478,1478-1478,1478-1496,variant
+10.36680/j.itcon.2025.060,authors,Mehdi Ghiai; Marjan Pahlevani,Mohammad Mehdi Ghiai; Marjan Pahlevani,Mehdi Ghiai; Marjan Pahlevani,variant
+10.1016/j.seta.2021.101724,year,2022,2021,2022,variant
+10.1016/j.seta.2021.101724,authors,Zhong Chen; C.B. Sivaparthipan; BalaAnand Muthu,Zhong Chen; C. B. Sivaparthipan; BalaAnand Muthu,Zhong Chen; C. Sivaparthipan; BalaAnand Muthu,variant
+10.1016/j.egyai.2020.100043,year,2021,2020,2021,variant
+10.1016/j.egyai.2020.100043,journal,Energy and AI,Energy and AI,,substantive
+10.1016/j.egyai.2020.100043,pages,100043,100043-100043,100043,variant
+10.1016/j.egyai.2020.100043,authors,Paulo Lissa; Conor Deane; Michael Schukat; Federico Seri; Marcus Keane; Enda Barrett,Paulo Lissa; Conor Deane; Michael Schukat; Federico Seri; Marcus Keane; Enda Barrett,P. Lissa; C. Deane; M. Schukat; F. Seri; M. Keane; E. Barrett,variant
+10.1016/j.scs.2021.102852,pages,102852,102852-102852,102852,variant
+10.1016/j.scs.2021.102852,authors,Seyed Amir Mansouri; Amir Ahmarinejad; Emad Nematbakhsh; Mohammad Sadegh Javadi; Ahmad Rezaee Jordehi; João P.S. Catalão,Seyed Amir Mansouri; Amir Ahmarinejad; Emad Nematbakhsh; Mohammad Sadegh Javadi; Ahmad Rezaee Jordehi; João P. S. Catalào,S. Mansouri; A. Ahmarinejad; Emad Nematbakhsh; M. Javadi; A. R. Jordehi; J. Catalão,variant
+10.3390/s21216978,journal,Sensors,Sensors,"Sensors (Basel, Switzerland)",substantive
+10.3390/s21216978,authors,Jesús Jaime Moreno Escobar; Oswaldo Morales Matamoros; Ricardo Tejeida Padilla; Ixchel Lina Reyes; Hugo Quintana Espinosa,Jesús Jaime Moreno Escobar; Oswaldo Morales Matamoros; Ricardo Tejeida Padilla; Ixchel Lina Reyes; Hugo Quintana Espinosa,J. Escobar; O. M. Matamoros; Ricardo Tejeida Padilla; Ixchel Lina Reyes; Hugo Quintana Espinosa,variant
+10.1016/j.scs.2018.09.016,year,2019,2018,2019,variant
+10.1016/j.scs.2018.09.016,authors,Mohammadreza Shirzadi; Mohammad Naghashzadegan; Parham A. Mirzaei,Mohammadreza Shirzadi; Mohammad Naghashzadegan; Parham A. Mirzaei,M. Shirzadi; M. Naghashzadegan; P. Mirzaei,variant
+10.1016/j.enbuild.2018.05.018,authors,Xabat Oregi; Nekane Hermoso; Iñaki Prieto; Jose Luis Izkara; Lara Mabe; Panagiotis Sismanidis,Xabat Oregi; Nekane Hermoso; Iñaki Prieto; José Luis Izkara; Lara Mabe; Panagiotis Sismanidis,X. Oregi; Nekane Hermoso; I. Prieto; J. Izkara; L. Mabe; P. Sismanidis,variant
+10.1109/JIOT.2017.2647881,authors,Daniel Minoli; Kazem Sohraby; Benedict Occhiogrosso,Daniel Minoli; K. Sohraby; Benedict Occhiogrosso,D. Minoli; K. Sohraby; B. Occhiogrosso,variant
+10.1016/j.rser.2017.09.108,year,2018,2017,2018,variant
+10.1016/j.rser.2017.09.108,journal,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,Renewable & Sustainable Energy Reviews,variant
+10.1016/j.rser.2017.09.108,authors,Yixuan Wei; Xingxing Zhang; Yong Shi; Liang Xia; Song Pan; Jinshun Wu; Mengjie Han; Xiaoyun Zhao,Yixuan Wei; Xingxing Zhang; Yong Shi; Liang Xia; Song Pan; Jinshun Wu; Mengjie Han; Xiaoyun Zhao,Yixuan Wei; Xingxing Zhang; Yong-lin Shi; L. Xia; S. Pan; Jinshun Wu; Mengjie Han; Xiaoyun Zhao,variant
+10.1109/MIE.2016.2615575,authors,Milos Manic; Kasun Amarasinghe; Juan J. Rodriguez-Andina; Craig Rieger,Milos Manic; Kasun Amarasinghe; Juan J. Rodríguez-Andina; Craig Rieger,M. Manic; Kasun Amarasinghe; J. Rodríguez-Andina; C. Rieger,variant
+10.1007/s11135-014-0155-z,year,2016,2015,2015,variant
+10.1007/s11135-014-0155-z,journal,Quality &amp; Quantity,Quality & Quantity,Quality & Quantity,variant
+10.1007/s11135-014-0155-z,pages,399-420,399-420,399 - 420,variant
+10.1007/s11135-014-0155-z,authors,Patrycja Hąbek; Radosław Wolniak,Patrycja Hąbek; Radosław Wolniak,P. Hąbek; R. Wolniak,variant
+10.1287/mnsc.2018.3067,journal,Management Science,Management Science,Manag. Sci.,substantive
+10.1287/mnsc.2018.3067,authors,Susanna Gallani; Ranjani Krishnan; Eric J. Marinich; Michael D. Shields,Susanna Gallani; Ranjani Krishnan; Eric Marinich; Michael D. Shields,Susanna Gallani; Ranjani Krishnan; Eric J. Marinich; Michael D. Shields,variant
+10.1002/csr.2051,year,2021,2020,2020,variant
+10.1002/csr.2051,volume,28,28,,substantive
+10.2308/JIAR-2021-042,authors,Gang Zhao; Shangkun Liang; Jindan Zhang; Henry He Huang,Gang Zhao; Shangkun Liang; Jindan Zhang; Henry He Huang,Gang Zhao; Shangkun Liang; Jindan Zhang; H. Huang,variant
+10.1016/j.jclepro.2020.120513,pages,120513,120513-120513,120513,variant
+10.1016/j.jclepro.2020.120513,authors,Enrico Cerioni Spiropulos Gonçalves; Malena Martínez Pérez; Ana Claudia Vici; Jose Carlos Santos Salgado; Mariana de Souza Rocha; Paula Zaghetto de Almeida; Juliana da Conceição Infante; Ana Sílvia de Almeida Scarcella; Rosymar Coutinho de Lucas; Andressa Tironi Vieira; Anízio Márcio de Faria; Antônio Carlos Ferreira Batista; Maria de Lourdes Teixeira de Moraes Polizeli,Enrico Cerioni Spiropulos Gonçalves; Malena M. Pérez; Ana Cláudia Vici; José Carlos Santos Salgado; Mariana de Souza Rocha; Paula Zaghetto de Almeida; Juliana Infante; Ana Sílvia de Almeida Scarcella; Rosymar Coutinho de Lucas; Andressa Tironi Vieira; Anízio M. Faria; Antônio Carlos Ferreira Batista; Maria de Lourdes Teixeira de Moraes Polizeli,Enrico Cerioni Spiropulos Gonçalves; M. Martínez Pérez; A. C. Vici; Jose Carlos Santos Salgado; Mariana de Souza Rocha; Paula Zaghetto de Almeida; Juliana Infante; Ana Sílvia de Almeida Scarcella; Rosymar Coutinho de Lucas; Andressa Tironi Vieira; A. M. de Faria; Antônio Carlos Ferreira Batista; Maria de Lourdes Teixeira de Moraes Polizeli,variant
+10.3390/su9030462,pages,462,462-462,1-23,substantive
+10.1002/csr.1738,title,Reporting on sustainable development: A comparison of three Italian small and medium‐sized enterprises,Reporting on sustainable development: A comparison of three Italian small and medium‐sized enterprises,Reporting on sustainable development: A comparison of three Italian small and medium-sized enterprises,variant
+10.1002/csr.1738,authors,Laura Girella; Stefano Zambon; Paola Rossi,Laura Girella; Stefano Zambon; Paola Rossi,Laura Girella; S. Zambon; Paola Rossi,variant
+10.18653/v1/D18-1001,journal,Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing,,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/D18-2024,journal,Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing: System Demonstrations,,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/D18-2024,authors,Xu Han; Shulin Cao; Xin Lv; Yankai Lin; Zhiyuan Liu; Maosong Sun; Juanzi Li,Xu Han; Shulin Cao; Xin Lv; Yankai Lin; Zhiyuan Liu; Maosong Sun; Juanzi Li,Xu Han; Shulin Cao; Xin Lv; Yankai Lin; Zhiyuan Liu; Maosong Sun; Juan-Zi Li,variant
+10.18653/v1/N19-1015,journal,Proceedings of the 2019 Conference of the North,,North American Chapter of the Association for Computational Linguistics,substantive
+10.18653/v1/N19-1015,authors,Wenlin Wang; Zhe Gan; Hongteng Xu; Ruiyi Zhang; Guoyin Wang; Dinghan Shen; Changyou Chen; Lawrence Carin,Wenlin Wang; Zhe Gan; Hongteng Xu; Ruiyi Zhang; Guoyin Wang; Dinghan Shen; Changyou Chen; Lawrence Carin,Wenlin Wang; Zhe Gan; Hongteng Xu; Ruiyi Zhang; Guoyin Wang; Dinghan Shen; Changyou Chen; L. Carin,variant
+10.18653/v1/D13-1170,journal,Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing,,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/D13-1170,authors,Richard Socher; Alex Perelygin; Jean Wu; Jason Chuang; Christopher D. Manning; Andrew Ng; Christopher Potts,Richard Socher; Alex Perelygin; Jean Y. Wu; Jason Chuang; Christopher D. Manning; Andrew Y. Ng; Christopher Potts,R. Socher; Alex Perelygin; Jean Wu; Jason Chuang; Christopher D. Manning; A. Ng; Christopher Potts,variant
+10.18653/v1/N19-1021,title,Cyclical Annealing Schedule: A Simple Approach to Mitigating,Cyclical Annealing Schedule: A Simple Approach to Mitigating,Cyclical Annealing Schedule: A Simple Approach to Mitigating KL Vanishing,variant
+10.18653/v1/N19-1021,journal,Proceedings of the 2019 Conference of the North,,North American Chapter of the Association for Computational Linguistics,substantive
+10.18653/v1/N19-1021,authors,Hao Fu; Chunyuan Li; Xiaodong Liu; Jianfeng Gao; Asli Celikyilmaz; Lawrence Carin,Hao Fu; Chunyuan Li; Xiaodong Liu; Jianfeng Gao; Aslı Çelikyılmaz; Lawrence Carin,Hao Fu; Chunyuan Li; Xiaodong Liu; Jianfeng Gao; Asli Celikyilmaz; L. Carin,variant
+10.18653/v1/D15-1054,journal,Proceedings of the 2015 Conference on Empirical Methods in Natural Language Processing,,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/D15-1054,authors,Sungjin Lee; Yifan Hu,Sung-Jin Lee; Yifan Hu,Sungjin Lee; Yifan Hu,variant
+10.1109/ICASSP.2015.7178964,authors,Vassil Panayotov; Guoguo Chen; Daniel Povey; Sanjeev Khudanpur,Vassil Panayotov; Guoguo Chen; Daniel Povey; Sanjeev Khudanpur,Vassil Panayotov; Guoguo Chen; Daniel Povey; S. Khudanpur,variant
+10.1007/978-3-319-10602-1_48,journal,Lecture Notes in Computer Science,Lecture notes in computer science,European Conference on Computer Vision,substantive
+10.1007/978-3-319-10602-1_48,authors,Tsung-Yi Lin; Michael Maire; Serge Belongie; James Hays; Pietro Perona; Deva Ramanan; Piotr Dollár; C. Lawrence Zitnick,Tsung-Yi Lin; Michael Maire; Serge Belongie; James Hays; Pietro Perona; Deva Ramanan; Piotr Dollár; C. Lawrence Zitnick,Tsung-Yi Lin; M. Maire; Serge J. Belongie; James Hays; P. Perona; Deva Ramanan; Piotr Dollár; C. L. Zitnick,variant
+10.18653/v1/N19-1178,journal,Proceedings of the 2019 Conference of the North,,North American Chapter of the Association for Computational Linguistics,substantive
+10.18653/v1/N19-1158,title,Analyzing,Analyzing,Analyzing Bayesian Crosslingual Transfer in Topic Models,substantive
+10.18653/v1/N19-1158,journal,Proceedings of the 2019 Conference of the North,,North American Chapter of the Association for Computational Linguistics,substantive
+10.18653/v1/2020.emnlp-main.330,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.18653/v1/2020.emnlp-main.330,authors,Jesús Calvillo; Le Fang; Jeremy Cole; David Reitter,Jesús Calvillo; Le Fang; Jeremy Cole; David Reitter,Jesús Calvillo; Le Fang; Jeremy R. Cole; D. Reitter,variant
+10.18653/v1/2020.emnlp-main.314,journal,Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),,ArXiv,substantive
+10.1016/j.ejor.2021.03.011,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.ejor.2021.03.011,authors,Ana Patrícia Torraca; Bruno Fanzeres,Ana Patrícia Barros Torraca; Bruno Fanzeres,Ana Patrícia Torraca; Bruno Fanzeres,variant
+10.1016/j.eswa.2019.112956,title,Learning parameters of Bayesian networks from datasets with systematically missing data: A meta–analytic approach,Learning parameters of Bayesian networks from datasets with systematically missing data: A meta–analytic approach,Learning parameters of Bayesian networks from datasets with systematically missing data: A meta-analytic approach,variant
+10.1016/j.eswa.2019.112956,year,2020,2019,2020,variant
+10.1016/j.eswa.2019.112956,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2019.112956,authors,Jelena Kovačić,Jelena Kovačić,J. Kovačić,variant
+10.1016/j.asoc.2020.106384,journal,Applied Soft Computing,Applied Soft Computing,Appl. Soft Comput.,substantive
+10.1016/j.asoc.2020.106384,pages,106384,106384-106384,106384,variant
+10.1016/j.asoc.2020.106384,authors,Ahmet Murat Ozbayoglu; Mehmet Ugur Gudelek; Omer Berat Sezer,Ahmet Murat Özbayoğlu; Mehmet Ugur Gudelek; Ömer Berat Sezer,A. Ozbayoglu; M. U. Gudelek; O. Sezer,variant
+10.1016/j.ejor.2018.10.024,year,2019,2018,2019,variant
+10.1016/j.ejor.2018.10.024,journal,European Journal of Operational Research,European Journal of Operational Research,Eur. J. Oper. Res.,substantive
+10.1016/j.eswa.2018.09.023,year,2019,2018,2019,variant
+10.1016/j.eswa.2018.09.023,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2018.09.023,authors,Dariusz Kacprzak,Dariusz Kacprzak,D. Kacprzak,variant
+10.1016/j.eswa.2018.11.029,year,2019,2018,2019,variant
+10.1016/j.eswa.2018.11.029,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2018.11.029,authors,Fares Alharbi; Yu-Chu Tian; Maolin Tang; Wei-Zhe Zhang; Chen Peng; Minrui Fei,Fares Alharbi; Yu‐Chu Tian; Maolin Tang; Weizhe Zhang; Chen Peng; Minrui Fei,Fares Alharbi; Yu-Chu Tian; Maolin Tang; Weizhe Zhang; Chen Peng; M. Fei,variant
+10.1007/s11156-024-01278-0,pages,925-954,925-954,925 - 954,variant
+10.1016/j.asoc.2020.106852,year,2021,2020,2020,variant
+10.1016/j.asoc.2020.106852,journal,Applied Soft Computing,Applied Soft Computing,Appl. Soft Comput.,substantive
+10.1016/j.asoc.2020.106852,pages,106852,106852-106852,106852,variant
+10.1016/j.asoc.2020.106852,authors,Feng Shen; Xingchao Zhao; Gang Kou; Fawaz E. Alsaadi,Feng Shen; Xingchao Zhao; Gang Kou; Fawaz E. Alsaadi,Feng Shen; Xingchao Zhao; Gang Kou; F. Alsaadi,variant
+10.1186/s43093-020-00041-w,authors,Maisa Cardoso Aniceto; Flavio Barboza; Herbert Kimura,Maisa Cardoso Aniceto; Flávio Barboza; Herbert Kimura,M. Aniceto; Flavio Barboza; H. Kimura,variant
+10.1007/s42786-020-00020-3,pages,111-138,111-138,111 - 138,variant
+10.1007/s42786-020-00020-3,authors,Siddharth Bhatore; Lalit Mohan; Y. Raghu Reddy,Siddharth Bhatore; Lalit Mohan; Y. Raghu Reddy,Siddharth Bhatore; Lalit Mohan; Y. R. Reddy,variant
+10.1016/j.asoc.2021.107388,journal,Applied Soft Computing,Applied Soft Computing,Appl. Soft Comput.,substantive
+10.1016/j.asoc.2021.107388,pages,107388,107388-107388,107388,variant
+10.1016/j.asoc.2021.107388,authors,Amalesh Kumar Manna; Md Akhtar; Ali Akbar Shaikh; Asoke Kumar Bhunia,Amalesh Kumar Manna; Md Akhtar; Ali Akbar Shaikh; Asoke Kumar Bhunia,A. K. Manna; M. Akhtar; A. Shaikh; A. Bhunia,variant
+10.1016/j.asoc.2019.105615,journal,Applied Soft Computing,Applied Soft Computing,Appl. Soft Comput.,substantive
+10.1016/j.asoc.2019.105615,authors,Arash Gharehbaghi; Maria Lindén; Ankica Babic,Arash Gharehbaghi; María Lindén; Ankica Babić,Arash Gharehbaghi; M. Lindén; A. Babic,variant
+10.1007/978-3-319-46723-8_49,journal,Lecture Notes in Computer Science,Lecture notes in computer science,International Conference on Medical Image Computing and Computer-Assisted Intervention,substantive
+10.1007/978-3-319-46723-8_49,authors,Özgün Çiçek; Ahmed Abdulkadir; Soeren S. Lienkamp; Thomas Brox; Olaf Ronneberger,Özgün Çiçek; Ahmed Abdulkadir; Soeren S. Lienkamp; Thomas Brox; Olaf Ronneberger,Özgün Çiçek; A. Abdulkadir; S. Lienkamp; T. Brox; O. Ronneberger,variant
+10.1016/j.media.2019.02.012,title,Predicting breast tumor proliferation from whole-slide images: The TUPAC16 challenge,Predicting breast tumor proliferation from whole-slide images: The TUPAC16 challenge,Predicting breast tumor proliferation from whole‐slide images: The TUPAC16 challenge,variant
+10.1016/j.media.2019.02.012,year,2019,2019,2018,variant
+10.1016/j.media.2019.02.012,pages,111-121,111-121,111–121,variant
+10.1016/j.media.2019.02.012,authors,Mitko Veta; Yujing J. Heng; Nikolas Stathonikos; Babak Ehteshami Bejnordi; Francisco Beca; Thomas Wollmann; Karl Rohr; Manan A. Shah; Dayong Wang; Mikael Rousson; Martin Hedlund; David Tellez; Francesco Ciompi; Erwan Zerhouni; David Lanyi; Matheus Viana; Vassili Kovalev; Vitali Liauchuk; Hady Ahmady Phoulady; Talha Qaiser; Simon Graham; Nasir Rajpoot; Erik Sjöblom; Jesper Molin; Kyunghyun Paeng; Sangheum Hwang; Sunggyun Park; Zhipeng Jia; Eric I-Chao Chang; Yan Xu; Andrew H. Beck; Paul J. van Diest; Josien P.W. Pluim,Mitko Veta; Yujing J. Heng; Nikolas Stathonikos; Babak Ehteshami Bejnordi; Francisco Beça; Thomas Wollmann; Karl Rohr; Manan Shah; D. Wang; Mikaël Rousson; Martin Hedlund; David Tellez; Francesco Ciompi; Erwan Zerhouni; Dávid Lányi; Matheus P. Viana; Vassili Kovalev; Vitali Liauchuk; Hady Ahmady Phoulady; Talha Qaiser; Simon Graham; Nasir Rajpoot; Erik Sjöblom; Jesper Molin; Kyunghyun Paeng; Sangheum Hwang; Sunggyun Park; Zhipeng Jia; Eric Chang; Yan Xu; Andrew H. Beck; P. J. van Diest; Josien P. W. Pluim,M. Veta; Y. Heng; N. Stathonikos; B. Bejnordi; F. Beca; Thomas Wollmann; K. Rohr; Manan A. Shah; Dayong Wang; Mikaël Rousson; Martin Hedlund; David Tellez; F. Ciompi; Erwan Zerhouni; D. Lanyi; Matheus Palhares Viana; V. Kovalev; V. Liauchuk; H. A. Phoulady; Talha Qaiser; S. Graham; N. Rajpoot; E. Sjöblom; J. Molin; K. Paeng; Sangheum Hwang; Sunggyun Park; Zhipeng Jia; E. Chang; Yan Xu; Andrew H. Beck; P. Diest; J. Pluim,variant
+10.34133/2021/8786793,authors,Xiaoqing Liu; Kunlun Gao; Bo Liu; Chengwei Pan; Kongming Liang; Lifeng Yan; Jiechao Ma; Fujin He; Shu Zhang; Siyuan Pan; Yizhou Yu,Xiaoqing Liu; Kunlun Gao; Bo Liu; Chengwei Pan; Kongming Liang; Lifeng Yan; Jiechao Ma; Fujin He; Shu Zhang; Siyuan Pan; Yizhou Yu,Xiaoqing Liu; Kunlun Gao; Bo Liu; C. Pan; Kongming Liang; Lifeng Yan; Jiechao Ma; Fujin He; Shu Zhang; Siyuan Pan; Yizhou Yu,variant
+10.3390/app10113841,authors,Andrej Vidmar; Mitja Brilly; Klaudija Sapač; Andrej Kryžanowski,Andrej Vidmar; Mitja Brilly; Klaudija Sapač; Andrej Kryžanowski,A. Vidmar; M. Brilly; Klaudija Sapač; A. Kryžanowski,variant
+10.3390/en12030571,authors,Jingrong Yu; Limin Deng; Dongran Song; Maolin Pei,Jingrong Yu; Limin Deng; Dongran Song; Maolin Pei,Jingrong Yu; Limin Deng; Dongran Song; Mao Pei,variant
+10.1016/j.rser.2020.109883,pages,109883,109883-109883,109883 - 109883,variant
+10.1016/j.rser.2020.109883,authors,Jiří Jaromír Klemeš; Yee Van Fan; Raymond R. Tan; Peng Jiang,Jiří Jaromír Klemeš; Yee Van Fan; Raymond R. Tan; Peng Jiang,J. Klemeš; Y. Fan; R. Tan; Peng Jiang,variant
+10.1016/j.rser.2020.110035,journal,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,Renewable & Sustainable Energy Reviews,variant
+10.1016/j.rser.2020.110035,pages,110035,110035-110035,110035,variant
+10.1016/j.rser.2020.110035,authors,K.B. Aviso; C.L. Sy; R.R. Tan; A.T. Ubando,Kathleen B. Aviso; Charlle Sy; Raymond R. Tan; Aristotle T. Ubando,K. Aviso; C. Sy; R. Tan; A. Ubando,variant
+10.3390/en13112751,authors,Julián Puszkiel; José M. Bellosta von Colbe; Julian Jepsen; Sergey V. Mitrokhin; Elshad Movlaev; Victor Verbetsky; Thomas Klassen,Julián Puszkiel; José M. Bellosta von Colbe; Julian Jepsen; С.В. Митрохин; E. A. Movlaev; V. N. Verbetsky; Thomas Klassen,J. Puszkiel; Josè Bellosta von Colbe; J. Jepsen; S. Mitrokhin; E. Movlaev; Victor Verbetsky; T. Klassen,variant
+10.1016/j.rser.2020.110040,authors,Wan Zhao; Zhi Chen; Xiuru Yang; Xiaoxiao Qian; Chunxi Liu; Dantong Zhou; Tao Sun; Ming Zhang; Guoying Wei; Pavani Dulanja Dissanayake; Yong Sik Ok,Wan Zhao; Zhi Chen; Xiuru Yang; Xiaoxiao Qian; Chunxi Liu; Dantong Zhou; Tao Sun; Ming Zhang; Guoying Wei; Pavani Dulanja Dissanayake; Yong Sik Ok,W. Zhao; Zhi Chen; Xiuru Yang; Xiaoxiao Qian; Chunxi Liu; Dantong Zhou; Tao Sun; Ming Zhang; G. Wei; P. D. Dissanayake; Y. Ok,variant
+10.3390/en13030741,authors,Bisi Olaniyan; Basudeb Saha,Bisi Olaniyan; Basudeb Saha,B. Olaniyan; B. Saha,variant
+10.1016/j.rser.2020.110045,journal,Renewable and Sustainable Energy Reviews,Renewable and Sustainable Energy Reviews,Renewable & Sustainable Energy Reviews,variant
+10.1016/j.rser.2020.110045,pages,110045,110045-110045,110045,variant
+10.1016/j.rser.2020.110045,authors,Alonso Moreno Zuria; Juan Carlos Abrego-Martinez; Shuhui Sun; Mohamed Mohamedi,Alonso Moreno Zuria; Juan Carlos Abrego‐Martinez; Shuhui Sun; Mohamed Mohamedi,Alonso Moreno Zuria; J. C. Abrego-Martinez; Shuhui Sun; M. Mohamedi,variant
+10.1016/j.bar.2022.101149,year,2023,2022,2022,variant
+10.1016/j.bar.2022.101149,authors,Albert Tsang; Tracie Frost; Huijuan Cao,Albert Tsang; Tracie Frost; Huijuan Cao,Albert H. C. Tsang; Tracie S. Frost; Huijuan Cao,variant
+10.1016/j.gfj.2017.03.001,year,2018,2017,2017,variant
+10.1016/j.gfj.2017.03.001,authors,Ali Fatemi; Martin Glaum; Stefanie Kaiser,Ali M Fatemi; Martin Glaum; Stefanie Kaiser,Ali Fatemi; M. Glaum; Stefanie Kaiser,variant
+10.2469/faj.v74.n3.2,title,Why and How Investors Use ESG Information: Evidence from a Global           Survey,Why and How Investors Use ESG Information: Evidence from a Global Survey,Why and How Investors Use ESG Information: Evidence from a Global Survey,variant
+10.2469/faj.v74.n3.2,pages,87-103,87-103,103 - 87,substantive
+10.2469/faj.v74.n3.2,authors,Amir Amel-Zadeh; George Serafeim,Amir Amel‐Zadeh; George Serafeim,A. Amel-Zadeh; G. Serafeim,variant
+10.3905/jpm.2019.45.5.069,title,"Foundations of ESG Investing: <i>How ESG Affects Equity Valuation, Risk, and Performance</i>","Foundations of ESG Investing: <i>How ESG Affects Equity Valuation, Risk, and Performance</i>","Foundations of ESG Investing: How ESG Affects Equity Valuation, Risk, and Performance",variant
+10.3905/jpm.2019.45.5.069,journal,The Journal of Portfolio Management,The Journal of Portfolio Management,Journal of Portfolio Management,variant
+10.3905/jpm.2019.45.5.069,pages,69-83,69-83,69 - 83,variant
+10.3905/jpm.2019.45.5.069,authors,Guido Giese; Linda-Eling Lee; Dimitris Melas; Zoltán Nagy; Laura Nishikawa,Guido Giese; Linda-Eling Lee; Dimitris Melas; Zoltán Nagy; Laura Nishikawa,G. Giese; Linda-Eling Lee; D. Melas; Z. Nagy; Laura Nishikawa,variant
+10.1016/j.cpa.2019.102097,year,2021,2019,2019,substantive
+10.1016/j.cpa.2019.102097,volume,79,79,,substantive
+10.1016/j.cpa.2019.102097,pages,102097,102097-102097,102097,variant
+10.1080/23311975.2025.2538711,journal,Cogent Business &amp; Management,Cogent Business & Management,Cogent Business & Management,variant
+10.1080/23311975.2025.2538711,authors,Anisha Mishra; Mohammed H. Alsamhi; Mohammed Bajaher; Waleed M. Alahdal,Anjay Kumar Mishra; Mohammed H. Alsamhi; Mohammed Bajaher; Waleed M. Alahdal,Anisha Mishra; M. Alsamhi; M. Bajaher; Waleed M. Alahdal,variant
+10.3390/su12229405,pages,9405,9405-9405,9405,variant
+10.3390/su12229405,authors,Gonzalo Díaz-Meneses; Neringa Vilkaitė-Vaitonė; Miriam Estupiñan-Ojeda,Gonzalo Díaz Meneses; Neringa Vilkaité-Vaitoné; Miriam Estupiñán-Ojeda,Gonzalo Díaz-Meneses; Neringa Vilkaitė-Vaitonė; Miriam Estupinán-Ojeda,variant
+10.3390/su13063033,authors,Kutay Cingiz; Hugo Gonzalez-Hermoso; Wim Heijman; Justus H. H. Wesseler,Kutay Cingiz; Hugo Gonzalez-Hermoso; Wim Heijman; Justus Wesseler,Kutay Cingiz; Hugo Gonzalez-Hermoso; W. Heijman; J. Wesseler,variant
+10.18653/v1/D19-1315,journal,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),,Conference on Empirical Methods in Natural Language Processing,substantive
+10.1162/tacl_a_00331,year,2020,2020,2019,variant
+10.18653/v1/D19-1284,journal,Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP),,ArXiv,substantive
+10.18653/v1/N19-1141,title,Fake News Detection using Deep,Fake News Detection using Deep,Fake News Detection using Deep Markov Random Fields,substantive
+10.18653/v1/N19-1141,journal,Proceedings of the 2019 Conference of the North,,North American Chapter of the Association for Computational Linguistics,substantive
+10.18653/v1/N19-1141,authors,Duc Minh Nguyen; Tien Huu Do; Robert Calderbank; Nikos Deligiannis,Duc Minh Nguyen; Tien Huu; Robert Calderbank; Nikos Deligiannis,Duc Minh Nguyen; T. Do; A. Calderbank; N. Deligiannis,variant
+10.1162/tacl_a_00330,authors,Marina Fomicheva; Shuo Sun; Lisa Yankovskaya; Frédéric Blain; Francisco Guzmán; Mark Fishel; Nikolaos Aletras; Vishrav Chaudhary; Lucia Specia,Marina Fomicheva; Shuo Sun; Lisa Yankovskaya; Frédéric Blain; Francisco Guzm﻿án; Mark Fishel; Νικόλαος Αλέτρας; Vishrav Chaudhary; Lucia Specia,M. Fomicheva; Shuo Sun; L. Yankovskaya; F. Blain; Francisco (Paco) Guzmán; Mark Fishel; Nikolaos Aletras; Vishrav Chaudhary; Lucia Specia,variant
+10.1162/tacl_a_00333,authors,Jacob Andreas; John Bufe; David Burkett; Charles Chen; Josh Clausman; Jean Crawford; Kate Crim; Jordan DeLoach; Leah Dorner; Jason Eisner; Hao Fang; Alan Guo; David Hall; Kristin Hayes; Kellie Hill; Diana Ho; Wendy Iwaszuk; Smriti Jha; Dan Klein; Jayant Krishnamurthy; Theo Lanman; Percy Liang; Christopher H. Lin; Ilya Lintsbakh; Andy McGovern; Aleksandr Nisnevich; Adam Pauls; Dmitrij Petters; Brent Read; Dan Roth; Subhro Roy; Jesse Rusak; Beth Short; Div Slomin; Ben Snyder; Stephon Striplin; Yu Su; Zachary Tellman; Sam Thomson; Andrei Vorobev; Izabela Witoszko; Jason Wolfe; Abby Wray; Yuchen Zhang; Alexander Zotov,Jacob Andreas; John Bufe; David Burkett; Charles Chen; Josh Clausman; Jean Crawford; Kate Crim; Jordan DeLoach; Leah Dorner; Jason Eisner; Hao Fang; Alan Guo; David Hall; Kristin Hayes; Kellie Hill; Diana Ho; Wendy Iwaszuk; Smriti Jha; Dan Klein; Jayant Krishnamurthy; Theo Lanman; Percy Liang; Christopher H. Lin; Ilya Lintsbakh; Andy McGovern; Aleksandr Nisnevich; Adam Pauls; Dmitrij Petters; Brent Read; Dan Roth; Subhro Roy; Jesse Rusak; Beth Short; Div Slomin; Ben Snyder; Stephon Striplin; Yu Su; Zachary Tellman; Sam Thomson; Andrei Vorobev; Izabela Witoszko; Jason Wolfe; Abby Wray; Yuchen Zhang; Alexander Zotov,Jacob Andreas; J. Bufe; David Burkett; Charles C. Chen; Joshua Clausman; Jean Crawford; Kate Crim; Jordan DeLoach; Leah Dorner; Jason Eisner; Hao Fang; Alan Guo; David Leo Wright Hall; K. Hayes; Kellie Hill; D. Ho; Wendy Iwaszuk; Smriti Jha; D. Klein; Jayant Krishnamurthy; Theo Lanman; P. Liang; C. H. Lin; Ilya Lintsbakh; Andy McGovern; Aleksandr Nisnevich; Adam Pauls; Dmitrij Petters; Brent Read; Dan Roth; Subhro Roy; Jesse Rusak; B. Short; Div Slomin; Ben Snyder; Stephon Striplin; Yu Su; Zachary Tellman; Sam Thomson; A. Vorobev; Izabela Witoszko; Jason Wolfe; A. Wray; Yuchen Zhang; Alexander Zotov,variant
+10.1111/coin.12313,year,2021,2020,2020,variant
+10.1111/coin.12313,pages,1460-1498,1460-1498,1460 - 1498,variant
+10.1111/coin.12313,authors,Leila Yousefi; Stephen Swift; Mahir Arzoky; Lucia Saachi; Luca Chiovato; Allan Tucker,Leila Yousefi; Stephen Swift; Mahir Arzoky; Lucia Saachi; Luca Chiovato; Allan Tucker,Leila Yousefi; S. Swift; Mahir Arzoky; Lucia Saachi; L. Chiovato; A. Tucker,variant
+10.1016/j.eswa.2020.113245,journal,Expert Systems with Applications,Expert Systems with Applications,Expert Syst. Appl.,substantive
+10.1016/j.eswa.2020.113245,pages,113245,113245-113245,113245,variant
+10.1016/j.jclepro.2020.122845,pages,122845,122845-122845,122845,variant
+10.1016/j.jclepro.2020.122845,authors,Yunsong Yu; Chen Zhang; Wancheng Ding; Zaoxiao Zhang; Geoff G.X. Wang,Yunsong Yu; Chen Zhang; Wancheng Ding; Zaoxiao Zhang; Geoff Wang,Yunsong Yu; Chen Zhang; Ding Wancheng; Zao-xiao Zhang; Geoff Wang,variant
+10.1016/j.scs.2020.102563,year,2021,2020,2021,variant
+10.1016/j.scs.2020.102563,pages,102563,102563-102563,102563,variant
+10.1016/j.scs.2020.102563,authors,Wei Liu; Jinyan Zhan; Fen Zhao; Xiaoqing Wei; Fan Zhang,Wei Liu; Jinyan Zhan; Fen Zhao; Xiaoqing Wei; Fan Zhang,Wei Liu; J. Zhan; Fen Zhao; Xiaoqing Wei; Fan Zhang,variant
+10.1016/j.scs.2021.103048,pages,103048,103048-103048,103048 - 103048,variant
+10.1016/j.scs.2021.103048,authors,Nidal Nasser; Lutful Karim; Ahmed El Ouadrhiri; Asmaa Ali; Nargis Khan,Nidal Nasser; Lutful Karim; Ahmed El Ouadrhiri; Asmaa Ali; Najeeb Alam Khan,N. Nasser; Lutful Karim; Ahmed El Ouadrhiri; Asmaa Ali; Nargis Khan,variant
+10.1016/j.jclepro.2021.126824,volume,300,300,,substantive
+10.1016/j.jclepro.2021.126824,pages,126824,126824-126824,126824,variant
+10.1016/j.jclepro.2021.126824,authors,Jingdong Zhang; Luping Jiang; Zehua Liu; Yanan Li; Kangli Liu; Ruying Fang; Honghu Li; Zhiguang Qu; Chaoyang Liu; Fei Li,Jingdong Zhang; Luping Jiang; Zehua Liu; Yanan Li; Kangli Liu; Ruying Fang; Honghu Li; Zhiguang Qu; Chaoyang Liu; Fei Li,Jing-dong Zhang; Luping Jiang; Zehua Liu; Yanan Li; Kangli Liu; Ruying Fang; Honghu Li; Zhiguang Qu; Chaoyang Liu; Fei Li,variant
+10.1016/j.scs.2021.103103,pages,103103,103103-103103,103103,variant
+10.1016/j.scs.2021.103103,authors,Hoda Karimipour; Vivian W Y Tam; Khoa N Le; Helen Burnie,Hoda Karimipour; Vivian W.Y. Tam; Khoa N. Le; Helen Burnie,H. Karimipour; V. Tam; K. Le; H. Burnie,variant
+10.1111/ijmr.12218,year,2020,2019,2019,variant
+10.1111/ijmr.12218,authors,Szilvia Mosonyi; Laura Empson; Jean‐Pascal Gond,Szilvia Mosonyi; Laura Empson; Jean‐Pascal Gond,Szilvia Mosonyi; L. Empson; Jean‐Pascal Gond,variant
+10.1111/ijmr.12219,title,Developing Insights through Reviews: Reflecting on the 20th Anniversary of the<i>International Journal of Management Reviews</i>,Developing Insights through Reviews: Reflecting on the 20th Anniversary of the<i>International Journal of Management Reviews</i>,"Developing Insights through Reviews: Reflecting on the 20th Anniversary of the
+ International Journal of Management Reviews",variant
+10.1111/ijmr.12219,authors,Dermot Breslin; Caroline Gatrell; Katie Bailey,Dermot Breslin; Caroline Gatrell; Catherine Bailey,Dermot Breslin; Caroline Gatrell; Katie Bailey,variant
+10.1111/ijmr.12220,authors,Jordi Trullen; Anna Bos‐Nehles; Mireia Valverde,Jordi Trullén; Anna Christina Bos-Nehles; Mireia Valverde,J. Trullén; A. Bos‐Nehles; M. Valverde,variant
+10.1111/ijmr.12221,authors,Emma Bell; Susan Meriläinen; Scott Taylor; Janne Tienari,Emma Bell; Susan Meriläinen; Scott Taylor; Janne Tienari,E. Bell; S. Meriläinen; Scott Taylor; J. Tienari,variant
+10.1111/ijmr.12222,title,Unveiling the<i>Canvas Ceiling</i>: A Multidisciplinary Literature Review of Refugee Employment and Workforce Integration,Unveiling the<i>Canvas Ceiling</i>: A Multidisciplinary Literature Review of Refugee Employment and Workforce Integration,"Unveiling the
+ Canvas Ceiling
+ : A Multidisciplinary Literature Review of Refugee Employment and Workforce Integration",variant
+10.1111/ijmr.12222,authors,Eun Su Lee; Betina Szkudlarek; Duc Cuong Nguyen; Luciara Nardon,Eun Su Lee; Betina Szkudlarek; Duc Cuong Nguyen; Luciara Nardon,Eun Su Lee; B. Szkudlarek; D. Nguyen; L. Nardon,variant
+10.1111/ijmr.12223,authors,Christian Yao; Zheng (Daniel) Duan; Yehuda Baruch,Christian Yao; Zheng Duan; Yehuda Baruch,Christian Yao; Z. Duan; Y. Baruch,variant
+10.1111/ijmr.12224,authors,Ishan Jalan,Ishan Jalan,I. Jalan,variant
+10.1111/ijmr.12226,authors,Dongmei Zha; T.C. Melewar; Pantea Foroudi; Zhongqi Jin,Dongmei Zha; T.C. Melewar; Pantea Foroudi; Zhongqi Jin,Dongmei Zha; T. Melewar; P. Foroudi; Zhongqi Jin,variant
+10.5121/csit.2024.141004,authors,Ruiyi Zhang; Carlos Gonzalez,Ruiyi Zhang; Carlos F. Gonzalez,Ruiyi Zhang; C. González,variant
+10.1101/2024.12.18.629057,authors,Venkatraman Manikandan; Suresh Neethirajan,V. M. Manikandan; Suresh Neethirajan,V. Manikandan; Suresh Neethirajan,variant
+10.5121/csit.2024.150209,authors,Nir Regev; Asaf Shabtai; Lior Rokach,Nir Regev; Asaf Shabtai; Lior Rokach,Nir Regev; A. Shabtai; L. Rokach,variant
+10.5121/csit.2023.130803,authors,Niklas Holtz; Jorge Marx Gomez,Niklas Holtz; Jorge Marx Gómez,Niklas Holtz; J. Gómez,variant
+10.52783/tjjpt.v44.i1.2225,authors,"Tushar Agarwal, Jitender Jangid, Gaurav Kumar",Jitender Agarwal,"Tushar Agarwal, Jitender Jangid, Gaurav Kumar",variant
+10.54254/2755-2721/42/20230794,title,The evolution of transformer models from unidirectional to  bidirectional in Natural Language Processing,The evolution of transformer models from unidirectional to bidirectional in Natural Language Processing,The evolution of transformer models from unidirectional to bidirectional in Natural Language Processing,variant
+10.3384/ecp190012,journal,Linköping Electronic Conference Proceedings,Linköping electronic conference proceedings,Proceedings of the 11th Workshop on Natural Language Processing for Computer-Assisted Language Learning (NLP4CALL 2022),substantive
+10.3384/ecp190012,authors,Nico Willms; Ulrike Padó,Nico Willms; Ulrike Padó,Nico Willms; U. Padó,variant
+10.18411/trnio-05-2023-633,authors,A.M Evstropov; E.A Tarlakovskaya; I.A Sidorov,A.M Evstropov; E.A Tarlakovskaya; Igor A. Sidorov,A.M Evstropov; E. A. Tarlakovskaya; I.A Sidorov,variant
+10.22214/ijraset.2025.71832,authors,Jayasudha J,J. Jayasudha,Jayasudha J,variant
+10.70528/ijlrp.v4.i10.1837,journal,International Journal of Leading Research Publication,International Journal of Leading Research Publication.,International Journal of Leading Research Publication,variant
+10.70528/ijlrp.v4.i10.1837,authors,Srikanth Kavuri -,Srikanth Kavuri,Srikanth Kavuri,variant
+10.1101/2024.07.09.24310100,authors,Jingyuan Wu; Xiaodi Ruan; Elizabeth McNeer; Katelyn M. Rossow; Leena Choi,Jingyuan Wu; Xiaodi Ruan; Elizabeth McNeer; Katelyn M. Rossow; Leena Choi,MS Jingyuan Wu; MEd Xiaodi Ruan; MS Elizabeth McNeer; MD Katelyn M. Rossow; PhD Leena Choi,variant
+10.1017/nlp.2024.61,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1101/2024.03.21.24304616,authors,Xinyu Zhou; Lovedeep Singh Dhingra; Arya Aminorroaya; Philip Adejumo; Rohan Khera,Xinyu Zhou; Lovedeep Singh Dhingra; Arya Aminorroaya; Philip Adejumo; Rohan Khera,Xinyu Zhou; Lovedeep Singh Dhingra; Arya Aminorroaya; Philip Adejumo; R. Khera,variant
+10.54254/2755-2721/20/20231084,authors,Huanzhang Chen; Yunfan Hou; Tianhao Miao; Jiayu Xue,Chen Huan-zhang; Yunfan Hou; Tianhao Miao; Jia‐Yu Xue,Huanzhang Chen; Yunfan Hou; Tianhao Miao; Jiayu Xue,variant
+10.5121/ijaia.2024.15504,journal,International Journal of Artificial Intelligence &amp; Applications,International Journal of Artificial Intelligence & Applications,International Journal of Artificial Intelligence &amp; Applications,variant
+10.5121/ijaia.2024.15504,authors,Harmanpreet Sidhu; Amr Abdel-Dayem,Harmanpreet Sidhu; Amr Abdel-Dayem,Harmanpreet Sidhu; A. Abdeldayem,variant
+10.23889/ijpds.v10i5.3342,journal,International Journal of Population Data Science,International Journal for Population Data Science,International Journal of Population Data Science,variant
+10.23889/ijpds.v10i5.3342,authors,Gregor Milligan; Elvira Perez Vallejos; Liz Dowthwaite; Aynsley Bernard; James Goulding,Gregor Milligan; Elvira Pérez Vallejos; Liz Dowthwaite; Aynsley Bernard; James Goulding,Gregor Milligan; Elvira Perez Vallejos; Liz Dowthwaite; Aynsley Bernard; James Goulding,variant
+10.1017/nlp.2024.10,year,2025,2024,2024,variant
+10.1017/nlp.2024.10,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1017/nlp.2024.10,authors,Antonio Jesús Tamayo-Herrera; Diego A. Burgos; Alexander Gelbukh,Antonio Tamayo; Diego A. Burgos; Alexander Gelbukh,Antonio Jesús Tamayo-Herrera; Diego A. Burgos; Alexander Gelbukh,variant
+10.1017/nlp.2024.28,year,2025,2024,2024,variant
+10.1017/nlp.2024.28,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1093/bjrai/ubaf010,journal,BJR|Artificial Intelligence,BJR|Artificial Intelligence,BJR Artificial Intelligence,variant
+10.1093/bjrai/ubaf010,authors,Reza Khanmohammadi; Mohammad M Ghassemi; Kyle Verdecchia; Ahmed I Ghanem; Bing Luo; Indrin J Chetty; Hassan Bagher-Ebadian; Farzan Siddiqui; Mohamed Elshaikh; Benjamin Movsas; Kundan Thind,Reza Mohammadi; Mohammad M. Ghassemi; Kyle Verdecchia; A.I. Ghanem; Bing Luo; Indrin J. Chetty; Hassan Bagher-Ebadian; Farzan Siddiqui; Mohamed A. Elshaikh; Benjamin Movsas; Kundan Thind,Reza Khanmohammadi; M.M. Ghassemi; K. Verdecchia; A. Ghanem; Bing Luo; I.J. Chetty; H. Bagher-Ebadian; Farzan Siddiqui; Mohamed Elshaikh; Benjamin Movsas; Kundan Thind,variant
+10.1017/nlp.2024.33,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.4018/978-1-7998-0951-7.ch056,year,2020,2019,2020,variant
+10.4018/978-1-7998-0951-7.ch056,authors,Eya Boukchina; Sehl Mellouli; Emna Menif,Eya Boukchina; Sehl Mellouli; Emna Menif,Eya Boukchina; Sehl Mellouli; E. Menif,variant
+10.1182/blood-2023-184756,authors,Arash Maghsoudi; Emily Zhou; Danielle Guffey; Shengling Ma; Xiangjun Xiao; Bo Peng; Christopher I Amos; Abiodun O. Ouyomi; Javad Razjouyan; Ang Li,Arash Maghsoudi; Emily Zhou; Danielle Guffey; Shengling Ma; Xiangjun Xiao; Bo Peng; Christopher I. Amos; Abiodun O. Ouyomi; Javad Razjouyan; Ang Li,A. Maghsoudi; Emily Zhou; Danielle Guffey; Shengling Ma; Xiangjun Xiao; Bo Peng; Christopher I. Amos; Abiodun O. Ouyomi; Javad Razjouyan; Ang Li,variant
+10.2118/216514-ms,journal,ADIPEC,,"Day 3 Wed, October 04, 2023",substantive
+10.2118/216514-ms,authors,M. V. G. Jacinto; M. A. Silva; L. H. L. de Oliveira; D. R. Medeiros; G. C. de Medeiros; T. C. Rodrigues; L. C. de Montalvão; R. V. de Almeida,Marcos Vinícius Gomes Jacinto; M. A. Silva; L. H. L. de Oliveira; David R. Medeiros; G. C. de Medeiros; T. C. Rodrigues; L. C. de Montalvão; Rafael Valladares de Almeida,M. Jacinto; M. A. Silva; L. H. L. De Oliveira; D. R. Medeiros; G. D. De Medeiros; T. C. Rodrigues; L. C. De Montalvão; R. V. de Almeida,variant
+10.23887/janapati.v13i3.82462,authors,Wowon Priatna; Irwan Sembiring; Adi Setiawan; Iwan Iwan Setyawan,Wowon Priatna; Irwan Sembiring; Adi Setiawan; Iwan Setyawan,Wowon Priatna; Irwan Sembiring; Adi Setiawan; Iwan Iwan Setyawan,variant
+10.3390/electronics13193876,authors,Isidoros Perikos; Spyro Souli,Isidoros Perikos; Spyro Souli,I. Perikos; Spyro Souli,variant
+10.36548/jiip.2025.2.005,authors,Dvijesh Bhatt; Priyank Thakkar,Dvijesh Bhatt; Priyank Thakkar,Dvijesh Bhatt; P. Thakkar,variant
+10.32628/ijsrset25122197,year,2025,2025,2024,variant
+10.32628/ijsrset25122197,journal,"International Journal of Scientific Research in Science, Engineering and Technology",International Journal of Scientific Research in Science Engineering and Technology,"International Journal of Scientific Research in Science, Engineering and Technology",variant
+10.1017/nlp.2024.56,year,2025,2024,2024,variant
+10.1017/nlp.2024.56,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1259/bjr.20220769,journal,The British Journal of Radiology,British Journal of Radiology,The British journal of radiology,variant
+10.1259/bjr.20220769,pages,,20220769-20220769,"
+          20220769
+        ",variant
+10.1259/bjr.20220769,authors,Eric Yang; Matthew D Li; Shruti Raghavan; Francis Deng; Min Lang; Marc D Succi; Ambrose J Huang; Jayashree Kalpathy-Cramer,Eric Yang; Matthew Li; Shruti Raghavan; Francis Deng; Min Lang; Marc D. Succi; Ambrose J. Huang; Jayashree Kalpathy-Cramer,Eric Yang; Matthew D. Li; Shruti Raghavan; F. Deng; M. Lang; M. Succi; A. Huang; Jayashree Kalpathy-Cramer,variant
+10.4018/978-1-7998-7728-8.ch007,journal,Advances in Computational Intelligence and Robotics,Advances in computational intelligence and robotics book series,Advances in Computational Intelligence and Robotics,variant
+10.3390/app13063594,authors,Rodrigo Alfaro; Héctor Allende-Cid; Héctor Allende,Rodrigo Alfaro; Héctor Allende‐Cid; Héctor Allende,R. Alfaro; H. Allende-Cid; H. Allende,variant
+10.1093/oxfordhb/9780199573691.013.005,authors,Constantin Orasan; Ruslan Mitkov,Constantin Orǎsan; Ruslan Mitkov,Constantin Orasan; R. Mitkov,variant
+10.3384/ecp211010,authors,Sarah Löber; Björn Rudzewitz; Daniela Verratti Souto; Luisa Ribeiro-Flucht; Xiaobin Chen,Sarah Löber; Björn Rudzewitz; Daniela Verratti Souto; Luisa Ribeiro-Flucht; Xiaobin Chen,Sarah Löber; Björn Rudzewitz; Daniela Souto; Luisa Ribeiro-Flucht; Xiaobin Chen,variant
+10.4018/978-1-7998-4240-8.ch003,year,2021,2020,2021,variant
+10.4018/978-1-7998-4240-8.ch003,journal,Advances in Business Information Systems and Analytics,Advances in business information systems and analytics book series,,substantive
+10.4018/978-1-7998-4240-8.ch003,authors,Gunjan Ansari; Shilpi Gupta; Niraj Singhal,Gunjan Ansari; Shilpi Gupta; Niraj Singhal,Gunjan Ansari; Shilpi Gupta; N. Singhal,variant
+10.4018/978-1-7998-4240-8.ch002,year,2021,2020,2021,variant
+10.4018/978-1-7998-4240-8.ch002,journal,Advances in Business Information Systems and Analytics,Advances in business information systems and analytics book series,,substantive
+10.1017/9781009070447,journal,,Cambridge University Press eBooks,,substantive
+10.1093/oxfordhb/9780199573691.013.46,authors,Kevin Bretonnel Cohen,Kevin Bretonnel Cohen,K. Cohen,variant
+10.1017/nlp.2024.63,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1017/nlp.2024.63,authors,Arif Görkem Özer; Recep Firat Cekinel; Ismail Hakki Toroslu; Pinar Karagoz,Arif Görkem Özer; Recep Fırat Çekinel; İsmail Hakkı Toroslu; Pınar Karagöz,A. Özer; R. Çekinel; I. H. Toroslu; Pinar Karagoz,variant
+10.1017/nlp.2024.51,year,2025,2024,2024,variant
+10.1017/nlp.2024.51,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.4018/978-1-7998-1159-6.ch011,year,2020,2019,2020,variant
+10.4018/978-1-7998-1159-6.ch011,journal,Advances in Computer and Electrical Engineering,Advances in computer and electrical engineering book series,Advances in Computer and Electrical Engineering,variant
+10.4018/978-1-7998-1159-6.ch011,authors,Sumathi S.; Rajkumar S.; Indumathi S.,S. Sumathi; S. Rajkumar; S. Indumathi,S. S.; R. S.; I. S,variant
+10.1145/3587266,pages,1-11,1-11,1 - 11,variant
+10.1177/14604582221131198,authors,Allard W Olthof; Peter MA van Ooijen; Ludo J Cornelissen,A Olthof; Peter M. A. van Ooijen; L. J. Cornelissen,A. Olthof; P. V. van Ooijen; L. Cornelissen,variant
+10.4018/978-1-7998-7728-8.ch009,journal,Advances in Computational Intelligence and Robotics,Advances in computational intelligence and robotics book series,Advances in Computational Intelligence and Robotics,variant
+10.4018/978-1-7998-7728-8.ch009,authors,Jayashree Rajesh; Priya Chitti Babu,J. S. Rajesh; Priya Chitti Babu,J. Rajesh; P. C. Babu,variant
+10.5121/csit.2021.112305,authors,Ishika Godage; Ruvan Weerasignhe; Damitha Sandaruwan,Ishika Godage; Ruvan Weerasignhe; Damitha Sandaruwan,Ishika Godage; Ruvan Weerasignhe; D. Sandaruwan,variant
+10.1017/nlp.2025.10007,journal,Natural Language Processing,Natural language processing.,Natural Language Processing,variant
+10.1017/nlp.2025.10007,authors,Robert Dale,Robert Dale,R. Dale,variant
+10.4018/978-1-7998-4240-8.ch010,year,2021,2020,2021,variant
+10.4018/978-1-7998-4240-8.ch010,journal,Advances in Business Information Systems and Analytics,Advances in business information systems and analytics book series,Advances in Business Information Systems and Analytics,variant
+10.4018/978-1-7998-4240-8.ch010,authors,Matthias Hölscher; Rudiger Buchkremer,Matthias Hölscher; Rüdiger Buchkremer,Matthias Hölscher; Rüdiger Buchkremer,variant
+10.11591/ijai.v13.i3.pp3466-3477,journal,IAES International Journal of Artificial Intelligence (IJ-AI),IAES International Journal of Artificial Intelligence,IAES International Journal of Artificial Intelligence (IJ-AI),variant
+10.11591/ijai.v13.i3.pp3466-3477,authors,Jayanth Chikkarangaiah; Adarsh Uday; David De Hilster; Shobha Gangadhar; Jyoti Shetty,Jayanth Chikkarangaiah; Adarsh Uday; David de Hilster; G. Shobha; Jyoti Shetty,Jayanth Chikkarangaiah; Adarsh Uday; David De Hilster; Shobha Gangadhar; Jyoti Shetty,variant
+10.1101/2021.04.27.21256212,authors,Fabienne Krauer; Boris V. Schmid,Fabienne Krauer; Boris V. Schmid,F. Krauer; Boris V. Schmid,variant
+10.7763/ijet.2023.v15.1243,authors,Yanyan Chen; Li Lin; Zihan Gong; Wenwen Tan,Yanyan Chen; Lin Li; Zihan Gong; Wenwen Tan,Yanyan Chen; Li Lin; Zihan Gong; Wenwen Tan,variant
+10.55529/jlls.26.7.10,authors,Dr. Meghna Jain,Meghna Jain,Dr. Meghna Jain,variant
+10.5121/csit.2023.130817,authors,Mohammud Shaad Ally Toofanee; Nabeelah Zainab Ally Pooloo; Sabeena Dowlut; Karim Tamine; Damien Sauveron,Mohammud Shaad Ally Toofanee; Nabeelah Pooloo; Sabeena Dowlut; Karim Tamine; Damien Sauveron,Mohammud Shaad Ally Toofanee; Nabeelah Pooloo; Sabeena Dowlut; K. Tamine; D. Sauveron,variant
+10.32628/cseit217688,journal,"International Journal of Scientific Research in Computer Science, Engineering and Information Technology",International Journal of Scientific Research in Computer Science Engineering and Information Technology,"International Journal of Scientific Research in Computer Science, Engineering and Information Technology",variant
+10.1049/ipr2.13315,title,Bootstrapping vision–language transformer for monocular 3D visual grounding,Bootstrapping vision–language transformer for monocular 3D visual grounding,Bootstrapping vision-language transformer for monocular 3D visual grounding,variant
+10.1049/ipr2.13315,journal,IET Image Processing,IET Image Processing,IET Image Process.,variant
+10.31219/osf.io/zrbd4,authors,SDAG Lab,SDAG Lab,S. Lab,variant
+10.1075/nlp.14.11dan,title,"Computational representation of FrameNet for multilingual natural
+								language generation",Computational representation of FrameNet for multilingual naturallanguage generation,Chapter 11. Computational representation of FrameNet for multilingual natural language generation*,variant
+10.1075/nlp.14.11dan,authors,Dana Dannélls; Normunds Grūzītis,Dana Dannélls; Normunds Grūzītis,Dana Dannélls; Normunds Gruzitis,variant
+10.4018/978-1-7998-7728-8.ch006,journal,Advances in Computational Intelligence and Robotics,Advances in computational intelligence and robotics book series,Advances in Computational Intelligence and Robotics,variant
+10.4018/978-1-7998-7728-8.ch006,authors,Belsini Glad Shiya V.; Sharmila K.,Belsini Glad Shiya V.; K. Sharmila,V Belsini Glad Shiya; K. Sharmila,variant
+10.18543/ced.2477,authors,Itziar Gonzalez-Dios; Begoña Altuna,Itziar González-Dios; Begoña Altuna,Itziar Gonzalez-Dios; Begoña Altuna,variant
+10.1049/ipr2.13076,title,Pre‐trained low‐light image enhancement transformer,Pre‐trained low‐light image enhancement transformer,Pre-trained low-light image enhancement transformer,variant
+10.1049/ipr2.13076,journal,IET Image Processing,IET Image Processing,IET Image Process.,variant
+10.69894/20190219,journal,Oil Information Technology Journal,Oil IT Journal.,Oil Information Technology Journal,substantive
+10.69894/20190219,authors,Neil McNaughton,Neil McNaughton,N. McNaughton,variant
+10.4000/books.aaccademia.7420,title,UNITOR @ DANKMEMES: Combining Convolutional Models and Transformer-based architectures for accurate MEME management,UNITOR @ DANKMEMES: Combining Convolutional Models and Transformer-based architectures for accurate MEME management,UNITOR @ DANKMEME: Combining Convolutional Models and Transformer-based architectures for accurate MEME management,variant
+10.4000/books.aaccademia.7420,journal,"EVALITA Evaluation of NLP and Speech Tools for Italian - December 17th, 2020",Accademia University Press eBooks,"EVALITA Evaluation of NLP and Speech Tools for Italian - December 17th, 2020",substantive
+10.4000/books.aaccademia.7420,authors,Claudia Breazzano; Edoardo Rubino; Danilo Croce; Roberto Basili,Claudia Breazzano; Edoardo Rubino; Danilo Croce; Roberto Basili,Claudia Breazzano; E. Rubino; D. Croce; R. Basili,variant
+10.1002/9781118784235.eelt0422,title,Natural Language Processing and Intelligent Computer‐Assisted Language Learning (<scp>ICALL</scp>),Natural Language Processing and Intelligent Computer‐Assisted Language Learning (<scp>ICALL</scp>),Natural Language Processing and Intelligent Computer‐Assisted Language Learning (ICALL),variant
+10.1002/9781118784235.eelt0422,journal,The TESOL Encyclopedia of English Language Teaching,The TESOL Encyclopedia of English Language Teaching,,substantive
+10.5121/csit.2025.151807,authors,Mark Temple-Raston,M. Temple-Raston,M. Temple-Raston,variant
+10.1055/s-0043-1768752,pages,244-252,244-252,244 - 252,variant
+10.1055/s-0043-1768752,authors,Cyril Grouin; Natalia Grabar,Cyril Grouin; Natalia Grabar; Section Editors for the IMIA Yearbook Section on Natural Language Processing,Cyril Grouin; Natalia Grabar,variant
+10.5121/ijnlc.2023.12401,journal,International Journal on Natural Language Computing,International Journal on Natural Language Computing,ArXiv,substantive
+10.5121/ijnlc.2023.12401,volume,12,12,abs/2308.16615,substantive
+10.5121/ijnlc.2023.12401,authors,Lossan Bonde; Severin Dembele,Lossan Bondé; Severin Dembele,Lossan Bonde; Severin Dembele,variant
+10.31449/inf.v46i7.4247,journal,Informatica,Informatica,Informatica (Slovenia),substantive
+10.54691/bcpbm.v38i.4198,journal,BCP Business &amp; Management,BCP Business & Management,BCP Business &amp; Management,variant
+10.52783/jes.6788,authors,Deepa Shukla,Deepa Shukla,Dr Deepa Shukla; Dr. Sunil Gupta,variant
+10.7494/dmms.2020.14.2.4379,authors,Bartłomiej Gaweł; Andrzej Paliński,Bartłomiej Gaweł; Andrzej Paliński,B. Gaweł; Andrzej Paliński,variant
+10.62517/jel.202414505,journal,Journal of Economics and Law,Journal of economics and law.,Journal of Economics and Law,variant
+10.47473/2020rmm0081,title,Artificial Intelligence: the Application of Machine Learning and Predictive Analytics in  Credit Risk,Artificial Intelligence: the Application of Machine Learning and Predictive Analytics in Credit Risk,Artificial Intelligence: the Application of Machine Learning and Predictive Analytics in Credit Risk,variant
+10.47473/2020rmm0081,journal,Risk Management Magazine,Risk Management Magazine,,substantive
+10.47473/2020rmm0081,authors,Stefano Bonini; Giuliana Caivano,Stefano Bonini; Giuliana Caivano; Giuliana Caivano; Accenture,S. Bonini; Cerved; Giulia Caivano,variant
+10.36948/ijfmr.2025.v07i02.43331,authors,Vishali G; Elaiyaraja A,G Vishali; A Elaiyaraja,V. G; E. A,variant
+10.37394/23201.2022.21.12,authors,Zaynab Hjouji; Mohamed M’hamdi,Zaynab Hjouji; Mohamed M’hamdi,Zaynab Hjouji; M. M’hamdi,variant
+10.54254/2754-1169/46/20230356,journal,"Advances in Economics, Management and Political Sciences",Advances in Economics Management and Political Sciences,"Advances in Economics, Management and Political Sciences",variant
+10.2478/cait-2024-0034,pages,22-44,22-44,22 - 44,variant
+10.2478/cait-2024-0034,authors,Umangbhai Soni; Gordhan Jethava; Amit Ganatra,Umang Soni; Gordhan Jethava; Amit Ganatra,Umangbhai Soni; Gordhan Jethava; A. Ganatra,variant
+10.3390/jrfm18090520,authors,Garnik Arakelyan; Armen Ghazaryan,Garnik Arakelyan; ARMEN GHAZARYAN,Garnik Arakelyan; A. Ghazaryan,variant
+10.1515/jisys-2018-0058,year,2019,2018,2018,variant
+10.1515/jisys-2018-0058,pages,640-652,640-652,640 - 652,variant
+10.48001/joitml.2024.1219-23,journal,Journal of IoT and Machine Learning,Journal of IoT and Machine Learning.,Journal of IoT and Machine Learning,variant
+10.47473/2020rmm0108,authors,Paolo Di Biasi; Rita Gnutti; Andrea Resti; Daniele Vergari,Paolo Di Biasi; Rita Gnutti; Andrea Resti; Daniele Vergari; Andrea Resti; Daniele Vergari; Crif,Paolo Di Biasi; Rita Gnutti; Andrea Resti; D. Vergari,variant
+10.47363/jaicc/2024(3)275,journal,Journal of Artificial Intelligence &amp; Cloud Computing,Journal of Artificial Intelligence & Cloud Computing,Journal of Artificial Intelligence &amp; Cloud Computing,variant
+10.47363/jaicc/2024(3)275,authors,Reshma Sudra,Reshma Sudra; Reshma Sudra,Reshma Sudra,variant
+10.37394/23202.2024.23.4,authors,C. L. Perera; S. C. Premaratne,Carmen Laura Perera; S. C. Premaratne,C. Perera; S. Premaratne,variant
+10.54691/bcpbm.v23i.1470,journal,BCP Business &amp; Management,BCP Business & Management,BCP Business &amp; Management,variant
+10.4018/ijitsa.324067,journal,International Journal of Information Technologies and Systems Approach,International Journal of Information Technologies and Systems Approach,Int. J. Inf. Technol. Syst. Approach,substantive
+10.1186/s40854-022-00366-1,authors,Andrés Alonso Robisco; José Manuel Carbó Martínez,Andrés Alonso-Robisco; José Manuel Carbó Martínez,Andrés Alonso Robisco; José Manuel Carbó Martínez,variant
+10.65301/iitm.2023.14.2.438,title,Articial Intelligence &amp;amp; Machine Learning Models for Credit Scoring and Risk Management,Articial Intelligence &amp;amp; Machine Learning Models for Credit Scoring and Risk Management,Articial Intelligence & Machine Learning Models for Credit Scoring and Risk Management,variant
+10.1111/risa.17679,year,2025,2024,2024,variant
+10.1111/risa.17679,pages,4135-4156,4135-4156,4135 - 4156,variant
+10.1111/risa.17679,authors,Yujia Chen; Raffaella Calabrese; Belen Martin‐Barragan,Yujia Chen; Raffaella Calabrese; Belén Martín-Barragán,Yujia Chen; Raffaella Calabrese; Belén Martín-Barragán,variant
+10.47363/jaicc/2022(1)e102,journal,Journal of Artificial Intelligence &amp; Cloud Computing,Journal of Artificial Intelligence & Cloud Computing,Journal of Artificial Intelligence &amp; Cloud Computing,variant
+10.47363/jaicc/2022(1)e102,authors,Goutham Sabbani,Goutham Sabbani; MSc FinTech (UK),Goutham Sabbani,variant
+10.1007/s44176-025-00043-4,authors,Jacob Ford,Jesse Ford,Jacob Ford,variant
+10.52783/jes.1807,authors,"Pankaj Malik, Ankita Chourasia, Rakesh Pandit, Sheetal Bawane, Jayesh Surana",Ankita Chourasia Pankaj Malik,"Pankaj Malik, Ankita Chourasia, Rakesh Pandit, Sheetal Bawane, Jayesh Surana",variant
+10.3390/forecast7030035,authors,Lyne Imene Souadda; Ahmed Rami Halitim; Billel Benilles; José Manuel Oliveira; Patrícia Ramos,Lyne Imene Souadda; Ahmed Rami Halitim; Billel Benilles; José Manuel Oliveira; Patrícia Ramos,Lyne Imene Souadda; Ahmed Rami Halitim; Billel Benilles; J. Oliveira; Patrícia Ramos,variant
+10.29303/akurasi.v8i1.662,journal,Akurasi : Jurnal Studi Akuntansi dan Keuangan,Akurasi Jurnal Studi Akuntansi dan Keuangan,Akurasi : Jurnal Studi Akuntansi dan Keuangan,variant
+10.3390/jrfm18010023,authors,Rakshith Bhandary; Bidyut Kumar Ghosh,Rakshith Bhandary; Bidyut Kumar Ghosh,Rakshith Bhandary; B. Ghosh,variant
+10.5455/jcsi.20241231072950,journal,Journal of Computer Sciences and Informatics,Journal of Computer Sciences and Informatics.,Journal of Computer Sciences and Informatics,variant
+10.5455/jcsi.20241231072950,authors,Madiha Madiha; Iban Bukhari; Gul Khan; Sanjai Kumar,Madiha Madiha; Iddrishu Bukhari; Gul Zameen Khan; Sanjai Kumar,M. Madiha; Iban Bukhari; Gul Khan; Sanjai Kumar,variant
+10.52174/1829-0280_2022.5-123,authors,ARMEN GHAZARYAN; LIANA GRIGORYAN; GARNIK ARAKELYAN,ARMEN GHAZARYAN; LIANA GRIGORYAN; Garnik Arakelyan,A. Ghazaryan; Liana Grigoryan; Garnik Arakelyan,variant
+10.33736/jcsi.4761.2022,authors,Pei Swee Chong; Jane Labadin; Farid Meziane,Pei Swee Chong; Jane Labadin; Farid Meziane,Pei Swee Chong; J. Labadin; F. Meziane,variant
+10.33003/fjs-2024-0806-2893,authors,Abba Bello Muhammad; Ishaq O. Olawoyin; Abubakar Yahaya; S. U. Gulumbe; Abdullahi. A. Muhammad; Iliyasu Abubakar Salisu,Abba Bello Muhammad; Ishaq O. Olawoyin; Abubakar Yahaya; S. U. Gulumbe; Arz Muhammad; Iliyasu Abubakar Salisu,Abba Bello Muhammad; I. Olawoyin; Abubakar Yahaya; S. U. Gulumbe; Abdullahi. A. Muhammad; I. Salisu,variant
+10.1051/itmconf/20257801017,authors,Han Du; Yang Tang; Jin Tao,Han Du; Yang Tang; Tao Jin,Han Du; Yang Tang; Jindian Tao,variant
+10.48175/ijarsct-11139,journal,"International Journal of Advanced Research in Science, Communication and Technology",International Journal of Advanced Research in Science Communication and Technology,"International Journal of Advanced Research in Science, Communication and Technology",variant
+10.48175/ijarsct-11139,authors,Sandeep Shinde; Satish Kale,Sandip Shinde; Satish D. Kale,Sandeep Shinde; Satish Kale,variant
+10.1007/s44230-023-00035-1,pages,232-243,232-243,232 - 243,variant
+10.1007/s44230-023-00035-1,authors,Charles Guan; Hendra Suryanto; Ashesh Mahidadia; Michael Bain; Paul Compton,Charles Guan; Hendra Suryanto; Ashesh Mahidadia; Michael Bain; Paul Compton,Charles Guan; Hendra Suryanto; Ashesh Mahidadia; Michael Bain; P. Compton,variant
+10.54254/2755-2721/48/20241332,authors,Xinyu Li,Xinyu Li,Xinyue Li,variant
+10.33908/ef.2024.3.1,journal,Economy &amp; finance,Economy & finance,Economy &amp; finance,variant
+10.1155/2022/9007140,authors,Mingtao Sun; Ying Li,Sun Mingtao; Ying Li,Mingtao Sun; Ying Li,variant
+10.38124/ijisrt/25oct1604,authors,Tsetsegjargal Ulambayar; Otgonsuren Gotov,Tsetsegjargal Ulambayar; Otgonsuren Gotov,Tsetsegjargal Ulambayar; O. Gotov,variant
+10.3390/jrfm13080180,journal,Journal of Risk and Financial Management,Journal of risk and financial management,,substantive
+10.3390/jrfm13080180,pages,180,180-180,180,variant
+10.3390/jrfm13080180,authors,Bernard Dushimimana; Yvonne Wambui; Timothy Lubega; Patrick E. McSharry,Bernard Dushimimana; Yvonne Wambui; Timothy Lubega; Patrick McSharry,Bernard Dushimimana; Yvonne Wambui; T. Lubega; P. McSharry,variant
+10.16930/2237-7662202535262,authors,Alex Giovani de Assis; Sonia Rosa Arbues Decoster,Alex Giovani de Assis; Sonia Rosa Arbues Decoster,Alex Giovani de Assis; S. Decoster,variant
+10.3390/risks13060116,authors,Nazário Augusto de Oliveira; Leonardo Fernando Cruz Basso,Nazário Augusto de Oliveira; Leonardo Fernando Cruz Basso,Nazário Augusto de Oliveira; L. Basso,variant
+10.2478/picbe-2025-0102,journal,Proceedings of the International Conference on Business Excellence,Proceedings of the ... International Conference on Business Excellence,Proceedings of the International Conference on Business Excellence,variant
+10.2478/picbe-2025-0102,pages,1294-1308,1294-1308,1294 - 1308,variant
+10.2478/picbe-2025-0102,authors,Mohammad Sadegh Salem,Manel Ben Salem,M. S. Salem,variant
+10.1142/s0217590825500286,authors,ZHANG YANG; JIANXIONG LIN; YIHE QIAN; LIANJIE SHU,Yang Zhang; Lin Jian-xiong; Yihe Qian; Lianjie Shu,Yang Zhang; Jianxiong Lin; Yihe Qian; Lianjie Shu,variant
+10.1051/shsconf/202317003023,authors,Jiankun Hu; Haiji Wang; Xueying Lu,Jiankun Hu; Haiji Wang; Xueying Lu,Jiankun Hu; Haiji Wang; X. Lu,variant
+10.30574/ijsra.2024.12.2.1467,authors,Bibitayo Ebunlomo Abikoye; Cedrick Agorbia-Atta,Bibitayo Ebunlomo Abikoye; Cedrick Agorbia-Atta,B. Abikoye; Cedrick Agorbia-Atta; J. Noriega; Luis Antonio Rivera; Jose Alfredo Herrera,variant
+10.54254/2755-2721/2025.ld30225,authors,Minxi Mo,Martella Mo,Minxi Mo,variant
+10.3390/diagnostics13091532,authors,Sajid Nazir; Mohammad Kaleem,Sajid Nazir; Mohammad Kaleem,S. Nazir; Mohammad Kaleem,variant
+10.4018/978-1-5225-6316-7.ch006,year,2019,2018,2019,variant
+10.4018/978-1-5225-6316-7.ch006,journal,Advances in Medical Technologies and Clinical Practice,Advances in medical technologies and clinical practice book series,Advances in Medical Technologies and Clinical Practice,variant
+10.4018/978-1-5225-6316-7.ch006,authors,R. Meena Prakash; Shantha Selva Kumari R.,Rıshı Prakash; Shantha Selva Kumari R.,R. Prakash; R. Kumari,variant
+10.3390/jimaging7040074,authors,Yudong Zhang; Juan Manuel Gorriz; Zhengchao Dong,Yudong Zhang; J. M. Górriz; Zhengchao Dong,Yudong Zhang; J. Górriz; Z. Dong,variant
+10.1093/noajnl/vdaa092,pages,iv35-iv41,iv35-iv41,iv35 - iv41,variant
+10.1093/noajnl/vdaa092,authors,Benedikt Wiestler; Bjoern Menze,Benedikt Wiestler; Bjoern Menze,B. Wiestler; Bjoern H Menze,variant
+10.3389/fmats.2025.1583615,authors,Li Lu; Mingpei Liang,Lu Li; Mingpei Liang,Li Lu; Mingpei Liang,variant
+10.54254/2755-2721/41/20230761,authors,Lang Zuo,Lang Zuo,Lan Zuo,variant
+10.2174/0115734056261849231207055304,title,"An Evaluation Analysis for Computed Tomography Image Quality of Primary
+Liver Cancer Lesions Based on Deep Learning Image Reconstruction",An Evaluation Analysis for Computed Tomography Image Quality of PrimaryLiver Cancer Lesions Based on Deep Learning Image Reconstruction,An Evaluation Analysis for Computed Tomography Image Quality of Primary Liver Cancer Lesions Based on Deep Learning Image Reconstruction.,variant
+10.2174/0115734056261849231207055304,journal,Current Medical Imaging Formerly Current Medical Imaging Reviews,Current Medical Imaging Formerly Current Medical Imaging Reviews,Current medical imaging,substantive
+10.2174/0115734056261849231207055304,pages,,e15734056261849-e15734056261849,"
+          1-6
+        ",substantive
+10.2174/0115734056261849231207055304,authors,Yan Sun; De-zheng Sun; Chun-Lei Han,Yan Sun; Dezheng Sun; Chunlei Han,Yan Sun; Dezheng Sun; Chunyao Han,variant
+10.1142/s0219467822400137,year,2023,2022,2022,variant
+10.1142/s0219467822400137,journal,International Journal of Image and Graphics,International Journal of Image and Graphics,Int. J. Image Graph.,substantive
+10.1142/s0219467822400137,authors,E. Srinivasa Rao; Ch. Raghava Prasad,E. Sreenivasa Rao; Ch. Raghava Prasad,E. S. Rao; C. Prasad,variant
+10.52783/cana.v32.3438,authors,Jihane Ben Slimane,Jihane Ben Slimane,J. B. Slimane; Albia Maqbool; Ahmad Alshammari; Dhouha Choukaier; Mahmoud Salaheldin Elsayed; Rabie Ahmed,variant
+10.3389/fpubh.2023.1273253,authors,Mengfang Li; Yuanyuan Jiang; Yanzhou Zhang; Haisheng Zhu,Mengfang Li; Yuanyuan Jiang; Yanzhou Zhang; Zhu Haisheng,Mengfang Li; Yuanyuan Jiang; Yanzhou Zhang; Haisheng Zhu,variant
+10.18178/joig.12.3.215-227,authors,Ali H. Abdulwahhab; Noof T. Mahmood; Ali Abdulwahhab Mohammed; Indrit Myderrizi; Mustafa Hamid Al-Jumaili,Ali H. Abdulwahhab; Noof T. Mahmood; Ali H. Abdulwahhab; Indrıt Myderrizi; Mustafa Hamid Al-Jumaili,A. Abdulwahhab; Noof T. Mahmood; Ali Abdulwahhab Mohammed; I. Myderrizi; M. AL-Jumaili,variant
+10.48175/ijarsct-18408,journal,"International Journal of Advanced Research in Science, Communication and Technology",International Journal of Advanced Research in Science Communication and Technology,"International Journal of Advanced Research in Science, Communication and Technology",variant
+10.48175/ijarsct-18408,authors,Sam Sudhakar J; Dr. Krithika. D. R.,Sam Sudhakar J; Krithika. D. R.,Sam Sudhakar J; Dr. Krithika. D. R.,variant
+10.52783/jes.2591,authors,Rudresh Shirwaikar,Rudresh Deepak Shirwaikar,R. Shirwaikar; Dr. V. Anitha; Dr. Vuda Sreenivasa; Rao; Ashish Kumar Kaushal; Dr. Shital Kakad; Dr. Mohammad Ahmar Khan,variant
+10.1101/2024.02.03.24302291,authors,Faisal Ahmed; Baris Coskunuzer,Faisal Ahmed; Barış Coşkunuzer,Faisal Ahmed; Member Ieee Baris Coskunuzer,variant
+10.3390/jimaging8060155,authors,Kyriakos D. Apostolidis; George A. Papakostas,Kyriakos D. Apostolidis; George A. Papakostas,Kyriakos D. Apostolidis; G. Papakostas,variant
+10.59544/wobh4884/icricc23p26,authors,Anu Rakhi PS; Rajesh RS,Anu Rakhi PS; Rajesh RS,Anushalin P.S; Rajesh Rs,variant
+10.1101/2024.10.31.24316486,authors,Gaku Kondo,G. Kondo,G. Kondo,variant
+10.1101/580852,authors,Ying Liu; Feixiao Long,Ying Liu; Feixiao Long,Y. Liu; Feixiao Long,variant
+10.52783/jes.6263,title,Navigating the Depths:  A Comprehensive study of Deep Learning and its Advancements in Medical Image Analysis,Navigating the Depths: A Comprehensive study of Deep Learning and its Advancements in Medical Image Analysis,Navigating the Depths: A Comprehensive study of Deep Learning and its Advancements in Medical Image Analysis,variant
+10.52783/jes.6263,authors,Venkata Sai Prasad Sunkara,Venkata Sai Prasad Sunkara,V. Sai; Venkata Sai Prasad Sunkara; Leela Kumari Balivada,variant
+10.4018/978-1-7998-6690-9.ch008,year,2021,2020,2021,variant
+10.4018/978-1-7998-6690-9.ch008,journal,Advances in Computational Intelligence and Robotics,Advances in computational intelligence and robotics book series,Handbook of Research on Deep Learning-Based Image Analysis Under Constrained and Unconstrained Environments,substantive
+10.4018/978-1-7998-6690-9.ch008,authors,Vijayarajan Rajangam; Sangeetha N.; Karthik R.; Kethepalli Mallikarjuna,Vijayarajan Rajangam; N. Sangeetha; R. Karthik; Kethepalli Mallikarjuna,Vijayarajan Rajangam; S. N.; K. R.; Kethepalli Mallikarjuna,variant
+10.30574/wjarr.2024.21.2.0294,authors,Khushboo Ansarul-Haque Shaikh,Khushboo Ansarul-Haque Shaikh,K. Shaikh; Khushboo Ansarul-Haque; Shaikh,variant
+10.1166/jmihi.2020.2892,journal,Journal of Medical Imaging and Health Informatics,Journal of Medical Imaging and Health Informatics,J. Medical Imaging Health Informatics,substantive
+10.1093/mictod/qaae082,authors,Sreenivas Bhattiprolu,Sreenivas Bhattiprolu,S. Bhattiprolu,variant
+10.21928/uhdjst.v4n2y2020.pp75-90,journal,UHD Journal of Science and Technology,UHD Journal of Science and Technology,,substantive
+10.21928/uhdjst.v4n2y2020.pp75-90,authors,Bakhtyar Ahmed Mohammed; Muzhir Shaban Al-Ani,Bakhtyar Ahmed Mohammed; Muzhir Shaban Al-Ani,Bakhtyar Ahmed Mohammed; M. Al-Ani,variant
+10.1177/14604582241255584,authors,Vertika Agarwal; MC Lohani; Ankur Singh Bist,Vertika Agarwal; MC Lohani; Ankur Singh Bist,Vertika Agarwal; MC Lohani; A. Bist,variant
+10.47363/jaicc/2023(2)388,journal,Journal of Artificial Intelligence &amp; Cloud Computing,Journal of Artificial Intelligence & Cloud Computing,Journal of Artificial Intelligence &amp; Cloud Computing,variant
+10.47363/jaicc/2023(2)388,authors,Janardhana Rao Sunkara,Janardhana Rao Sunkara,J. Sunkara,variant
+10.1155/2021/6215281,journal,Computational Intelligence and Neuroscience,Computational Intelligence and Neuroscience,Comput. Intell. Neurosci.,substantive
+10.1155/2021/6215281,authors,Adekanmi Adeyinka Adegun; Serestina Viriri; Roseline Oluwaseun Ogundokun,Adekanmi Adeyinka Adegun; Serestina Viriri; Roseline Oluwaseun Ogundokun,A. Adegun; Serestina Viriri; R. Ogundokun,variant
+10.47715/jpc.978-93-91303-40-2,journal,,Jupiter Publications Consortium eBooks,,substantive
+10.47715/jpc.978-93-91303-40-2,authors,Dr. S. Mohankumar; Kavita Bhatt,S. Mohan Kumar; Kavita Bhatt,M Kumar S; Kavita Bhatt,variant
+10.1002/ima.23173,authors,Zahraa Al‐Milaji; Hayder Yousif,Zahraa Al‐Milaji; Hayder Yousif,Zahraa Al-Milaji; Hayder Yousif,variant
+10.63856/6gghdd64,authors,Dr. Mandeep Kaur,Mandeep Kaur,D. Kaur,variant
+10.56541/rakl2135,authors,Kris McCombe; Stephanie Craig; Jacqueline James; Richard Gault,Kris McCombe; Stephanie G. Craig; Jacqueline A. James; Richard Gault,Kris D. McCombe; Stephanie G Craig; Jacqueline A. James; R. Gault,variant
+10.3390/app13148295,authors,Kusum Lata; Linga Reddy Cenkeramaddi,Kusum Lata; Linga Reddy Cenkeramaddi,K. Lata; Linga Reddy Cenkeramaddi,variant
+10.6913/mrhk.040202,year,2025,2022,2022,substantive
+10.70135/seejph.vi.891,authors,D. Jayasutha; TVS Divakar; P.M.Sithar Selvam; Raja Ambethkar M; P. Vigneshkumar; Sunil Kumar,D. Jayasutha; T. V. S. Divakar; P.M.Sithar Selvam; Raja Ambethkar M; P. Vigneshkumar; Sunil Kumar,D. Jayasutha; T. Divakar; Premkumar Selvam; Raja Ambethkar M; P. Vigneshkumar; Sunil Kumar,variant
+10.3390/app12083997,authors,Andreea Bianca Popescu; Ioana Antonia Taca; Anamaria Vizitiu; Cosmin Ioan Nita; Constantin Suciu; Lucian Mihai Itu; Alexandru Scafa-Udriste,Andreea Bianca Popescu; Ioana Antonia Taca; Anamaria Vizitiu; Cosmin Nita; Constantin Suciu; Lucian Itu; Alexandru Scafa‐Udriște,Andreea Bianca Popescu; Ioana Antonia Taca; A. Vizitiu; C. Nita; C. Suciu; L. Itu; Alexandru Scafa-Udriște,variant
+10.52783/cana.v32.4008,title,A Comprehensive Review of Image-Based Concrete Crack  Analysis Using Deep Learning,A Comprehensive Review of Image-Based Concrete Crack Analysis Using Deep Learning,A Comprehensive Review of Image-Based Concrete Crack Analysis Using Deep Learning,variant
+10.52783/cana.v32.4008,authors,Vidya V V,V Vidya,Ananth Prabhu; Melwin D Souza,variant
+10.35377/saucis.02.01.541366,authors,Pakize Erdoğmuş,Pakize Erdoğmuş,P. Erdoğmuş,variant
+10.58496/bjml/2024/008,authors,M.Sahaya Sheela; S. Gopalakrishnan; I.Parvin Begum; J. Jasmine Hephzipah; M Gopianand; D. Harika,M.Sahaya Sheela; S. Gopalakrishnan; I. Parvin Begum; J. Jasmine Hephzipah; M. Gopianand; D. Harika,M. Sheela; S. Gopalakrishnan; I.Parvin Begum; J. Hephzipah; M. Gopianand; D. Harika,variant
+10.69554/wnob1318,journal,"Journal of Building Survey, Appraisal &amp; Valuation","Journal of building survey, appraisal & valuation","Journal of Building Survey, Appraisal &amp; Valuation",variant
+10.33395/sinkron.v8i2.13584,authors,Fitri Wibowo; Suheri Suheri; Pausta Yugianus,Fitri Wibowo; Suheri Suheri; Pausta Yugianus,F. Wibowo; Suheri Suheri; Pausta Yugianus,variant
+10.3390/su172210313,authors,Dillip Kumar Das,Dillip Kumar Das,D. K. Das,variant
+10.1038/s41597-020-0398-6,authors,Jessica Granderson; Guanjing Lin; Ari Harding; Piljae Im; Yan Chen,Jessica Granderson; Guanjing Lin; Ari Harding; Piljae Im; Yan Chen,J. Granderson; Guanjing Lin; Ari Harding; Piljae Im; Yan Chen,variant
+10.52783/pmj.v34.i4.1866,journal,Panamerican Mathematical Journal,Panamerican mathematical journal.,Panamerican Mathematical Journal,variant
+10.52783/pmj.v34.i4.1866,authors,Monica Kalbande,Monica Kalbande,Monica Kalbande; Y. Gaidhani; Tejaswini Panse; Navnath B. Pokale; Dr. Madhuri A Tayal; Dr. Mininath Bendre,variant
+10.3390/en18051269,authors,Fateme Dinmohammadi; Anaah M. Farook; Mahmood Shafiee,Fateme Dinmohammadi; Anaah M. Farook; Mahmood Shafiee,F. Dinmohammadi; Anaah M. Farook; Mahmood Shafiee,variant
+10.70470/estidamaa/2024/006,journal,ESTIDAMAA,ESTIDAMAA.,ESTIDAMAA,variant
+10.1038/s41597-021-00989-6,authors,Han Li; Zhe Wang; Tianzhen Hong,Han Li; Zhe Wang; Tianzhen Hong,Han Li; Zhe Wang; T. Hong,variant
+10.55529/jeet.36.1.12,title,Development of IoT Enabled Energy Saving Smart Lighting and HVAC System for Building                   Environment,Development of IoT Enabled Energy Saving Smart Lighting and HVAC System for Building Environment,Development of IoT Enabled Energy Saving Smart Lighting and HVAC System for Building Environment,variant
+10.55529/jeet.36.1.12,authors,Lindsey Velany Colaco; Dr. Virani Hassanali; Mr. Mohinish Naik,Lindsey Velany Colaco; Virani Hassanali; Mr. Mohinish Naik,L. Colaco; Dr. Virani Hassanali; M. M. Naik,variant
+10.18510/ijsrtm.2015.348,journal,International Journal of Students' Research in Technology &amp; Management,International Journal of Students Research in Technology & Management,International Journal of Students' Research in Technology & Management,variant
+10.18510/ijsrtm.2015.348,authors,P. Deepak; Z. Anees Hussain,P. Deepak; Zafar Hussain,Deepak P; Z. Hussain,variant
+10.63686/jies.v1i3021,authors,Vulchi Siva Prasad,V. Prasad,Vulchi Siva Prasad,variant
+10.63891/j-mart.v1i4.128,title,Smart Building Energy Management System Using IoT  and Artificial Intelligence,Smart Building Energy Management System Using IoT and Artificial Intelligence,Smart Building Energy Management System Using IoT and Artificial Intelligence,variant
+10.26634/jiot.2.1.20870,authors,Debjit Mukherjee; Sayan Mondal; Darothee Deyashi; Krishna Sarker,Debjit Mukherjee; Sayan Mondal; Darothee Deyashi; Krishna Sarker,Debjita Mukherjee; Sayanton Mondal; Darothee Deyashi; K. Sarker,variant
+10.4018/978-1-5225-7811-6.ch001,journal,Advances in Multimedia and Interactive Technologies,Advances in multimedia and interactive technologies book series,Research Anthology on Smart Grid and Microgrid Development,substantive
+10.4018/978-1-5225-7811-6.ch001,authors,Lipi Chhaya,Lipi Chhaya,L. Chhaya,variant
+10.3390/en13061449,authors,Alessandro Cannavale; Ubaldo Ayr; Francesco Fiorito; Francesco Martellotta,Alessandro Cannavale; Ubaldo Ayr; Francesco Fiorito; Francesco Martellotta,A. Cannavale; U. Ayr; F. Fiorito; F. Martellotta,variant
+10.53759/7669/jmc202505066,authors,Hee Woong Jeong,Hongsik Jeong,Hee-woong Jeong,variant
+10.4018/978-1-7998-7023-4.ch008,authors,Hussain Attia,Hussain Attia,H. Attia,variant
+10.17762/ijritcc.v10i8.5680,authors,Supriya Addanke; R Anandan; P. Venkata Krishna,Supriya Addanke; R. Anandan; P. Venkata Krishna,Supriya Addanke; R. Anandan; P. V. Krishna,variant
+10.62672/joease.v3i3.148,authors,Wildan Arasid; Diky Zakaria; Cep Ubad Abdullah,Wildan Arasid; Diky Zakaria; Cep Ubad Abdullah,W. Arasid; Diky Zakaria; C. U. Abdullah,variant
+10.1007/s12053-023-10088-7,authors,Jenny Palm; Emma Bryngelson,Jenny Palm; Emma Bryngelson,J. Palm; Emma Bryngelson,variant
+10.56982/dream.v2i10.195,journal,"Journal of Digitainability, Realism &amp; Mastery (DREAM)",Journal of Digitainability Realism & Mastery (DREAM),"Journal of Digitainability, Realism &amp; Mastery (DREAM)",variant
+10.47974/jios-1556,authors,Sneha Sneha; Prabh Deep Singh; Vikas Tripathi,Sneha Sneha; Prabhdeep Singh; Vikas Tripathi,Sneha Sneha; P. Singh; Vikas Tripathi,variant
+10.3390/electronics14030407,authors,Zheng Xu; Jemal Abawajy,Zheng Xu; Jemal Abawajy,Zheng Xu; J. Abawajy,variant
+10.1007/s12053-024-10272-3,authors,Amy Van Sant; Omkar Ghatpande; Robin Tuttle; Kim Trenbath,Amy Van Sant; Omkar Ghatpande; Robin Tuttle; Kim Trenbath,Amy Van Sant; Omkar A. Ghatpande; Robin Tuttle; Kim Trenbath,variant
+10.33116/ije.v5i1.114,authors,Laurentius Kevin Hendinata; Ahmad Ilham Rokhul Fikri; Michael Alfano Suprapto,Laurentius Kevin Hendinata; Ahmad Ilham Rokhul Fikri; Michael Alfano Suprapto,Laurentius Kevin Hendinata; A. I. R. Fikri; M. A. Suprapto,variant
+10.2118/211828-ms,journal,ADIPEC,,"Day 1 Mon, October 31, 2022",substantive
+10.55927/fjcis.v4i1.14084,authors,I Wayan Dikse Pancane; Yudi Hermawan; I Nyoman Indra Kumara,I Wayan Dikse Pancane; Yudi Hermawan; I Nyoman Indra Kumara,Wayan Dikse Pancane; Yudi Hermawan; I. Nyoman; I. Kumara; I. Wayan; Dikse Pancane,variant
+10.1007/s12053-023-10097-6,authors,M. Hummel; A. Müller; S. Forthuber; L. Kranzl; B. Mayr; R. Haas,Marcus Hummel; Andreas Müller; Sebastian Forthuber; Lukas Kranzl; Bernhard Mayr; Rüdiger Haas,M. Hummel; A. Müller; S. Forthuber; L. Kranzl; B. Mayr; R. Haas,variant
+10.3390/en14165083,authors,Abdul Hasib Siddique; Sumaiya Tasnim; Fahim Shahriyar; Mehedi Hasan; Khalid Rashid,Abdul Hasib Siddique; Sumaiya Tasnim; Fahim Shahriyar; Mehedi Hasan; K. Rashid,A. Siddique; Sumaiya Tasnim; Fahim Shahriyar; Mehedi Hasan; K. Rashid,variant
+10.21467/proceedings.7.4.5,authors,Jainish Prathmesh Shah,Jainish Prathmesh Shah,Jainish Shah,variant
+10.18540/jcecvl9iss9pp16423-01e,authors,Ochuko Felix Orikpete; Samuel Ikemba; Daniel Raphael Ejike Ewim,Ochuko Felix Orikpete; Samuel Ikemba; Daniel Raphael Ejike Ewim,O. Orikpete; Samuel Ikemba; D. Ewim,variant
+10.71364/ijte.v1i2.9,journal,International Journal of Technology &amp; Energy,International Journal of Technology & Energy,International Journal of Technology &amp; Energy,variant
+10.71364/ijte.v1i2.9,authors,Otnial Anderias Mone; Yustinus Sanda Bungin Ada; Rochani Rochani; Yusak Mukkun; Duma Pabiban; Frans Mangngi,Otnial Anderias Mone; Yustinus Sanda Bungin Ada; Rochani Rochani; Yusak Mukkun; Duma Pabiban; Frans Mangngi,O. A. Mone; Y. S. B. Ada; Rochani Rochani; Yusak Mukkun; Duma Pabiban; Frans Mangngi,variant
+10.26634/jiot.2.2.20808,authors,Gourikrishna J. S.; Ajay Krishnan S. S.; Mukesh M.; Sruthy S. S.; Nisha Evangelin L.,Gourikrishna J. S; Ajay Krishnan S. S.; Mukesh M.; Sruthy S. S.; Nisha Evangelin L,G. J. S.; A. S.; M. M.; Sruthy S. S.; N. L,variant
+10.54914/jtt.v11i1.1897,authors,Ewin Suciana; Muhammad Hudzaifah Nasrullah; Duta Arief Christanto; Dede Cahyadi; Lilik Tiara Giantri,Ewin Suciana; Muhammad Hudzaifah Nasrullah; Duta Arief Christanto; Dede Cahyadi; Lilik Tiara Giantri,Ewin Suciana; M. Nasrullah; Duta Arief Christanto; Dede Cahyadi; Lilik Tiara Giantri,variant
+10.3390/smartcities8030084,authors,Moutaz Haddara; Ingeborg Johnsen; Julie Løes; Karippur Nanda Kumar,Moutaz Haddara; Ingeborg Johnsen; Julie Løes; Nanda Kumar Karippur,M. Haddara; Ingeborg Johnsen; Julie Løes; Karippur Nanda Kumar,variant
+10.3390/su10082620,authors,Susanne Geissler; Doris Österreicher; Ene Macharm,Susanne Geissler; Doris Österreicher; Ene Macharm,S. Geissler; D. Österreicher; Ene Macharm,variant
+10.1520/ssms20200056,journal,Smart and Sustainable Manufacturing Systems,Smart and Sustainable Manufacturing Systems,,substantive
+10.1520/ssms20200056,pages,307-313,307-313,20200056,substantive
+10.1520/ssms20200056,authors,Shane Terry; Prashant Nagapurkar; Sujit Das,Shane Terry; Prashant Nagapurkar; Sujit Das,S. Terry; P. Nagapurkar; Sujit Das,variant
+10.52151/aet2025491.1819,authors,KVR Rao,K. V. Ramana Rao,KVR Rao,variant
+10.3390/buildings11120613,authors,Ali Bagheri; Konstantinos N. Genikomsakis; Sesil Koutra; Vasileios Sakellariou; Christos S. Ioakimidis,Ali Bagheri; Konstantinos N. Genikomsakis; Sesil Koutra; Vasileios I. Sakellariou; Christos S. Ioakimidis,A. Bagheri; K. N. Genikomsakis; Sesil Koutra; Vasileios Sakellariou; C. Ioakimidis,variant
+10.1007/s12053-023-10138-0,authors,Line Valdorff Madsen; Anders Rhiger Hansen; Simon Peter Aslak Kondrup Larsen,Line Valdorff Madsen; Anders Rhiger Hansen; Simon Peter Aslak Kondrup Larsen,Line Valdorff Madsen; A. R. Hansen; Simon Peter Aslak Kondrup Larsen,variant
+10.46557/001c.94671,year,2025,2024,2024,variant
+10.36647/ijermce/10.06.a001,authors,Najmeh Bitaab; Alireza Rahimi; Shima Talebian,Najmeh Bitaab; Alireza Rahimi; Shima Talebian,N. Bitaab; A. Rahimi; Shima Talebian,variant
+10.3390/ma10010053,authors,Onruthai Srirodpai; Jatuphorn Wootthikanokkhan; Saiwan Nawalertpanya; Kitti Yuwawech; Vissanu Meeyoo,Onruthai Srirodpai; Jatuphorn Wootthikanokkhan; Saiwan Nawalertpanya; Kitti Yuwawech; Vissanu Meeyoo,Onruthai Srirodpai; J. Wootthikanokkhan; S. Nawalertpanya; Kitti Yuwawech; V. Meeyoo,variant
+10.64751/ijdim.2025.v4.n3.pp157-163,authors,J. Prashanthi; Ch. Poojitha; T. Maruthi Megansh; K. shiva kumar; Amol rathod,J. Prashanthi; Ch. Poojitha; T. Maruthi Megansh; Keshav Kumar; Akshada Rathod,J. Prashanthi; Ch. Poojitha; T. Maruthi Megansh; K. shiva kumar; Amol rathod,variant
+10.52783/jes.2560,authors,D.Hemanand,D. Hemanand,D.Hemanand; C. Bhuvaneswari; S.Savitha; M.Jothi; R. Rama,variant
+10.3390/iot1010006,authors,William Hurst; Casimiro A. Curbelo Montañez; Nathan Shone,William Hurst; Casimiro Curbelo Montañez; Nathan Shone,William Hurst; C. C. Montañez; Nathan Shone,variant
+10.3390/rs13193847,journal,Remote Sensing,Remote Sensing,Remote. Sens.,variant
+10.3390/rs13193847,pages,3847,3847-3847,3847,variant
+10.3390/rs13193847,authors,Yaa Takyiwaa Acquaah; Balakrishna Gokaraju; Raymond C. Tesiero; Gregory H. Monty,Yaa Takyiwaa Acquaah; Balakrishna Gokaraju; Raymond Tesiero; Gregory H. Monty,Y. Acquaah; B. Gokaraju; Raymond C. Tesiero; G. Monty,variant
+10.32920/ryerson.14649054.v1,year,2023,2021,2013,substantive
+10.1108/ijesm-11-2017-0006,year,2019,2018,2019,variant
+10.1108/ijesm-11-2017-0006,authors,Kiran Ahuja; Arun Khosla,Kiran Ahuja; Arun Khosla,Kiran Ahuja; A. Khosla,variant
+10.59324/ejtas.2024.2(3).43,authors,Aliyu Sabo; Hamza Ozovehe Suleiman; Yakubu Dahiru; Nicholas Daniel Jatau; Abdulmalik Yusuf; Ashaheme Temple Chikodi,Aliyu Sabo; Hamza Ozovehe Suleiman; Yakubu Dahiru; Nicholas Daniel Jatau; Abdulmalik Yusuf; Ashaheme Temple Chikodi,A. Sabo; Hamza Ozovehe Suleiman; Yakubu Dahiru; Nicholas Daniel Jatau; Abdulmalik Yusuf; Ashaheme Temple Chikodi,variant
+10.56134/jst.v4i1.110,authors,M. Ikhsan U; Andani Achmad; Supriadi Sahibu; Nim Von-Lind,Mahanthesha U; Andani Achmad; Supriadi Sahibu; Nim Von-Lind,M. Ikhsan U; Andani Achmad; Supriadi Sahibu; Nim Von-Lind,variant
+10.1007/s12053-023-10146-0,authors,Tensay Hadush Meles; Niall Farrell; John Curtis,Tensay Hadush Meles; Niall Farrell; John Curtis,T. Meles; Niall Farrell; J. Curtis,variant
+10.1007/s12053-024-10280-3,year,2025,2024,2024,variant
+10.1007/s12053-024-10280-3,authors,Mikkel Vindegg; Tom Erik Julsrud,Mikkel Vindegg; Tom Erik Julsrud,Mikkel Vindegg; T. Julsrud,variant
+10.3390/su13168876,authors,Alessio Faccia; Francesco Manni; Fabian Capitanio,Alessio Faccia; Francesco Manni; Fabian Capitanio,Alessio Faccia; F. Manni; F. Capitanio,variant
+10.31763/iota.v5i4.1038,authors,Ida Ayu Putu Ayunda Aprilia Sugiantari,Ida Ayu Putu Ayunda Aprilia Sugiantari,I. G. A. N. Sugiantari,variant
+10.1007/s43621-025-01533-x,authors,Bence Lukács; Robert C. Rickards; Péter Molnár; Alex Suta; Árpád Tóth,Bence Lukács; Robert C. Rickards; Péter Molnár; Alex Suta; Árpád Tóth,Bence Lukács; Robert C. Rickards; Péter Molnár; A. Suta; Árpád Tóth,variant
+10.30871/jaat.v10i2.11261,authors,Tri Wulandari; Syafrida Hani; Maya Sari,Tri Wulandari; Syafrida Hani; Maya Sari,Tri Wulandari; Syafrida Hani; M. Sari,variant
+10.1051/e3sconf/202345101017,authors,Irina N. Tkachenko; Lyudmila A. Ramenskaya,Ирина Ткаченко; Lyudmila A. Ramenskaya,I. N. Tkachenko; L. A. Ramenskaya,variant
+10.22219/jaa.v7i4.30345,authors,Juli Riyanto Tri Wijaya; Eliada Herwiyanti,Juli Riyanto Tri Wijaya; Eliada Herwiyanti,J. Wijaya; Eliada Herwiyanti,variant
+10.3390/su17177812,authors,Chih-Feng Liao,Chaomei Liao,Chih-Feng Liao,variant
+10.3390/su15010200,authors,Hebah Shalhoob; Khaled Hussainey,Hebah Shalhoob; Khaled Hussainey,Hebah Shalhoob; K. Hussainey,variant
+10.3390/su14137595,authors,Silvia Carnini Pulino; Mirella Ciaburri; Barbara Sveva Magnanelli; Luigi Nasta,Silvia Carnini Pulino; Mirella Ciaburri; Barbara Sveva Magnanelli; Luigi Nasta,Silvia Carnini Pulino; M. Ciaburri; Barbara Sveva Magnanelli; L. Nasta,variant
+10.3390/su16219390,authors,Miao Li; Rajah Rasiah,Miao Li; Rajah Rasiah,Miao Li; R. Rasiah,variant
+10.3390/su9040624,pages,624,624-624,624,variant
+10.61954/2616-7107/2025.9.4-4,authors,Bengü Yardımcı; Banu Esra Aslanertik,Bengü Yardımcı; Banu Esra Aslanertik,Bengü Yardımcı; B. Aslanertik,variant
+10.3390/su13116242,authors,Chammy Lau; Irini Lai Fun Tang; Wilco Chan,Chammy Lau; Irini Lai Fun Tang; Wilco Chan,Chammy Lau; I. L. Tang; W. Chan,variant
+10.24040/aap.2025.22.spec.iss.12-17,journal,Acta Aerarii Publici,Acta aerarii publici.,Acta Aerarii Publici,variant
+10.3390/su9122322,pages,2322,2322-2322,2322,variant
+10.3390/su9122322,authors,Patrycja Hąbek,Patrycja Hąbek,P. Hąbek,variant
+10.3390/su17073033,authors,Ana Moreira; Ana Cláudia Rodrigues; Marisa R. Ferreira,Ana C. Moreira; Ana Cláudia Rodrigues; Marisa R. Ferreira,Ana Moreira; Ana Cláudia Rodrigues; Marisa R. Ferreira,variant
+10.3390/su10124393,authors,Renato Camodeca; Alex Almici; Umberto Sagliaschi,Renato Salvatore Camodeca; Alex Almici; Umberto Sagliaschi,R. Camodeca; Alex Almici; Umberto Sagliaschi,variant
+10.3390/su142315760,authors,Jaime F. Lavin; Alejandro A. Montecinos-Pearce,Jaime F. Lavín; Alejandro Montecinos‐Pearce,Jaime F. Lavín; Alejandro A. Montecinos-Pearce,variant
+10.3390/su17219567,authors,Xiongzhi Wang,Xiongzhi Wang,Xiong-zhi Wang,variant
+10.5430/ijfr.v9n4p19,authors,Nobuhito Ochi,Nobuhito Ochi,N. Ochi,variant
+10.3390/su11174612,authors,Giorgio Mion; Cristian R. Loza Adaui,Giorgio Mion; Cristian R. Loza Adaui,Giorgio Mion; C. R. Loza Adaui,variant
+10.1108/s1479-351220200000034005,journal,Non-Financial Disclosure and Integrated Reporting: Practices and Critical Issues,,,substantive
+10.1108/s1479-351220200000034005,authors,Giorgio Mion; Cristian R. Loza Adaui,Giorgio Mion; Cristian R. Loza Adaui,Giorgio Mion; C. L. Adaui,variant
+10.36948/ijfmr.2024.v06i02.16547,authors,Nandhana K P -; Dr. Swaricha Johri -,K P - Nandhana; Swaricha Johri -,Nandhana K P; Dr. Swaricha Johri,variant
+10.5539/ibr.v11n6p185,pages,185,185-185,185,variant
+10.3390/su12093910,pages,3910,3910-3910,3910,variant
+10.3390/su12093910,authors,Maha Faisal Alsayegh; Rashidah Abdul Rahman; Saeid Homayoun,Maha Faisal Alsayegh; Rashidah Abdul Rahman; Saeid Homayoun,M. Alsayegh; Rashidah Abdul Rahman; Saeid Homayoun,variant
+10.3390/su17198814,authors,Andreas-Errikos Delegkos; Michalis Skordoulis; Petros Kalantonis,Andreas-Errikos Delegkos; Michalis Skordoulis; Petros Kalantonis,A. Delegkos; M. Skordoulis; P. Kalantonis,variant
+10.3390/su13094732,pages,4732,4732-4732,4732,variant
+10.3390/su13094732,authors,Mărioara Beleneși; Victoria Bogdan; Dorina Nicoleta Popa,Belenesi Marioara; Victoria Bogdan; Dorina Nicoleta Popa,Mărioara Beleneși; Victoria Bogdan; D. Popa,variant
+10.3390/su17093836,authors,Mohammed Alomair; Abdelmoneim Bahyeldin Mohamed Metwally,Mohammed Alomair; Abdelmoneim Bahyeldin Mohamed Metwally,Mohammed Alomair; A. Metwally,variant
+10.3390/su172310583,authors,Lianghai Wu; Hao Sun; Liwen Chen,L. J. Wu; Hao Sun; Lejiamei Chen,Lianghai Wu; Hao Sun; Liwen Chen,variant
+10.47191/jefms/v8-i7-67,journal,"Journal of Economics, Finance And Management Studies",Journal of Economics Finance and Management Studies,"Journal of Economics, Finance And Management Studies",variant
+10.47191/jefms/v8-i7-67,authors,"Yuliana Mauren; Dr. Ir. Andam Dewi Syarif, MM",Yuliana Mauren; Ir. Andam Dewi Syarif,Yuliana Mauren; D. Mm,variant
+10.33516/maj.v57i7.68-71p,authors,P. K. Manoj,P K Manoj,P. Manoj,variant
+10.3390/su152416872,authors,Isa Cakir; Philipp Aerni; Manfred Max Bergman; Benjamin Cakir,Isa Cakir; Philipp Aerni; Manfred Max Bergman; Benjamin Cakir,Isa Cakir; P. Aerni; Max Bergman; Benjamin Cakir,variant
+10.60079/aaar.v2i1.167,authors,Margaretha Beatrik Dasinapa,Margaretha Beatrik Dasinapa,M. B. Dasinapa,variant
+10.34659/eis.2025.94.3.1167,authors,Justyna Berniak-Woźny,Justyna Berniak‐Woźny,Justyna Berniak-Woźny,variant
+10.3390/su13158500,authors,Yuexiang Yang; Zhihui Du; Zhen Zhang; Guanqun Tong; Rongxi Zhou,Yuexiang Yang; Zhihui Du; Zhen Zhang; Guanqun Tong; Rongxi Zhou,Yuexiang Yang; Z. Du; Zhen Zhang; Guanqun Tong; Rongxi Zhou,variant
+10.20961/jiep.v24i2.93527,authors,Tabah Rizki; Halim Dedy Perdana,Tabah Rizki; Halim Dedy Perdana,Tabah Rizki; H. Perdana,variant
+10.3390/su14010209,authors,Salim Chouaibi; Matteo Rossi; Dario Siggia; Jamel Chouaibi,Salim Chouaibi; Matteo Rossi; Dario Siggia; Jamel Chouaibi,Salim Chouaibi; M. Rossi; Dario Siggia; Jamel Chouaibi,variant
+10.33005/jasf.v3i1.69,title,"Disclosure on Sustainability Reports, Foreign Board, Foreign Ownership, Indonesia Sustainability Reporting Awards, and Firm Value","Disclosure on Sustainability Reports, Foreign Board, Foreign Ownership, Indonesia Sustainability Reporting Awards, and Firm Value","Disclosure on Sustainability Reports, Foreign Board, Foreign Ownership, Indonesia Sustainability Reporting Awards and Firm Value",variant
+10.1108/sampj-03-2021-0095,year,2022,2021,2021,variant
+10.1108/sampj-03-2021-0095,journal,"Sustainability Accounting, Management and Policy Journal",Sustainability Accounting Management and Policy Journal,"Sustainability Accounting, Management and Policy Journal",variant
+10.1108/sampj-03-2021-0095,authors,Li Li Eng; Mahelet Fikru; Thanyaluk Vichitsarawong,Li Li Eng; Mahelet G. Fikru; Thanyaluk Vichitsarawong,L. Eng; Mahelet G. Fikru; Thanyaluk Vichitsarawong,variant
+10.34190/ecmlg.20.1.2981,journal,European Conference on Management Leadership and Governance,"Proceedings of the ... European conference on management, leadership and governance",European Conference on Management Leadership and Governance,variant
+10.34190/ecmlg.20.1.2981,authors,Ludmila Walaszczyk; Remigiusz Mazur,Ludmiła Walaszczyk; Remigiusz Mazur,L. Walaszczyk; R. Mazur,variant
+10.1108/maj-01-2025-4663,year,2026,2025,2025,variant
+10.1108/maj-01-2025-4663,authors,Maretno Agus Harjoto; Hu Dan Semba,Maretno A. Harjoto; Hu Dan Semba,M. Harjoto; H. D. Semba,variant
+10.21043/aktsar.v7i2.29027,journal,AKTSAR: Jurnal Akuntansi Syariah,AKTSAR Jurnal Akuntansi Syariah,AKTSAR: Jurnal Akuntansi Syariah,variant
+10.3390/su17104392,authors,Donghui Zhao; Sue Ngan; Ainul Jamil; Mohd Salleh; Wan Yusoff,Donghui Zhao; Sue Lin Ngan; Ainul Huda Jamil; Mohd Fairuz Md Salleh; Wan Sallha Yusoff,Donghui Zhao; Sue Lin Ngan; A. H. Jamil; Mohd Fairuz Md Salleh; W. S. Yusoff,variant
+10.3390/su17209272,authors,Qiuxiang Wen; Hui Kang,Qiuxiang Wen; Hui Kang,Qiuxiang Wen; Hui-suk Kang,variant
+10.24042/ijebi.v10i1.23671,authors,Ahmad Juanda; Setu Setyawan; Maryam Shahuneeza Naseer,Ahmad Juanda; Setu Setyawan; Maryam Naseer,A. Juanda; Setu Setyawan; Maryam Shahuneeza Naseer,variant
+10.12776/qip.v28i2.2019,authors,Rizky Eriandani; Wahyu Agus Winarno,Rizky Eriandani; Wahyu Agus Winarno,R. Eriandani; W. Winarno,variant
+10.3390/su14042300,authors,Irina Bogataya; Elena Evstafyeva; Denis Lavrov; Ekaterina Korsakova; Natalya Mukhanova; Svetlana Solyannikova,I.N. Bogataya; E.M. Evstafyeva; Denis Lavrov; Ekaterina Korsakova; Natalya Mukhanova; S. P. Solyannikova,I. Bogataya; E. Evstafyeva; D. Lavrov; Ekaterina Korsakova; N. Mukhanova; S. Solyannikova,variant
+10.28992/ijsam.v6i1.512,title,The  Disclosure  Effect  of  Sustainability  Reporting  and  Financial Statements on Investment Efficiency: Evidence in Indonesia,The Disclosure Effect of Sustainability Reporting and Financial Statements on Investment Efficiency: Evidence in Indonesia,The Disclosure Effect of Sustainability Reporting and Financial Statements on Investment Efficiency: Evidence in Indonesia,variant
+10.28992/ijsam.v6i1.512,authors,Devina Rizky Amalia; Wijaya Triwacananingrum,Devina Rizky Amalia; Wijaya Triwacananingrum,D. Amalia; Wijaya Triwacananingrum,variant
+10.1371/journal.pone.0299707,title,"Green R &amp; D investment, ESG reporting, and corporate green innovation performance","Green R &amp; D investment, ESG reporting, and corporate green innovation performance","Green R & D investment, ESG reporting, and corporate green innovation performance",variant
+10.1371/journal.pone.0299707,pages,e0299707,e0299707-e0299707,e0299707 - e0299707,variant
+10.1371/journal.pone.0299707,authors,Fawad Rauf; Wang Wanqiu; Khwaja Naveed; Yanqiu Zhang,Fawad Rauf; Wanqiu Wang; Khwaja Naveed; Zhang Yan-qiu,F. Rauf; Wanqiu Wang; Khwaja Naveed; Yanqiu Zhang,variant

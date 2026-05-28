@@ -16,12 +16,19 @@ from typing import Dict, List
 
 
 def load_results(path: str) -> List[dict]:
-    """Load verification results from JSONL."""
+    """Load verification results from JSONL, skipping malformed lines."""
     results = []
+    skipped = 0
     with open(path) as f:
         for line in f:
-            if line.strip():
+            if not line.strip():
+                continue
+            try:
                 results.append(json.loads(line))
+            except json.JSONDecodeError:
+                skipped += 1
+    if skipped:
+        print(f"WARNING: skipped {skipped} malformed line(s)")
     return results
 
 
@@ -31,7 +38,7 @@ def compute_db_field_accuracy(results: List[dict], ground_truth: Dict = None) ->
     Without ground truth, measure inter-database agreement.
     With ground truth, measure accuracy against publisher data.
     """
-    databases = ["crossref", "openalex", "s2", "scholar"]
+    databases = ["crossref", "openalex", "s2"]
     fields = ["title", "year", "journal", "volume", "pages", "doi", "authors"]
 
     # Count agreements per DB×field
@@ -102,43 +109,38 @@ def compute_domain_variation(results: List[dict]) -> dict:
 
 def compute_group_comparison(results: List[dict]) -> dict:
     """
-    RQ3: Group A (GS only) vs B (CR+OA+S2) vs C (all four).
-    Measure discrepancy detection rate per group.
+    RQ3: single-source (Group A: CrossRef only) versus three-source
+    (Group B: CrossRef + OpenAlex + Semantic Scholar) verification.
+    Detection rate is the share of *checkable* field comparisons (those with at
+    least two responding sources) that reveal a disagreement.
     """
     groups = {
-        "A_gs_only": ["scholar"],
+        "A_crossref_only": ["crossref"],
         "B_cr_oa_s2": ["crossref", "openalex", "s2"],
-        "C_all_four": ["crossref", "openalex", "s2", "scholar"],
     }
 
-    group_stats = {g: {"detected": 0, "total_fields": 0, "coverage": 0} for g in groups}
+    group_stats = {g: {"detected": 0, "checkable": 0} for g in groups}
 
     for result in results:
         comparisons = result.get("comparisons", {})
         for field, comp in comparisons.items():
             values = comp.get("values", {})
-
             for group_name, group_dbs in groups.items():
-                group_values = {db: v for db, v in values.items() if db in group_dbs and v is not None}
-                group_stats[group_name]["total_fields"] += 1
-
+                group_values = {db: v for db, v in values.items()
+                                if db in group_dbs and v is not None}
                 if len(group_values) >= 2:
-                    # Can detect discrepancy
+                    group_stats[group_name]["checkable"] += 1
                     unique = set(str(v).lower().strip() for v in group_values.values())
                     if len(unique) > 1:
                         group_stats[group_name]["detected"] += 1
 
-                if group_values:
-                    group_stats[group_name]["coverage"] += 1
-
     group_results = {}
     for g, stats in group_stats.items():
         group_results[g] = {
-            "detection_rate": stats["detected"] / max(stats["total_fields"], 1),
-            "coverage_rate": stats["coverage"] / max(stats["total_fields"], 1),
-            "discrepancies_found": stats["detected"],
+            "checkable_comparisons": stats["checkable"],
+            "discrepancies_detected": stats["detected"],
+            "detection_rate": stats["detected"] / max(stats["checkable"], 1),
         }
-
     return group_results
 
 
@@ -243,7 +245,7 @@ def main():
         "rq4_ai_vs_human": ai_human,
         "summary": {
             "total_citations": len(results),
-            "databases_queried": 4,
+            "databases_queried": 3,  # CrossRef, OpenAlex, Semantic Scholar
             "metadata_fields": 7,
         }
     }
